@@ -1,0 +1,5420 @@
+[
+  {
+    "term": "在",
+    "pinyin": "zài",
+    "pron_es": "dzài",
+    "meaning": "existir",
+    "category": "Funcionales"
+  },
+  {
+    "term": "阶段",
+    "pinyin": "jiē duàn",
+    "pron_es": "yiē duàn",
+    "meaning": "escenario",
+    "category": "Otros"
+  },
+  {
+    "term": "什么",
+    "pinyin": "shén me",
+    "pron_es": "shén me",
+    "meaning": "Qué",
+    "category": "Otros"
+  },
+  {
+    "term": "第",
+    "pinyin": "dì",
+    "pron_es": "dì",
+    "meaning": "No.",
+    "category": "Otros"
+  },
+  {
+    "term": "周",
+    "pinyin": "zhōu",
+    "pron_es": "yōu",
+    "meaning": "semana",
+    "category": "Otros"
+  },
+  {
+    "term": "什么时候",
+    "pinyin": "shén me shí hòu",
+    "pron_es": "shén me shí hòu",
+    "meaning": "cuando",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "词汇",
+    "pinyin": "cí huì",
+    "pron_es": "tsí huì",
+    "meaning": "vocabulario",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "一",
+    "pinyin": "yī",
+    "pron_es": "yī",
+    "meaning": "uno",
+    "category": "Otros"
+  },
+  {
+    "term": "为什么",
+    "pinyin": "wèi shén me",
+    "pron_es": "wèi shén me",
+    "meaning": "Por qué",
+    "category": "Otros"
+  },
+  {
+    "term": "在哪里",
+    "pinyin": "zài nǎ lǐ",
+    "pron_es": "dzài nǎ lǐ",
+    "meaning": "Dónde",
+    "category": "Otros"
+  },
+  {
+    "term": "谁",
+    "pinyin": "shuí",
+    "pron_es": "shuí",
+    "meaning": "OMS",
+    "category": "Otros"
+  },
+  {
+    "term": "现在",
+    "pinyin": "xiàn zài",
+    "pron_es": "shiàn dzài",
+    "meaning": "Ahora",
+    "category": "Otros"
+  },
+  {
+    "term": "要",
+    "pinyin": "yào",
+    "pron_es": "yào",
+    "meaning": "desear",
+    "category": "Otros"
+  },
+  {
+    "term": "上",
+    "pinyin": "shàng",
+    "pron_es": "shàng",
+    "meaning": "superior",
+    "category": "Otros"
+  },
+  {
+    "term": "晚上",
+    "pinyin": "wǎn shàng",
+    "pron_es": "wǎn shàng",
+    "meaning": "noche",
+    "category": "Otros"
+  },
+  {
+    "term": "哪里",
+    "pinyin": "nǎ lǐ",
+    "pron_es": "nǎ lǐ",
+    "meaning": "dónde",
+    "category": "Otros"
+  },
+  {
+    "term": "跟",
+    "pinyin": "gēn",
+    "pron_es": "gēn",
+    "meaning": "y",
+    "category": "Otros"
+  },
+  {
+    "term": "人",
+    "pinyin": "rén",
+    "pron_es": "rén",
+    "meaning": "gente",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "多少",
+    "pinyin": "duō shǎo",
+    "pron_es": "duō shǎo",
+    "meaning": "Cuántos",
+    "category": "Otros"
+  },
+  {
+    "term": "多经常",
+    "pinyin": "duō jīng cháng",
+    "pron_es": "duō yīng tsháng",
+    "meaning": "con qué frecuencia",
+    "category": "Otros"
+  },
+  {
+    "term": "和",
+    "pinyin": "hé",
+    "pron_es": "hé",
+    "meaning": "y",
+    "category": "Funcionales"
+  },
+  {
+    "term": "早上",
+    "pinyin": "zǎo shàng",
+    "pron_es": "dzǎo shàng",
+    "meaning": "Mañana",
+    "category": "Otros"
+  },
+  {
+    "term": "不",
+    "pinyin": "bù",
+    "pron_es": "bù",
+    "meaning": "No",
+    "category": "Otros"
+  },
+  {
+    "term": "未来",
+    "pinyin": "wèi lái",
+    "pron_es": "wèi lái",
+    "meaning": "futuro",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "朋友",
+    "pinyin": "péng yǒu",
+    "pron_es": "péng yǒu",
+    "meaning": "amigo",
+    "category": "Otros"
+  },
+  {
+    "term": "多久",
+    "pinyin": "duō jiǔ",
+    "pron_es": "duō yiǔ",
+    "meaning": "cuánto tiempo",
+    "category": "Otros"
+  },
+  {
+    "term": "吗",
+    "pinyin": "ma",
+    "pron_es": "ma",
+    "meaning": "?",
+    "category": "Funcionales"
+  },
+  {
+    "term": "家",
+    "pinyin": "jiā",
+    "pron_es": "yiā",
+    "meaning": "Hogar",
+    "category": "Otros"
+  },
+  {
+    "term": "很少",
+    "pinyin": "hěn shǎo",
+    "pron_es": "hěn shǎo",
+    "meaning": "extraño",
+    "category": "Otros"
+  },
+  {
+    "term": "个",
+    "pinyin": "gè",
+    "pron_es": "gè",
+    "meaning": "individual",
+    "category": "Otros"
+  },
+  {
+    "term": "了",
+    "pinyin": "le",
+    "pron_es": "le",
+    "meaning": "Entiendo",
+    "category": "Funcionales"
+  },
+  {
+    "term": "去",
+    "pinyin": "qù",
+    "pron_es": "tshù",
+    "meaning": "ir",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "本",
+    "pinyin": "běn",
+    "pron_es": "běn",
+    "meaning": "Libro",
+    "category": "Otros"
+  },
+  {
+    "term": "过去",
+    "pinyin": "guò qù",
+    "pron_es": "guò tshù",
+    "meaning": "pasado",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "爸爸",
+    "pinyin": "bà bà",
+    "pron_es": "bà bà",
+    "meaning": "papá",
+    "category": "Otros"
+  },
+  {
+    "term": "二",
+    "pinyin": "èr",
+    "pron_es": "èr",
+    "meaning": "dos",
+    "category": "Otros"
+  },
+  {
+    "term": "手机",
+    "pinyin": "shǒu jī",
+    "pron_es": "shǒu yī",
+    "meaning": "Teléfono móvil",
+    "category": "Otros"
+  },
+  {
+    "term": "妈妈",
+    "pinyin": "mā mā",
+    "pron_es": "mā mā",
+    "meaning": "Madre",
+    "category": "Otros"
+  },
+  {
+    "term": "给",
+    "pinyin": "gěi",
+    "pron_es": "gěi",
+    "meaning": "Dar",
+    "category": "Otros"
+  },
+  {
+    "term": "哪种",
+    "pinyin": "nǎ zhǒng",
+    "pron_es": "nǎ yǒng",
+    "meaning": "Que tipo",
+    "category": "Otros"
+  },
+  {
+    "term": "我",
+    "pinyin": "wǒ",
+    "pron_es": "wǒ",
+    "meaning": "I",
+    "category": "Pronombres"
+  },
+  {
+    "term": "总是",
+    "pinyin": "zǒng shì",
+    "pron_es": "dzǒng shì",
+    "meaning": "siempre",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "朋友家",
+    "pinyin": "péng yǒu jiā",
+    "pron_es": "péng yǒu yiā",
+    "meaning": "casa de un amigo",
+    "category": "Otros"
+  },
+  {
+    "term": "从不",
+    "pinyin": "cóng bù",
+    "pron_es": "tsóng bù",
+    "meaning": "Nunca",
+    "category": "Otros"
+  },
+  {
+    "term": "怎么",
+    "pinyin": "zěn me",
+    "pron_es": "dzěn me",
+    "meaning": "cómo",
+    "category": "Otros"
+  },
+  {
+    "term": "四",
+    "pinyin": "sì",
+    "pron_es": "sì",
+    "meaning": "cuatro",
+    "category": "Otros"
+  },
+  {
+    "term": "工作",
+    "pinyin": "gōng zuò",
+    "pron_es": "gōng dzuò",
+    "meaning": "Trabajar",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "几点",
+    "pinyin": "jǐ diǎn",
+    "pron_es": "yǐ diǎn",
+    "meaning": "¿Qué hora es?",
+    "category": "Otros"
+  },
+  {
+    "term": "因为",
+    "pinyin": "yīn wèi",
+    "pron_es": "yīn wèi",
+    "meaning": "porque",
+    "category": "Otros"
+  },
+  {
+    "term": "常常",
+    "pinyin": "cháng cháng",
+    "pron_es": "tsháng tsháng",
+    "meaning": "Frecuente",
+    "category": "Otros"
+  },
+  {
+    "term": "一一",
+    "pinyin": "yī yī",
+    "pron_es": "yī yī",
+    "meaning": "todo",
+    "category": "Otros"
+  },
+  {
+    "term": "学校",
+    "pinyin": "xué xiào",
+    "pron_es": "shué shiào",
+    "meaning": "Escuela",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "跟谁",
+    "pinyin": "gēn shuí",
+    "pron_es": "gēn shuí",
+    "meaning": "Con quién",
+    "category": "Otros"
+  },
+  {
+    "term": "刚刚",
+    "pinyin": "gāng gāng",
+    "pron_es": "gāng gāng",
+    "meaning": "justo",
+    "category": "Otros"
+  },
+  {
+    "term": "上次",
+    "pinyin": "shàng cì",
+    "pron_es": "shàng tsì",
+    "meaning": "último tiempo",
+    "category": "Otros"
+  },
+  {
+    "term": "有时候",
+    "pinyin": "yǒu shí hòu",
+    "pron_es": "yǒu shí hòu",
+    "meaning": "a veces",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "教",
+    "pinyin": "jiào",
+    "pron_es": "yiào",
+    "meaning": "enseñar",
+    "category": "Otros"
+  },
+  {
+    "term": "是",
+    "pinyin": "shì",
+    "pron_es": "shì",
+    "meaning": "Sí",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "这",
+    "pinyin": "zhè",
+    "pron_es": "yè",
+    "meaning": "este",
+    "category": "Otros"
+  },
+  {
+    "term": "站",
+    "pinyin": "zhàn",
+    "pron_es": "yàn",
+    "meaning": "pararse",
+    "category": "Otros"
+  },
+  {
+    "term": "上午",
+    "pinyin": "shàng wǔ",
+    "pron_es": "shàng wǔ",
+    "meaning": "mañana",
+    "category": "Otros"
+  },
+  {
+    "term": "分",
+    "pinyin": "fēn",
+    "pron_es": "fēn",
+    "meaning": "punto",
+    "category": "Otros"
+  },
+  {
+    "term": "昨天",
+    "pinyin": "zuó tiān",
+    "pron_es": "dzuó tiān",
+    "meaning": "ayer",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "下",
+    "pinyin": "xià",
+    "pron_es": "shià",
+    "meaning": "Abajo",
+    "category": "Otros"
+  },
+  {
+    "term": "东西",
+    "pinyin": "dōng xī",
+    "pron_es": "dōng shī",
+    "meaning": "cosa",
+    "category": "Otros"
+  },
+  {
+    "term": "电",
+    "pinyin": "diàn",
+    "pron_es": "diàn",
+    "meaning": "electricidad",
+    "category": "Otros"
+  },
+  {
+    "term": "你",
+    "pinyin": "nǐ",
+    "pron_es": "nǐ",
+    "meaning": "tú",
+    "category": "Pronombres"
+  },
+  {
+    "term": "加",
+    "pinyin": "jiā",
+    "pron_es": "yiā",
+    "meaning": "agregar",
+    "category": "Otros"
+  },
+  {
+    "term": "问题",
+    "pinyin": "wèn tí",
+    "pron_es": "wèn tí",
+    "meaning": "pregunta",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "中文",
+    "pinyin": "zhōng wén",
+    "pron_es": "yōng wén",
+    "meaning": "Chino",
+    "category": "Otros"
+  },
+  {
+    "term": "说",
+    "pinyin": "shuō",
+    "pron_es": "shuō",
+    "meaning": "explicar",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "点",
+    "pinyin": "diǎn",
+    "pron_es": "diǎn",
+    "meaning": "punto",
+    "category": "Otros"
+  },
+  {
+    "term": "明天",
+    "pinyin": "míng tiān",
+    "pron_es": "míng tiān",
+    "meaning": "mañana",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "那",
+    "pinyin": "nà",
+    "pron_es": "nà",
+    "meaning": "Eso",
+    "category": "Otros"
+  },
+  {
+    "term": "商店",
+    "pinyin": "shāng diàn",
+    "pron_es": "shāng diàn",
+    "meaning": "comercio",
+    "category": "Otros"
+  },
+  {
+    "term": "来",
+    "pinyin": "lái",
+    "pron_es": "lái",
+    "meaning": "Venir",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "告诉",
+    "pinyin": "gào sù",
+    "pron_es": "gào sù",
+    "meaning": "Decir",
+    "category": "Otros"
+  },
+  {
+    "term": "会",
+    "pinyin": "huì",
+    "pron_es": "huì",
+    "meaning": "reunión",
+    "category": "Otros"
+  },
+  {
+    "term": "睡觉",
+    "pinyin": "shuì jiào",
+    "pron_es": "shuì yiào",
+    "meaning": "dormir",
+    "category": "Otros"
+  },
+  {
+    "term": "经常",
+    "pinyin": "jīng cháng",
+    "pron_es": "yīng tsháng",
+    "meaning": "a menudo",
+    "category": "Otros"
+  },
+  {
+    "term": "中午",
+    "pinyin": "zhōng wǔ",
+    "pron_es": "yōng wǔ",
+    "meaning": "mediodía",
+    "category": "Otros"
+  },
+  {
+    "term": "词",
+    "pinyin": "cí",
+    "pron_es": "tsí",
+    "meaning": "palabra",
+    "category": "Otros"
+  },
+  {
+    "term": "们",
+    "pinyin": "men",
+    "pron_es": "men",
+    "meaning": "a ellos",
+    "category": "Otros"
+  },
+  {
+    "term": "有",
+    "pinyin": "yǒu",
+    "pron_es": "yǒu",
+    "meaning": "tener",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "老师",
+    "pinyin": "lǎo shī",
+    "pron_es": "lǎo shī",
+    "meaning": "maestro",
+    "category": "Otros"
+  },
+  {
+    "term": "在家",
+    "pinyin": "zài jiā",
+    "pron_es": "dzài yiā",
+    "meaning": "en casa",
+    "category": "Otros"
+  },
+  {
+    "term": "在学校",
+    "pinyin": "zài xué xiào",
+    "pron_es": "dzài shué shiào",
+    "meaning": "en la escuela",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "厨师",
+    "pinyin": "chú shī",
+    "pron_es": "tshú shī",
+    "meaning": "cocinero",
+    "category": "Otros"
+  },
+  {
+    "term": "因为有",
+    "pinyin": "yīn wèi yǒu",
+    "pron_es": "yīn wèi yǒu",
+    "meaning": "porque hay",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "坐车",
+    "pinyin": "zuò chē",
+    "pron_es": "dzuò tshē",
+    "meaning": "toma un auto",
+    "category": "Otros"
+  },
+  {
+    "term": "旅行",
+    "pinyin": "lǚ xíng",
+    "pron_es": "lǚ shíng",
+    "meaning": "viajar",
+    "category": "Otros"
+  },
+  {
+    "term": "下午",
+    "pinyin": "xià wǔ",
+    "pron_es": "shià wǔ",
+    "meaning": "tarde",
+    "category": "Otros"
+  },
+  {
+    "term": "个人信息",
+    "pinyin": "gè rén xìn xī",
+    "pron_es": "gè rén shìn shī",
+    "meaning": "información personal",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "他",
+    "pinyin": "tā",
+    "pron_es": "tā",
+    "meaning": "él",
+    "category": "Pronombres"
+  },
+  {
+    "term": "车",
+    "pinyin": "chē",
+    "pron_es": "tshē",
+    "meaning": "auto",
+    "category": "Otros"
+  },
+  {
+    "term": "打电话",
+    "pinyin": "dǎ diàn huà",
+    "pron_es": "dǎ diàn huà",
+    "meaning": "Llamar",
+    "category": "Otros"
+  },
+  {
+    "term": "通常",
+    "pinyin": "tōng cháng",
+    "pron_es": "tōng tsháng",
+    "meaning": "generalmente",
+    "category": "Otros"
+  },
+  {
+    "term": "很多",
+    "pinyin": "hěn duō",
+    "pron_es": "hěn duō",
+    "meaning": "mucho",
+    "category": "Otros"
+  },
+  {
+    "term": "把",
+    "pinyin": "bǎ",
+    "pron_es": "bǎ",
+    "meaning": "Manojo",
+    "category": "Otros"
+  },
+  {
+    "term": "开车",
+    "pinyin": "kāi chē",
+    "pron_es": "kāi tshē",
+    "meaning": "conducir",
+    "category": "Otros"
+  },
+  {
+    "term": "的",
+    "pinyin": "de",
+    "pron_es": "de",
+    "meaning": "de",
+    "category": "Funcionales"
+  },
+  {
+    "term": "学生",
+    "pinyin": "xué shēng",
+    "pron_es": "shué shēng",
+    "meaning": "alumno",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "那个人",
+    "pinyin": "nà ge rén",
+    "pron_es": "nà ge rén",
+    "meaning": "esa persona",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "八点二十",
+    "pinyin": "bā diǎn èr shí",
+    "pron_es": "bā diǎn èr shí",
+    "meaning": "ocho veinte",
+    "category": "Expresiones"
+  },
+  {
+    "term": "五点二十三",
+    "pinyin": "wǔ diǎn èr shí sān",
+    "pron_es": "wǔ diǎn èr shí sān",
+    "meaning": "cinco veintitrés",
+    "category": "Expresiones"
+  },
+  {
+    "term": "门",
+    "pinyin": "mén",
+    "pron_es": "mén",
+    "meaning": "Puerta",
+    "category": "Otros"
+  },
+  {
+    "term": "每天",
+    "pinyin": "měi tiān",
+    "pron_es": "měi tiān",
+    "meaning": "cada día",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "网上",
+    "pinyin": "wǎng shàng",
+    "pron_es": "wǎng shàng",
+    "meaning": "en línea",
+    "category": "Otros"
+  },
+  {
+    "term": "里",
+    "pinyin": "lǐ",
+    "pron_es": "lǐ",
+    "meaning": "adentro",
+    "category": "Otros"
+  },
+  {
+    "term": "工作日",
+    "pinyin": "gōng zuò rì",
+    "pron_es": "gōng dzuò rì",
+    "meaning": "jornada laboral",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "学习",
+    "pinyin": "xué xí",
+    "pron_es": "shué shí",
+    "meaning": "estudiar",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "起床",
+    "pinyin": "qǐ chuáng",
+    "pron_es": "tshǐ tshuáng",
+    "meaning": "levantarse",
+    "category": "Otros"
+  },
+  {
+    "term": "放",
+    "pinyin": "fàng",
+    "pron_es": "fàng",
+    "meaning": "poner",
+    "category": "Otros"
+  },
+  {
+    "term": "做",
+    "pinyin": "zuò",
+    "pron_es": "dzuò",
+    "meaning": "Hacer",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "我妈妈",
+    "pinyin": "wǒ mā mā",
+    "pron_es": "wǒ mā mā",
+    "meaning": "mi madre",
+    "category": "Otros"
+  },
+  {
+    "term": "小时",
+    "pinyin": "xiǎo shí",
+    "pron_es": "shiǎo shí",
+    "meaning": "Hora",
+    "category": "Adjetivos"
+  },
+  {
+    "term": "画",
+    "pinyin": "huà",
+    "pron_es": "huà",
+    "meaning": "cuadro",
+    "category": "Otros"
+  },
+  {
+    "term": "在大学",
+    "pinyin": "zài dà xué",
+    "pron_es": "dzài dà shué",
+    "meaning": "en la universidad",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "一小时",
+    "pinyin": "yī xiǎo shí",
+    "pron_es": "yī shiǎo shí",
+    "meaning": "una hora",
+    "category": "Adjetivos"
+  },
+  {
+    "term": "食物",
+    "pinyin": "shí wù",
+    "pron_es": "shí wù",
+    "meaning": "alimento",
+    "category": "Otros"
+  },
+  {
+    "term": "我的家人",
+    "pinyin": "wǒ de jiā rén",
+    "pron_es": "wǒ de yiā rén",
+    "meaning": "Mi familia",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "两",
+    "pinyin": "liǎng",
+    "pron_es": "liǎng",
+    "meaning": "dos",
+    "category": "Otros"
+  },
+  {
+    "term": "今天",
+    "pinyin": "jīn tiān",
+    "pron_es": "yīn tiān",
+    "meaning": "hoy",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "外公",
+    "pinyin": "wài gōng",
+    "pron_es": "wài gōng",
+    "meaning": "abuelo",
+    "category": "Otros"
+  },
+  {
+    "term": "哥哥",
+    "pinyin": "gē gē",
+    "pron_es": "gē gē",
+    "meaning": "hermano mayor",
+    "category": "Otros"
+  },
+  {
+    "term": "吃",
+    "pinyin": "chī",
+    "pron_es": "tshī",
+    "meaning": "comer",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "听",
+    "pinyin": "tīng",
+    "pron_es": "tīng",
+    "meaning": "escuchar",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "书",
+    "pinyin": "shū",
+    "pron_es": "shū",
+    "meaning": "Libro",
+    "category": "Otros"
+  },
+  {
+    "term": "大学",
+    "pinyin": "dà xué",
+    "pron_es": "dà shué",
+    "meaning": "Universidad",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "三点十一分",
+    "pinyin": "sān diǎn shí yī fēn",
+    "pron_es": "sān diǎn shí yī fēn",
+    "meaning": "tres once",
+    "category": "Expresiones"
+  },
+  {
+    "term": "四点十八分",
+    "pinyin": "sì diǎn shí bā fēn",
+    "pron_es": "sì diǎn shí bā fēn",
+    "meaning": "cuatro dieciocho",
+    "category": "Expresiones"
+  },
+  {
+    "term": "开",
+    "pinyin": "kāi",
+    "pron_es": "kāi",
+    "meaning": "abierto",
+    "category": "Otros"
+  },
+  {
+    "term": "公司",
+    "pinyin": "gōng sī",
+    "pron_es": "gōng sī",
+    "meaning": "compañía",
+    "category": "Otros"
+  },
+  {
+    "term": "儿子",
+    "pinyin": "ér zi",
+    "pron_es": "ér dzi",
+    "meaning": "hijo",
+    "category": "Otros"
+  },
+  {
+    "term": "英文",
+    "pinyin": "yīng wén",
+    "pron_es": "yīng wén",
+    "meaning": "Inglés",
+    "category": "Otros"
+  },
+  {
+    "term": "上个月",
+    "pinyin": "shàng gè yuè",
+    "pron_es": "shàng gè yuè",
+    "meaning": "mes pasado",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "答案",
+    "pinyin": "dá àn",
+    "pron_es": "dá àn",
+    "meaning": "Respuesta",
+    "category": "Otros"
+  },
+  {
+    "term": "分钟",
+    "pinyin": "fēn zhōng",
+    "pron_es": "fēn yōng",
+    "meaning": "minuto",
+    "category": "Otros"
+  },
+  {
+    "term": "做饭",
+    "pinyin": "zuò fàn",
+    "pron_es": "dzuò fàn",
+    "meaning": "Cocinar",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "中文课",
+    "pinyin": "zhōng wén kè",
+    "pron_es": "yōng wén kè",
+    "meaning": "clase de chino",
+    "category": "Otros"
+  },
+  {
+    "term": "半小时",
+    "pinyin": "bàn xiǎo shí",
+    "pron_es": "bàn shiǎo shí",
+    "meaning": "media hora",
+    "category": "Adjetivos"
+  },
+  {
+    "term": "如果",
+    "pinyin": "rú guǒ",
+    "pron_es": "rú guǒ",
+    "meaning": "si",
+    "category": "Otros"
+  },
+  {
+    "term": "需要",
+    "pinyin": "xū yào",
+    "pron_es": "shū yào",
+    "meaning": "necesidad",
+    "category": "Otros"
+  },
+  {
+    "term": "钱",
+    "pinyin": "qián",
+    "pron_es": "tshián",
+    "meaning": "dinero",
+    "category": "Otros"
+  },
+  {
+    "term": "六",
+    "pinyin": "liù",
+    "pron_es": "liù",
+    "meaning": "seis",
+    "category": "Otros"
+  },
+  {
+    "term": "你叫什么名字",
+    "pinyin": "nǐ jiào shén me míng zì",
+    "pron_es": "nǐ yiào shén me míng dzì",
+    "meaning": "¿Puedo tener tu nombre?",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "你是哪国人",
+    "pinyin": "nǐ shì nǎ guó rén",
+    "pron_es": "nǐ shì nǎ guó rén",
+    "meaning": "¿De qué país eres?",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "你的工作是什么",
+    "pinyin": "nǐ de gōng zuò shì shén me",
+    "pron_es": "nǐ de gōng dzuò shì shén me",
+    "meaning": "de qué trabajas",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "我是",
+    "pinyin": "wǒ shì",
+    "pron_es": "wǒ shì",
+    "meaning": "Soy",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "一人",
+    "pinyin": "yī rén",
+    "pron_es": "yī rén",
+    "meaning": "una persona",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "星期六",
+    "pinyin": "xīng qī liù",
+    "pron_es": "shīng tshī liù",
+    "meaning": "Sábado",
+    "category": "Otros"
+  },
+  {
+    "term": "十",
+    "pinyin": "shí",
+    "pron_es": "shí",
+    "meaning": "diez",
+    "category": "Otros"
+  },
+  {
+    "term": "读",
+    "pinyin": "dú",
+    "pron_es": "dú",
+    "meaning": "leer",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "音乐",
+    "pinyin": "yīn yuè",
+    "pron_es": "yīn yuè",
+    "meaning": "música",
+    "category": "Otros"
+  },
+  {
+    "term": "到",
+    "pinyin": "dào",
+    "pron_es": "dào",
+    "meaning": "llegar",
+    "category": "Otros"
+  },
+  {
+    "term": "拿",
+    "pinyin": "ná",
+    "pron_es": "ná",
+    "meaning": "llevar",
+    "category": "Otros"
+  },
+  {
+    "term": "晚上八点",
+    "pinyin": "wǎn shàng bā diǎn",
+    "pron_es": "wǎn shàng bā diǎn",
+    "meaning": "8 p.m.",
+    "category": "Expresiones"
+  },
+  {
+    "term": "看",
+    "pinyin": "kàn",
+    "pron_es": "kàn",
+    "meaning": "mirar",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "电视",
+    "pinyin": "diàn shì",
+    "pron_es": "diàn shì",
+    "meaning": "televisión",
+    "category": "Otros"
+  },
+  {
+    "term": "六点零五分",
+    "pinyin": "liù diǎn líng wǔ fēn",
+    "pron_es": "liù diǎn líng wǔ fēn",
+    "meaning": "6:05",
+    "category": "Expresiones"
+  },
+  {
+    "term": "中",
+    "pinyin": "zhōng",
+    "pron_es": "yōng",
+    "meaning": "medio",
+    "category": "Otros"
+  },
+  {
+    "term": "跑步",
+    "pinyin": "pǎo bù",
+    "pron_es": "pǎo bù",
+    "meaning": "correr",
+    "category": "Otros"
+  },
+  {
+    "term": "走路",
+    "pinyin": "zǒu lù",
+    "pron_es": "dzǒu lù",
+    "meaning": "caminar",
+    "category": "Otros"
+  },
+  {
+    "term": "弟弟",
+    "pinyin": "dì di",
+    "pron_es": "dì di",
+    "meaning": "hermano menor",
+    "category": "Otros"
+  },
+  {
+    "term": "全",
+    "pinyin": "quán",
+    "pron_es": "tshuán",
+    "meaning": "Completo",
+    "category": "Otros"
+  },
+  {
+    "term": "手机上",
+    "pinyin": "shǒu jī shàng",
+    "pron_es": "shǒu yī shàng",
+    "meaning": "en el teléfono móvil",
+    "category": "Otros"
+  },
+  {
+    "term": "女儿",
+    "pinyin": "nǚ ér",
+    "pron_es": "nǚ ér",
+    "meaning": "hija",
+    "category": "Otros"
+  },
+  {
+    "term": "但是",
+    "pinyin": "dàn shì",
+    "pron_es": "dàn shì",
+    "meaning": "pero",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "现在时态",
+    "pinyin": "xiàn zài shí tài",
+    "pron_es": "shiàn dzài shí tài",
+    "meaning": "tiempo presente",
+    "category": "Expresiones"
+  },
+  {
+    "term": "单词",
+    "pinyin": "dān cí",
+    "pron_es": "dān tsí",
+    "meaning": "palabra",
+    "category": "Otros"
+  },
+  {
+    "term": "说中文",
+    "pinyin": "shuō zhōng wén",
+    "pron_es": "shuō yōng wén",
+    "meaning": "hablar chino",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "星期",
+    "pinyin": "xīng qī",
+    "pron_es": "shīng tshī",
+    "meaning": "Semana",
+    "category": "Otros"
+  },
+  {
+    "term": "修",
+    "pinyin": "xiū",
+    "pron_es": "shiū",
+    "meaning": "construir",
+    "category": "Otros"
+  },
+  {
+    "term": "洗",
+    "pinyin": "xǐ",
+    "pron_es": "shǐ",
+    "meaning": "lavar",
+    "category": "Otros"
+  },
+  {
+    "term": "这个",
+    "pinyin": "zhè ge",
+    "pron_es": "yè ge",
+    "meaning": "este",
+    "category": "Otros"
+  },
+  {
+    "term": "我放东西",
+    "pinyin": "wǒ fàng dōng xī",
+    "pron_es": "wǒ fàng dōng shī",
+    "meaning": "pongo cosas",
+    "category": "Expresiones"
+  },
+  {
+    "term": "米饭",
+    "pinyin": "mǐ fàn",
+    "pron_es": "mǐ fàn",
+    "meaning": "arroz",
+    "category": "Otros"
+  },
+  {
+    "term": "时候",
+    "pinyin": "shí hòu",
+    "pron_es": "shí hòu",
+    "meaning": "cuando",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "一张画",
+    "pinyin": "yī zhāng huà",
+    "pron_es": "yī yāng huà",
+    "meaning": "una pintura",
+    "category": "Otros"
+  },
+  {
+    "term": "数学",
+    "pinyin": "shù xué",
+    "pron_es": "shù shué",
+    "meaning": "matemáticas",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "怎么做饭",
+    "pinyin": "zěn me zuò fàn",
+    "pron_es": "dzěn me dzuò fàn",
+    "meaning": "como cocinar",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "在小学",
+    "pinyin": "zài xiǎo xué",
+    "pron_es": "dzài shiǎo shué",
+    "meaning": "en la escuela primaria",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "大学生",
+    "pinyin": "dà xué shēng",
+    "pron_es": "dà shué shēng",
+    "meaning": "estudiantes universitarios",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "骑车",
+    "pinyin": "qí chē",
+    "pron_es": "tshí tshē",
+    "meaning": "Ciclismo",
+    "category": "Otros"
+  },
+  {
+    "term": "很久",
+    "pinyin": "hěn jiǔ",
+    "pron_es": "hěn yiǔ",
+    "meaning": "mucho tiempo",
+    "category": "Otros"
+  },
+  {
+    "term": "衣服",
+    "pinyin": "yī fú",
+    "pron_es": "yī fú",
+    "meaning": "ropa",
+    "category": "Otros"
+  },
+  {
+    "term": "聊天",
+    "pinyin": "liáo tiān",
+    "pron_es": "liáo tiān",
+    "meaning": "charlar",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "聊",
+    "pinyin": "liáo",
+    "pron_es": "liáo",
+    "meaning": "charlar",
+    "category": "Otros"
+  },
+  {
+    "term": "怎么样",
+    "pinyin": "zěn me yàng",
+    "pron_es": "dzěn me yàng",
+    "meaning": "¿Qué tal?",
+    "category": "Otros"
+  },
+  {
+    "term": "水果",
+    "pinyin": "shuǐ guǒ",
+    "pron_es": "shuǐ guǒ",
+    "meaning": "fruta",
+    "category": "Otros"
+  },
+  {
+    "term": "的时候",
+    "pinyin": "de shí hòu",
+    "pron_es": "de shí hòu",
+    "meaning": "cuando",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "坐飞机旅行",
+    "pinyin": "zuò fēi jī lǚ xíng",
+    "pron_es": "dzuò fēi yī lǚ shíng",
+    "meaning": "viajar en avión",
+    "category": "Expresiones"
+  },
+  {
+    "term": "一天吃三次药",
+    "pinyin": "yī tiān chī sān cì yào",
+    "pron_es": "yī tiān tshī sān tsì yào",
+    "meaning": "Tome medicamentos tres veces al día.",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "病人",
+    "pinyin": "bìng rén",
+    "pron_es": "bìng rén",
+    "meaning": "paciente",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "医生",
+    "pinyin": "yī shēng",
+    "pron_es": "yī shēng",
+    "meaning": "doctor",
+    "category": "Otros"
+  },
+  {
+    "term": "旅行的时候",
+    "pinyin": "lǚ xíng de shí hòu",
+    "pron_es": "lǚ shíng de shí hòu",
+    "meaning": "mientras viaja",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "坐飞机的时候",
+    "pinyin": "zuò fēi jī de shí hòu",
+    "pron_es": "dzuò fēi yī de shí hòu",
+    "meaning": "al volar",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "护照",
+    "pinyin": "hù zhào",
+    "pron_es": "hù yào",
+    "meaning": "pasaporte",
+    "category": "Otros"
+  },
+  {
+    "term": "你什么时候需要带护照",
+    "pinyin": "nǐ shén me shí hòu xū yào dài hù zhào",
+    "pron_es": "nǐ shén me shí hòu shū yào dài hù yào",
+    "meaning": "¿Cuándo necesitas traer tu pasaporte?",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "五",
+    "pinyin": "wǔ",
+    "pron_es": "wǔ",
+    "meaning": "cinco",
+    "category": "Otros"
+  },
+  {
+    "term": "名字",
+    "pinyin": "míng zì",
+    "pron_es": "míng dzì",
+    "meaning": "nombre",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "你几岁",
+    "pinyin": "nǐ jǐ suì",
+    "pron_es": "nǐ yǐ suì",
+    "meaning": "Cuántos años tiene",
+    "category": "Otros"
+  },
+  {
+    "term": "星期一",
+    "pinyin": "xīng qī yī",
+    "pron_es": "shīng tshī yī",
+    "meaning": "Lunes",
+    "category": "Otros"
+  },
+  {
+    "term": "么",
+    "pinyin": "me",
+    "pron_es": "me",
+    "meaning": "¿Qué?",
+    "category": "Otros"
+  },
+  {
+    "term": "一一一",
+    "pinyin": "yī yī yī",
+    "pron_es": "yī yī yī",
+    "meaning": "uno por uno",
+    "category": "Otros"
+  },
+  {
+    "term": "歌",
+    "pinyin": "gē",
+    "pron_es": "gē",
+    "meaning": "Canción",
+    "category": "Otros"
+  },
+  {
+    "term": "入",
+    "pinyin": "rù",
+    "pron_es": "rù",
+    "meaning": "ingresar",
+    "category": "Otros"
+  },
+  {
+    "term": "她",
+    "pinyin": "tā",
+    "pron_es": "tā",
+    "meaning": "ella",
+    "category": "Pronombres"
+  },
+  {
+    "term": "我们",
+    "pinyin": "wǒ men",
+    "pron_es": "wǒ men",
+    "meaning": "a nosotros",
+    "category": "Pronombres"
+  },
+  {
+    "term": "不在",
+    "pinyin": "bù zài",
+    "pron_es": "bù dzài",
+    "meaning": "aquí no",
+    "category": "Otros"
+  },
+  {
+    "term": "手",
+    "pinyin": "shǒu",
+    "pron_es": "shǒu",
+    "meaning": "mano",
+    "category": "Otros"
+  },
+  {
+    "term": "电影",
+    "pinyin": "diàn yǐng",
+    "pron_es": "diàn yǐng",
+    "meaning": "Película",
+    "category": "Otros"
+  },
+  {
+    "term": "第周",
+    "pinyin": "dì zhōu",
+    "pron_es": "dì yōu",
+    "meaning": "semana",
+    "category": "Otros"
+  },
+  {
+    "term": "电脑",
+    "pinyin": "diàn nǎo",
+    "pron_es": "diàn nǎo",
+    "meaning": "computadora",
+    "category": "Otros"
+  },
+  {
+    "term": "灯",
+    "pinyin": "dēng",
+    "pron_es": "dēng",
+    "meaning": "lámpara",
+    "category": "Otros"
+  },
+  {
+    "term": "打",
+    "pinyin": "dǎ",
+    "pron_es": "dǎ",
+    "meaning": "derrotar",
+    "category": "Otros"
+  },
+  {
+    "term": "人在",
+    "pinyin": "rén zài",
+    "pron_es": "rén dzài",
+    "meaning": "La gente esta aqui",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "过去时态",
+    "pinyin": "guò qù shí tài",
+    "pron_es": "guò tshù shí tài",
+    "meaning": "tiempo pasado",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "一本书",
+    "pinyin": "yī běn shū",
+    "pron_es": "yī běn shū",
+    "meaning": "un libro",
+    "category": "Otros"
+  },
+  {
+    "term": "外",
+    "pinyin": "wài",
+    "pron_es": "wài",
+    "meaning": "afuera",
+    "category": "Otros"
+  },
+  {
+    "term": "抹茶",
+    "pinyin": "mǒ chá",
+    "pron_es": "mǒ tshá",
+    "meaning": "Matcha",
+    "category": "Otros"
+  },
+  {
+    "term": "回家",
+    "pinyin": "huí jiā",
+    "pron_es": "huí yiā",
+    "meaning": "ir a casa",
+    "category": "Otros"
+  },
+  {
+    "term": "性",
+    "pinyin": "xìng",
+    "pron_es": "shìng",
+    "meaning": "sexo",
+    "category": "Otros"
+  },
+  {
+    "term": "站起来",
+    "pinyin": "zhàn qǐ lái",
+    "pron_es": "yàn tshǐ lái",
+    "meaning": "ponerse de pie",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "一个人",
+    "pinyin": "yí gè rén",
+    "pron_es": "yí gè rén",
+    "meaning": "una persona",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "坐",
+    "pinyin": "zuò",
+    "pron_es": "dzuò",
+    "meaning": "sentarse",
+    "category": "Otros"
+  },
+  {
+    "term": "玩",
+    "pinyin": "wán",
+    "pron_es": "wán",
+    "meaning": "Jugar",
+    "category": "Otros"
+  },
+  {
+    "term": "说了",
+    "pinyin": "shuō le",
+    "pron_es": "shuō le",
+    "meaning": "Dicho",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "明年",
+    "pinyin": "míng nián",
+    "pron_es": "míng nián",
+    "meaning": "al año que viene",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "下不月",
+    "pinyin": "xià bù yuè",
+    "pron_es": "shià bù yuè",
+    "meaning": "sin luna",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "一要",
+    "pinyin": "yī yào",
+    "pron_es": "yī yào",
+    "meaning": "Una cosa",
+    "category": "Otros"
+  },
+  {
+    "term": "汽车",
+    "pinyin": "qì chē",
+    "pron_es": "tshì tshē",
+    "meaning": "auto",
+    "category": "Otros"
+  },
+  {
+    "term": "我的车",
+    "pinyin": "wǒ de chē",
+    "pron_es": "wǒ de tshē",
+    "meaning": "mi auto",
+    "category": "Otros"
+  },
+  {
+    "term": "工作人员",
+    "pinyin": "gōng zuò rén yuán",
+    "pron_es": "gōng dzuò rén yuán",
+    "meaning": "personal",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "作家",
+    "pinyin": "zuò jiā",
+    "pron_es": "dzuò yiā",
+    "meaning": "escritor",
+    "category": "Otros"
+  },
+  {
+    "term": "车上",
+    "pinyin": "chē shàng",
+    "pron_es": "tshē shàng",
+    "meaning": "en el auto",
+    "category": "Otros"
+  },
+  {
+    "term": "村",
+    "pinyin": "cūn",
+    "pron_es": "tsūn",
+    "meaning": "aldea",
+    "category": "Otros"
+  },
+  {
+    "term": "厨",
+    "pinyin": "chú",
+    "pron_es": "tshú",
+    "meaning": "cocina",
+    "category": "Otros"
+  },
+  {
+    "term": "饭",
+    "pinyin": "fàn",
+    "pron_es": "fàn",
+    "meaning": "comida",
+    "category": "Otros"
+  },
+  {
+    "term": "跳",
+    "pinyin": "tiào",
+    "pron_es": "tiào",
+    "meaning": "Saltar",
+    "category": "Otros"
+  },
+  {
+    "term": "舞",
+    "pinyin": "wǔ",
+    "pron_es": "wǔ",
+    "meaning": "bailar",
+    "category": "Otros"
+  },
+  {
+    "term": "网",
+    "pinyin": "wǎng",
+    "pron_es": "wǎng",
+    "meaning": "neto",
+    "category": "Otros"
+  },
+  {
+    "term": "怎么开车",
+    "pinyin": "zěn me kāi chē",
+    "pron_es": "dzěn me kāi tshē",
+    "meaning": "como conducir",
+    "category": "Expresiones"
+  },
+  {
+    "term": "在院子",
+    "pinyin": "zài yuàn zi",
+    "pron_es": "dzài yuàn dzi",
+    "meaning": "en el patio",
+    "category": "Otros"
+  },
+  {
+    "term": "坐飞机",
+    "pinyin": "zuò fēi jī",
+    "pron_es": "dzuò fēi yī",
+    "meaning": "en avión",
+    "category": "Otros"
+  },
+  {
+    "term": "跳舞",
+    "pinyin": "tiào wǔ",
+    "pron_es": "tiào wǔ",
+    "meaning": "Bailar",
+    "category": "Otros"
+  },
+  {
+    "term": "两年",
+    "pinyin": "liǎng nián",
+    "pron_es": "liǎng nián",
+    "meaning": "dos años",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "在卡拉",
+    "pinyin": "zài kǎ lā",
+    "pron_es": "dzài kǎ lā",
+    "meaning": "en kara",
+    "category": "Otros"
+  },
+  {
+    "term": "唱歌儿",
+    "pinyin": "chàng gē ér",
+    "pron_es": "tshàng gē ér",
+    "meaning": "Cantar",
+    "category": "Otros"
+  },
+  {
+    "term": "多远",
+    "pinyin": "duō yuǎn",
+    "pron_es": "duō yuǎn",
+    "meaning": "Hasta dónde",
+    "category": "Otros"
+  },
+  {
+    "term": "游泳",
+    "pinyin": "yóu yǒng",
+    "pron_es": "yóu yǒng",
+    "meaning": "nadar",
+    "category": "Otros"
+  },
+  {
+    "term": "去年",
+    "pinyin": "qù nián",
+    "pron_es": "tshù nián",
+    "meaning": "el año pasado",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "旅行心",
+    "pinyin": "lǚ xíng xīn",
+    "pron_es": "lǚ shíng shīn",
+    "meaning": "Corazón de viaje",
+    "category": "Otros"
+  },
+  {
+    "term": "女朋友",
+    "pinyin": "nǚ péng yǒu",
+    "pron_es": "nǚ péng yǒu",
+    "meaning": "novia",
+    "category": "Otros"
+  },
+  {
+    "term": "在手机上",
+    "pinyin": "zài shǒu jī shàng",
+    "pron_es": "dzài shǒu yī shàng",
+    "meaning": "en el teléfono móvil",
+    "category": "Expresiones"
+  },
+  {
+    "term": "在办公室",
+    "pinyin": "zài bàn gōng shì",
+    "pron_es": "dzài bàn gōng shì",
+    "meaning": "en la oficina",
+    "category": "Expresiones"
+  },
+  {
+    "term": "很开心",
+    "pinyin": "hěn kāi xīn",
+    "pron_es": "hěn kāi shīn",
+    "meaning": "muy feliz",
+    "category": "Otros"
+  },
+  {
+    "term": "很有趣",
+    "pinyin": "hěn yǒu qù",
+    "pron_es": "hěn yǒu tshù",
+    "meaning": "muy interesante",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "一个小时",
+    "pinyin": "yí gè xiǎo shí",
+    "pron_es": "yí gè shiǎo shí",
+    "meaning": "una hora",
+    "category": "Adjetivos"
+  },
+  {
+    "term": "同事",
+    "pinyin": "tóng shì",
+    "pron_es": "tóng shì",
+    "meaning": "colega",
+    "category": "Otros"
+  },
+  {
+    "term": "事情",
+    "pinyin": "shì qíng",
+    "pron_es": "shì tshíng",
+    "meaning": "asunto",
+    "category": "Otros"
+  },
+  {
+    "term": "菜",
+    "pinyin": "cài",
+    "pron_es": "tsài",
+    "meaning": "verdura",
+    "category": "Otros"
+  },
+  {
+    "term": "很",
+    "pinyin": "hěn",
+    "pron_es": "hěn",
+    "meaning": "muy",
+    "category": "Otros"
+  },
+  {
+    "term": "觉得",
+    "pinyin": "jué de",
+    "pron_es": "yué de",
+    "meaning": "sentir",
+    "category": "Otros"
+  },
+  {
+    "term": "这餐厅的菜",
+    "pinyin": "zhè cān tīng de cài",
+    "pron_es": "yè tsān tīng de tsài",
+    "meaning": "La comida en este restaurante.",
+    "category": "Expresiones"
+  },
+  {
+    "term": "冬天",
+    "pinyin": "dōng tiān",
+    "pron_es": "dōng tiān",
+    "meaning": "invierno",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "漂亮",
+    "pinyin": "piào liàng",
+    "pron_es": "piào liàng",
+    "meaning": "bonito",
+    "category": "Adjetivos"
+  },
+  {
+    "term": "比较",
+    "pinyin": "bǐ jiào",
+    "pron_es": "bǐ yiào",
+    "meaning": "Comparar",
+    "category": "Otros"
+  },
+  {
+    "term": "担心",
+    "pinyin": "dān xīn",
+    "pron_es": "dān shīn",
+    "meaning": "Preocuparse",
+    "category": "Otros"
+  },
+  {
+    "term": "充电器",
+    "pinyin": "chōng diàn qì",
+    "pron_es": "tshōng diàn tshì",
+    "meaning": "cargador",
+    "category": "Otros"
+  },
+  {
+    "term": "去哪里",
+    "pinyin": "qù nǎ lǐ",
+    "pron_es": "tshù nǎ lǐ",
+    "meaning": "donde ir",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "我去旅游的时候需要带护照",
+    "pinyin": "wǒ qù lǚ yóu de shí hòu xū yào dài hù zhào",
+    "pron_es": "wǒ tshù lǚ yóu de shí hòu shū yào dài hù yào",
+    "meaning": "Necesito traer mi pasaporte cuando viajo.",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "送",
+    "pinyin": "sòng",
+    "pron_es": "sòng",
+    "meaning": "entregar",
+    "category": "Otros"
+  },
+  {
+    "term": "生日礼物",
+    "pinyin": "shēng rì lǐ wù",
+    "pron_es": "shēng rì lǐ wù",
+    "meaning": "regalo de cumpleaños",
+    "category": "Expresiones"
+  },
+  {
+    "term": "首都",
+    "pinyin": "shǒu dū",
+    "pron_es": "shǒu dū",
+    "meaning": "capital",
+    "category": "Otros"
+  },
+  {
+    "term": "我家",
+    "pinyin": "wǒ jiā",
+    "pron_es": "wǒ yiā",
+    "meaning": "mi casa",
+    "category": "Otros"
+  },
+  {
+    "term": "我朋友家",
+    "pinyin": "wǒ péng yǒu jiā",
+    "pron_es": "wǒ péng yǒu yiā",
+    "meaning": "la casa de mi amigo",
+    "category": "Expresiones"
+  },
+  {
+    "term": "多少次",
+    "pinyin": "duō shǎo cì",
+    "pron_es": "duō shǎo tsì",
+    "meaning": "cuantas veces",
+    "category": "Otros"
+  },
+  {
+    "term": "十二",
+    "pinyin": "shí èr",
+    "pron_es": "shí èr",
+    "meaning": "doce",
+    "category": "Otros"
+  },
+  {
+    "term": "零",
+    "pinyin": "líng",
+    "pron_es": "líng",
+    "meaning": "cero",
+    "category": "Otros"
+  },
+  {
+    "term": "九",
+    "pinyin": "jiǔ",
+    "pron_es": "yiǔ",
+    "meaning": "Nueve",
+    "category": "Otros"
+  },
+  {
+    "term": "现在几点几分",
+    "pinyin": "xiàn zài jǐ diǎn jǐ fēn",
+    "pron_es": "shiàn dzài yǐ diǎn yǐ fēn",
+    "meaning": "¿Qué hora es ahora?",
+    "category": "Expresiones"
+  },
+  {
+    "term": "七",
+    "pinyin": "qī",
+    "pron_es": "tshī",
+    "meaning": "Siete",
+    "category": "Otros"
+  },
+  {
+    "term": "下个月",
+    "pinyin": "xià gè yuè",
+    "pron_es": "shià gè yuè",
+    "meaning": "mes próximo",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "您贵姓",
+    "pinyin": "nín guì xìng",
+    "pron_es": "nín guì shìng",
+    "meaning": "¿Cuál es tu apellido?",
+    "category": "Otros"
+  },
+  {
+    "term": "我姓",
+    "pinyin": "wǒ xìng",
+    "pron_es": "wǒ shìng",
+    "meaning": "mi apellido",
+    "category": "Otros"
+  },
+  {
+    "term": "你住在哪里",
+    "pinyin": "nǐ zhù zài nǎ lǐ",
+    "pron_es": "nǐ yù dzài nǎ lǐ",
+    "meaning": "Dónde vive",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "我住在",
+    "pinyin": "wǒ zhù zài",
+    "pron_es": "wǒ yù dzài",
+    "meaning": "vivo en",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "这是什么",
+    "pinyin": "zhè shì shén me",
+    "pron_es": "yè shì shén me",
+    "meaning": "Qué es esto",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "那是什么",
+    "pinyin": "nà shì shén me",
+    "pron_es": "nà shì shén me",
+    "meaning": "¿qué es eso?",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "这是笔",
+    "pinyin": "zhè shì bǐ",
+    "pron_es": "yè shì bǐ",
+    "meaning": "esto es un bolígrafo",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "奶奶",
+    "pinyin": "nǎi nǎi",
+    "pron_es": "nǎi nǎi",
+    "meaning": "abuela",
+    "category": "Otros"
+  },
+  {
+    "term": "姐姐",
+    "pinyin": "jiě jiě",
+    "pron_es": "yiě yiě",
+    "meaning": "hermana mayor",
+    "category": "Otros"
+  },
+  {
+    "term": "妹妹",
+    "pinyin": "mèi mèi",
+    "pron_es": "mèi mèi",
+    "meaning": "hermana menor",
+    "category": "Otros"
+  },
+  {
+    "term": "三",
+    "pinyin": "sān",
+    "pron_es": "sān",
+    "meaning": "tres",
+    "category": "Otros"
+  },
+  {
+    "term": "你的电话号码是什么",
+    "pinyin": "nǐ de diàn huà hào mǎ shì shén me",
+    "pron_es": "nǐ de diàn huà hào mǎ shì shén me",
+    "meaning": "Cuál es tu número de teléfono",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "我的电话号码是",
+    "pinyin": "wǒ de diàn huà hào mǎ shì",
+    "pron_es": "wǒ de diàn huà hào mǎ shì",
+    "meaning": "mi número de teléfono es",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "字",
+    "pinyin": "zì",
+    "pron_es": "dzì",
+    "meaning": "Personaje",
+    "category": "Otros"
+  },
+  {
+    "term": "水",
+    "pinyin": "shuǐ",
+    "pron_es": "shuǐ",
+    "meaning": "agua",
+    "category": "Otros"
+  },
+  {
+    "term": "有周",
+    "pinyin": "yǒu zhōu",
+    "pron_es": "yǒu yōu",
+    "meaning": "hay semanas",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "你们",
+    "pinyin": "nǐ men",
+    "pron_es": "nǐ men",
+    "meaning": "tú",
+    "category": "Pronombres"
+  },
+  {
+    "term": "在不在",
+    "pinyin": "zài bù zài",
+    "pron_es": "dzài bù dzài",
+    "meaning": "¿Está ahí?",
+    "category": "Otros"
+  },
+  {
+    "term": "给不给",
+    "pinyin": "gěi bù gěi",
+    "pron_es": "gěi bù gěi",
+    "meaning": "dar o no",
+    "category": "Otros"
+  },
+  {
+    "term": "不要",
+    "pinyin": "bú yào",
+    "pron_es": "bú yào",
+    "meaning": "no quiero",
+    "category": "Otros"
+  },
+  {
+    "term": "拿不拿",
+    "pinyin": "ná bù ná",
+    "pron_es": "ná bù ná",
+    "meaning": "tómalo o no",
+    "category": "Otros"
+  },
+  {
+    "term": "办公室",
+    "pinyin": "bàn gōng shì",
+    "pron_es": "bàn gōng shì",
+    "meaning": "oficina",
+    "category": "Otros"
+  },
+  {
+    "term": "点一十分",
+    "pinyin": "diǎn yī shí fēn",
+    "pron_es": "diǎn yī shí fēn",
+    "meaning": "Punto diez",
+    "category": "Expresiones"
+  },
+  {
+    "term": "开没开",
+    "pinyin": "kāi méi kāi",
+    "pron_es": "kāi méi kāi",
+    "meaning": "Abierto o no",
+    "category": "Otros"
+  },
+  {
+    "term": "没有",
+    "pinyin": "méi yǒu",
+    "pron_es": "méi yǒu",
+    "meaning": "No",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "关",
+    "pinyin": "guān",
+    "pron_es": "guān",
+    "meaning": "cerca",
+    "category": "Otros"
+  },
+  {
+    "term": "可",
+    "pinyin": "kě",
+    "pron_es": "kě",
+    "meaning": "Poder",
+    "category": "Otros"
+  },
+  {
+    "term": "一过去",
+    "pinyin": "yī guò qù",
+    "pron_es": "yī guò tshù",
+    "meaning": "Tan pronto como pase",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "一个汉堡",
+    "pinyin": "yí gè hàn bǎo",
+    "pron_es": "yí gè hàn bǎo",
+    "meaning": "una hamburguesa",
+    "category": "Expresiones"
+  },
+  {
+    "term": "买",
+    "pinyin": "mǎi",
+    "pron_es": "mǎi",
+    "meaning": "compra",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "哪个",
+    "pinyin": "nǎ ge",
+    "pron_es": "nǎ ge",
+    "meaning": "Cual",
+    "category": "Otros"
+  },
+  {
+    "term": "所",
+    "pinyin": "suǒ",
+    "pron_es": "suǒ",
+    "meaning": "Lugar",
+    "category": "Otros"
+  },
+  {
+    "term": "区",
+    "pinyin": "qū",
+    "pron_es": "tshū",
+    "meaning": "distrito",
+    "category": "Otros"
+  },
+  {
+    "term": "公园",
+    "pinyin": "gōng yuán",
+    "pron_es": "gōng yuán",
+    "meaning": "jardín",
+    "category": "Otros"
+  },
+  {
+    "term": "上课",
+    "pinyin": "shàng kè",
+    "pron_es": "shàng kè",
+    "meaning": "asistir a clase",
+    "category": "Otros"
+  },
+  {
+    "term": "问",
+    "pinyin": "wèn",
+    "pron_es": "wèn",
+    "meaning": "preguntar",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "一会儿",
+    "pinyin": "yī huì er",
+    "pron_es": "yī huì er",
+    "meaning": "Un rato",
+    "category": "Otros"
+  },
+  {
+    "term": "椅子",
+    "pinyin": "yǐ zi",
+    "pron_es": "yǐ dzi",
+    "meaning": "Silla",
+    "category": "Otros"
+  },
+  {
+    "term": "房间",
+    "pinyin": "fáng jiān",
+    "pron_es": "fáng yiān",
+    "meaning": "Habitación",
+    "category": "Otros"
+  },
+  {
+    "term": "和谁",
+    "pinyin": "hé shuí",
+    "pron_es": "hé shuí",
+    "meaning": "con quién",
+    "category": "Otros"
+  },
+  {
+    "term": "等一下",
+    "pinyin": "děng yí xià",
+    "pron_es": "děng yí shià",
+    "meaning": "Espera un momento",
+    "category": "Otros"
+  },
+  {
+    "term": "八卦",
+    "pinyin": "bā guà",
+    "pron_es": "bā guà",
+    "meaning": "Chisme",
+    "category": "Otros"
+  },
+  {
+    "term": "吧",
+    "pinyin": "ba",
+    "pron_es": "ba",
+    "meaning": "Bar",
+    "category": "Funcionales"
+  },
+  {
+    "term": "未来时态",
+    "pinyin": "wèi lái shí tài",
+    "pron_es": "wèi lái shí tài",
+    "meaning": "tiempo futuro",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "告诉了",
+    "pinyin": "gào sù le",
+    "pron_es": "gào sù le",
+    "meaning": "dijo",
+    "category": "Otros"
+  },
+  {
+    "term": "妈妈刚才",
+    "pinyin": "mā mā gāng cái",
+    "pron_es": "mā mā gāng tsái",
+    "meaning": "mamá justo ahora",
+    "category": "Expresiones"
+  },
+  {
+    "term": "我晚饭做好了",
+    "pinyin": "wǒ wǎn fàn zuò hǎo le",
+    "pron_es": "wǒ wǎn fàn dzuò hǎo le",
+    "meaning": "he preparado la cena",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "日语",
+    "pinyin": "rì yǔ",
+    "pron_es": "rì yǔ",
+    "meaning": "japonés",
+    "category": "Otros"
+  },
+  {
+    "term": "从",
+    "pinyin": "cóng",
+    "pron_es": "tsóng",
+    "meaning": "de",
+    "category": "Otros"
+  },
+  {
+    "term": "下一天",
+    "pinyin": "xià yī tiān",
+    "pron_es": "shià yī tiān",
+    "meaning": "día siguiente",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "师",
+    "pinyin": "shī",
+    "pron_es": "shī",
+    "meaning": "división",
+    "category": "Otros"
+  },
+  {
+    "term": "一辆车",
+    "pinyin": "yī liàng chē",
+    "pron_es": "yī liàng tshē",
+    "meaning": "un auto",
+    "category": "Otros"
+  },
+  {
+    "term": "床上",
+    "pinyin": "chuáng shàng",
+    "pron_es": "tshuáng shàng",
+    "meaning": "cama",
+    "category": "Otros"
+  },
+  {
+    "term": "你今天学习了什么",
+    "pinyin": "nǐ jīn tiān xué xí le shén me",
+    "pron_es": "nǐ yīn tiān shué shí le shén me",
+    "meaning": "¿Qué aprendiste hoy?",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "我们明天早上要几点学习",
+    "pinyin": "wǒ men míng tiān zǎo shàng yào jǐ diǎn xué xí",
+    "pron_es": "wǒ men míng tiān dzǎo shàng yào yǐ diǎn shué shí",
+    "meaning": "¿A qué hora estudiaremos mañana por la mañana?",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "我今天学习了英文",
+    "pinyin": "wǒ jīn tiān xué xí le yīng wén",
+    "pron_es": "wǒ yīn tiān shué shí le yīng wén",
+    "meaning": "estudié ingles hoy",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "我今天学习了这个词",
+    "pinyin": "wǒ jīn tiān xué xí le zhè ge cí",
+    "pron_es": "wǒ yīn tiān shué shí le yè ge tsí",
+    "meaning": "Aprendí esta palabra hoy",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "号",
+    "pinyin": "hào",
+    "pron_es": "hào",
+    "meaning": "Número",
+    "category": "Otros"
+  },
+  {
+    "term": "放下",
+    "pinyin": "fàng xià",
+    "pron_es": "fàng shià",
+    "meaning": "establecer",
+    "category": "Otros"
+  },
+  {
+    "term": "汤",
+    "pinyin": "tāng",
+    "pron_es": "tāng",
+    "meaning": "Sopa",
+    "category": "Otros"
+  },
+  {
+    "term": "公里",
+    "pinyin": "gōng lǐ",
+    "pron_es": "gōng lǐ",
+    "meaning": "kilómetro",
+    "category": "Otros"
+  },
+  {
+    "term": "在车",
+    "pinyin": "zài chē",
+    "pron_es": "dzài tshē",
+    "meaning": "en el auto",
+    "category": "Otros"
+  },
+  {
+    "term": "儿",
+    "pinyin": "ér",
+    "pron_es": "ér",
+    "meaning": "Hijo",
+    "category": "Otros"
+  },
+  {
+    "term": "小学生",
+    "pinyin": "xiǎo xué shēng",
+    "pron_es": "shiǎo shué shēng",
+    "meaning": "estudiante de primaria",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "国",
+    "pinyin": "guó",
+    "pron_es": "guó",
+    "meaning": "país",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "语言",
+    "pinyin": "yǔ yán",
+    "pron_es": "yǔ yán",
+    "meaning": "idioma",
+    "category": "Otros"
+  },
+  {
+    "term": "日",
+    "pinyin": "rì",
+    "pron_es": "rì",
+    "meaning": "día",
+    "category": "Otros"
+  },
+  {
+    "term": "过专",
+    "pinyin": "guò zhuān",
+    "pron_es": "guò yuān",
+    "meaning": "Demasiado especializado",
+    "category": "Otros"
+  },
+  {
+    "term": "开飞机",
+    "pinyin": "kāi fēi jī",
+    "pron_es": "kāi fēi yī",
+    "meaning": "volar un avión",
+    "category": "Otros"
+  },
+  {
+    "term": "跑车",
+    "pinyin": "pǎo chē",
+    "pron_es": "pǎo tshē",
+    "meaning": "coche deportivo",
+    "category": "Otros"
+  },
+  {
+    "term": "大",
+    "pinyin": "dà",
+    "pron_es": "dà",
+    "meaning": "grande",
+    "category": "Adjetivos"
+  },
+  {
+    "term": "火车",
+    "pinyin": "huǒ chē",
+    "pron_es": "huǒ tshē",
+    "meaning": "tren",
+    "category": "Otros"
+  },
+  {
+    "term": "去商场",
+    "pinyin": "qù shāng chǎng",
+    "pron_es": "tshù shāng tshǎng",
+    "meaning": "ir al centro comercial",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "去我家",
+    "pinyin": "qù wǒ jiā",
+    "pron_es": "tshù wǒ yiā",
+    "meaning": "ve a mi casa",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "去我的大学",
+    "pinyin": "qù wǒ de dà xué",
+    "pron_es": "tshù wǒ de dà shué",
+    "meaning": "ir a mi universidad",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "四十五分钟",
+    "pinyin": "sì shí wǔ fēn zhōng",
+    "pron_es": "sì shí wǔ fēn yōng",
+    "meaning": "cuarenta y cinco minutos",
+    "category": "Expresiones"
+  },
+  {
+    "term": "唱歌",
+    "pinyin": "chàng gē",
+    "pron_es": "tshàng gē",
+    "meaning": "Cantar",
+    "category": "Otros"
+  },
+  {
+    "term": "三个月",
+    "pinyin": "sān gè yuè",
+    "pron_es": "sān gè yuè",
+    "meaning": "tres meses",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "唱",
+    "pinyin": "chàng",
+    "pron_es": "tshàng",
+    "meaning": "Cantar",
+    "category": "Otros"
+  },
+  {
+    "term": "今年",
+    "pinyin": "jīn nián",
+    "pron_es": "yīn nián",
+    "meaning": "este año",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "飞",
+    "pinyin": "fēi",
+    "pron_es": "fēi",
+    "meaning": "volar",
+    "category": "Otros"
+  },
+  {
+    "term": "你要坐车去哪里",
+    "pinyin": "nǐ yào zuò chē qù nǎ lǐ",
+    "pron_es": "nǐ yào dzuò tshē tshù nǎ lǐ",
+    "meaning": "¿Adónde vas en coche?",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "你去了哪里旅行",
+    "pinyin": "nǐ qù le nǎ lǐ lǚ xíng",
+    "pron_es": "nǐ tshù le nǎ lǐ lǚ shíng",
+    "meaning": "donde viajaste",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "我要坐车去学校",
+    "pinyin": "wǒ yào zuò chē qù xué xiào",
+    "pron_es": "wǒ yào dzuò tshē tshù shué shiào",
+    "meaning": "quiero ir a la escuela en coche",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "我去了哥斯达黎加旅行",
+    "pinyin": "wǒ qù le gē sī dá lí jiā lǚ xíng",
+    "pron_es": "wǒ tshù le gē sī dá lí yiā lǚ shíng",
+    "meaning": "viajé a costa rica",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "我旅行了三小时",
+    "pinyin": "wǒ lǚ xíng le sān xiǎo shí",
+    "pron_es": "wǒ lǚ shíng le sān shiǎo shí",
+    "meaning": "viajé tres horas",
+    "category": "Adjetivos"
+  },
+  {
+    "term": "我要飞",
+    "pinyin": "wǒ yào fēi",
+    "pron_es": "wǒ yào fēi",
+    "meaning": "quiero volar",
+    "category": "Otros"
+  },
+  {
+    "term": "我晚上唱",
+    "pinyin": "wǒ wǎn shàng chàng",
+    "pron_es": "wǒ wǎn shàng tshàng",
+    "meaning": "yo canto de noche",
+    "category": "Expresiones"
+  },
+  {
+    "term": "很远",
+    "pinyin": "hěn yuǎn",
+    "pron_es": "hěn yuǎn",
+    "meaning": "muy lejos",
+    "category": "Otros"
+  },
+  {
+    "term": "将",
+    "pinyin": "jiāng",
+    "pron_es": "yiāng",
+    "meaning": "Voluntad",
+    "category": "Otros"
+  },
+  {
+    "term": "毛衣",
+    "pinyin": "máo yī",
+    "pron_es": "máo yī",
+    "meaning": "suéter",
+    "category": "Otros"
+  },
+  {
+    "term": "上周",
+    "pinyin": "shàng zhōu",
+    "pron_es": "shàng yōu",
+    "meaning": "la semana pasada",
+    "category": "Otros"
+  },
+  {
+    "term": "三十分钟",
+    "pinyin": "sān shí fēn zhōng",
+    "pron_es": "sān shí fēn yōng",
+    "meaning": "treinta minutos",
+    "category": "Expresiones"
+  },
+  {
+    "term": "老板",
+    "pinyin": "lǎo bǎn",
+    "pron_es": "lǎo bǎn",
+    "meaning": "jefe",
+    "category": "Otros"
+  },
+  {
+    "term": "一张纸",
+    "pinyin": "yī zhāng zhǐ",
+    "pron_es": "yī yāng yǐ",
+    "meaning": "pedazo de papel",
+    "category": "Otros"
+  },
+  {
+    "term": "肉",
+    "pinyin": "ròu",
+    "pron_es": "ròu",
+    "meaning": "Carne",
+    "category": "Otros"
+  },
+  {
+    "term": "很快",
+    "pinyin": "hěn kuài",
+    "pron_es": "hěn kuài",
+    "meaning": "pronto",
+    "category": "Adjetivos"
+  },
+  {
+    "term": "看情况",
+    "pinyin": "kàn qíng kuàng",
+    "pron_es": "kàn tshíng kuàng",
+    "meaning": "Depende de la situación",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "用刀",
+    "pinyin": "yòng dāo",
+    "pron_es": "yòng dāo",
+    "meaning": "usar cuchillo",
+    "category": "Otros"
+  },
+  {
+    "term": "运动",
+    "pinyin": "yùn dòng",
+    "pron_es": "yùn dòng",
+    "meaning": "deportes",
+    "category": "Otros"
+  },
+  {
+    "term": "家务",
+    "pinyin": "jiā wù",
+    "pron_es": "yiā wù",
+    "meaning": "tareas de la casa",
+    "category": "Otros"
+  },
+  {
+    "term": "作业",
+    "pinyin": "zuò yè",
+    "pron_es": "dzuò yè",
+    "meaning": "Operación",
+    "category": "Otros"
+  },
+  {
+    "term": "做饭做多久",
+    "pinyin": "zuò fàn zuò duō jiǔ",
+    "pron_es": "dzuò fàn dzuò duō yiǔ",
+    "meaning": "cuanto tiempo se tarda en cocinar",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "这么久",
+    "pinyin": "zhè me jiǔ",
+    "pron_es": "yè me yiǔ",
+    "meaning": "hasta la vista",
+    "category": "Otros"
+  },
+  {
+    "term": "在健身房",
+    "pinyin": "zài jiàn shēn fáng",
+    "pron_es": "dzài yiàn shēn fáng",
+    "meaning": "en el gimnasio",
+    "category": "Expresiones"
+  },
+  {
+    "term": "所以",
+    "pinyin": "suǒ yǐ",
+    "pron_es": "suǒ yǐ",
+    "meaning": "entonces",
+    "category": "Otros"
+  },
+  {
+    "term": "在厨房",
+    "pinyin": "zài chú fáng",
+    "pron_es": "dzài tshú fáng",
+    "meaning": "en la cocina",
+    "category": "Otros"
+  },
+  {
+    "term": "想",
+    "pinyin": "xiǎng",
+    "pron_es": "shiǎng",
+    "meaning": "pensar",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "今天要吃什么",
+    "pinyin": "jīn tiān yào chī shén me",
+    "pron_es": "yīn tiān yào tshī shén me",
+    "meaning": "que comer hoy",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "思考",
+    "pinyin": "sī kǎo",
+    "pron_es": "sī kǎo",
+    "meaning": "pensar",
+    "category": "Otros"
+  },
+  {
+    "term": "想念",
+    "pinyin": "xiǎng niàn",
+    "pron_es": "shiǎng niàn",
+    "meaning": "extrañar",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "我的床",
+    "pinyin": "wǒ de chuáng",
+    "pron_es": "wǒ de tshuáng",
+    "meaning": "mi cama",
+    "category": "Otros"
+  },
+  {
+    "term": "我朋友",
+    "pinyin": "wǒ péng yǒu",
+    "pron_es": "wǒ péng yǒu",
+    "meaning": "mi amigo",
+    "category": "Otros"
+  },
+  {
+    "term": "去新加坡旅行",
+    "pinyin": "qù xīn jiā pō lǚ xíng",
+    "pron_es": "tshù shīn yiā pō lǚ shíng",
+    "meaning": "viajar a singapur",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "做面条",
+    "pinyin": "zuò miàn tiáo",
+    "pron_es": "dzuò miàn tiáo",
+    "meaning": "hacer fideos",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "跟我的朋友跳舞",
+    "pinyin": "gēn wǒ de péng yǒu tiào wǔ",
+    "pron_es": "gēn wǒ de péng yǒu tiào wǔ",
+    "meaning": "bailar con mis amigos",
+    "category": "Expresiones"
+  },
+  {
+    "term": "你旅行的时候",
+    "pinyin": "nǐ lǚ xíng de shí hòu",
+    "pron_es": "nǐ lǚ shíng de shí hòu",
+    "meaning": "cuando viajas",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "每餐",
+    "pinyin": "měi cān",
+    "pron_es": "měi tsān",
+    "meaning": "cada comida",
+    "category": "Otros"
+  },
+  {
+    "term": "喜欢",
+    "pinyin": "xǐ huān",
+    "pron_es": "shǐ huān",
+    "meaning": "como",
+    "category": "Otros"
+  },
+  {
+    "term": "明天要去看的电影",
+    "pinyin": "míng tiān yào qù kàn de diàn yǐng",
+    "pron_es": "míng tiān yào tshù kàn de diàn yǐng",
+    "meaning": "Películas para ver mañana",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "听音乐",
+    "pinyin": "tīng yīn yuè",
+    "pron_es": "tīng yīn yuè",
+    "meaning": "escuchar musica",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "舞曲",
+    "pinyin": "wǔ qǔ",
+    "pron_es": "wǔ tshǔ",
+    "meaning": "música de baile",
+    "category": "Otros"
+  },
+  {
+    "term": "不喜欢",
+    "pinyin": "bù xǐ huān",
+    "pron_es": "bù shǐ huān",
+    "meaning": "aversión",
+    "category": "Otros"
+  },
+  {
+    "term": "讨厌",
+    "pinyin": "tǎo yàn",
+    "pron_es": "tǎo yàn",
+    "meaning": "Odiar",
+    "category": "Otros"
+  },
+  {
+    "term": "睡觉前",
+    "pinyin": "shuì jiào qián",
+    "pron_es": "shuì yiào tshián",
+    "meaning": "antes de ir a la cama",
+    "category": "Otros"
+  },
+  {
+    "term": "小",
+    "pinyin": "xiǎo",
+    "pron_es": "shiǎo",
+    "meaning": "Pequeño",
+    "category": "Adjetivos"
+  },
+  {
+    "term": "大学的时候",
+    "pinyin": "dà xué de shí hòu",
+    "pron_es": "dà shué de shí hòu",
+    "meaning": "en la universidad",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "切",
+    "pinyin": "qiè",
+    "pron_es": "tshiè",
+    "meaning": "cortar",
+    "category": "Otros"
+  },
+  {
+    "term": "未",
+    "pinyin": "wèi",
+    "pron_es": "wèi",
+    "meaning": "aún no",
+    "category": "Otros"
+  },
+  {
+    "term": "多经党",
+    "pinyin": "duō jīng dǎng",
+    "pron_es": "duō yīng dǎng",
+    "meaning": "multipartidista",
+    "category": "Otros"
+  },
+  {
+    "term": "有一点",
+    "pinyin": "yǒu yì diǎn",
+    "pron_es": "yǒu yì diǎn",
+    "meaning": "Un poco",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "难",
+    "pinyin": "nán",
+    "pron_es": "nán",
+    "meaning": "Desastre",
+    "category": "Adjetivos"
+  },
+  {
+    "term": "开心",
+    "pinyin": "kāi xīn",
+    "pron_es": "kāi shīn",
+    "meaning": "feliz",
+    "category": "Otros"
+  },
+  {
+    "term": "早饭",
+    "pinyin": "zǎo fàn",
+    "pron_es": "dzǎo fàn",
+    "meaning": "desayuno",
+    "category": "Otros"
+  },
+  {
+    "term": "飞去旅行",
+    "pinyin": "fēi qù lǚ xíng",
+    "pron_es": "fēi tshù lǚ shíng",
+    "meaning": "volar para viajar",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "做运动",
+    "pinyin": "zuò yùn dòng",
+    "pron_es": "dzuò yùn dòng",
+    "meaning": "hacer ejercicio",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "帮助",
+    "pinyin": "bāng zhù",
+    "pron_es": "bāng yù",
+    "meaning": "ayuda",
+    "category": "Otros"
+  },
+  {
+    "term": "司机",
+    "pinyin": "sī jī",
+    "pron_es": "sī yī",
+    "meaning": "conductor",
+    "category": "Otros"
+  },
+  {
+    "term": "有时",
+    "pinyin": "yǒu shí",
+    "pron_es": "yǒu shí",
+    "meaning": "a veces",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "坐船",
+    "pinyin": "zuò chuán",
+    "pron_es": "dzuò tshuán",
+    "meaning": "tomar un barco",
+    "category": "Otros"
+  },
+  {
+    "term": "每次",
+    "pinyin": "měi cì",
+    "pron_es": "měi tsì",
+    "meaning": "cada vez",
+    "category": "Otros"
+  },
+  {
+    "term": "伴",
+    "pinyin": "bàn",
+    "pron_es": "bàn",
+    "meaning": "compañero",
+    "category": "Otros"
+  },
+  {
+    "term": "他在英国每次出门都带雨伴",
+    "pinyin": "tā zài yīng guó měi cì chū mén dōu dài yǔ bàn",
+    "pron_es": "tā dzài yīng guó měi tsì tshū mén dōu dài yǔ bàn",
+    "meaning": "Siempre lleva consigo un compañero de lluvia cuando sale a Inglaterra.",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "寄",
+    "pinyin": "jì",
+    "pron_es": "yì",
+    "meaning": "enviar",
+    "category": "Otros"
+  },
+  {
+    "term": "医院",
+    "pinyin": "yī yuàn",
+    "pron_es": "yī yuàn",
+    "meaning": "Hospital",
+    "category": "Otros"
+  },
+  {
+    "term": "下次",
+    "pinyin": "xià cì",
+    "pron_es": "shià tsì",
+    "meaning": "La próxima vez",
+    "category": "Otros"
+  },
+  {
+    "term": "他在英国每次出门带不带雨",
+    "pinyin": "tā zài yīng guó měi cì chū mén dài bù dài yǔ",
+    "pron_es": "tā dzài yīng guó měi tsì tshū mén dài bù dài yǔ",
+    "meaning": "¿Se lleva la lluvia consigo cada vez que sale al Reino Unido?",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "和专",
+    "pinyin": "hé zhuān",
+    "pron_es": "hé yuān",
+    "meaning": "Hezhuan",
+    "category": "Otros"
+  },
+  {
+    "term": "现在几点",
+    "pinyin": "xiàn zài jǐ diǎn",
+    "pron_es": "shiàn dzài yǐ diǎn",
+    "meaning": "¿Qué hora es ahora?",
+    "category": "Expresiones"
+  },
+  {
+    "term": "十一",
+    "pinyin": "shí yī",
+    "pron_es": "shí yī",
+    "meaning": "once",
+    "category": "Otros"
+  },
+  {
+    "term": "一月",
+    "pinyin": "yí yuè",
+    "pron_es": "yí yuè",
+    "meaning": "Enero",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "月",
+    "pinyin": "yuè",
+    "pron_es": "yuè",
+    "meaning": "luna",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "二月",
+    "pinyin": "èr yuè",
+    "pron_es": "èr yuè",
+    "meaning": "Febrero",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "四月",
+    "pinyin": "sì yuè",
+    "pron_es": "sì yuè",
+    "meaning": "Abril",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "几月",
+    "pinyin": "jǐ yuè",
+    "pron_es": "yǐ yuè",
+    "meaning": "meses",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "五月",
+    "pinyin": "wǔ yuè",
+    "pron_es": "wǔ yuè",
+    "meaning": "Puede",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "六月",
+    "pinyin": "liù yuè",
+    "pron_es": "liù yuè",
+    "meaning": "Junio",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "七月",
+    "pinyin": "qī yuè",
+    "pron_es": "tshī yuè",
+    "meaning": "Julio",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "十一月",
+    "pinyin": "shí yī yuè",
+    "pron_es": "shí yī yuè",
+    "meaning": "Noviembre",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "十二月",
+    "pinyin": "shí èr yuè",
+    "pron_es": "shí èr yuè",
+    "meaning": "Diciembre",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "我叫",
+    "pinyin": "wǒ jiào",
+    "pron_es": "wǒ yiào",
+    "meaning": "mi nombre es",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "岁",
+    "pinyin": "suì",
+    "pron_es": "suì",
+    "meaning": "edad",
+    "category": "Otros"
+  },
+  {
+    "term": "免责姓",
+    "pinyin": "miǎn zé xìng",
+    "pron_es": "miǎn dzé shìng",
+    "meaning": "Descargo de responsabilidad",
+    "category": "Otros"
+  },
+  {
+    "term": "市",
+    "pinyin": "shì",
+    "pron_es": "shì",
+    "meaning": "ciudad",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "你结婚了吗",
+    "pinyin": "nǐ jié hūn le ma",
+    "pron_es": "nǐ yié hūn le ma",
+    "meaning": "Está casado",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "青天",
+    "pinyin": "qīng tiān",
+    "pron_es": "tshīng tiān",
+    "meaning": "cielo azul",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "后天",
+    "pinyin": "hòu tiān",
+    "pron_es": "hòu tiān",
+    "meaning": "pasado mañana",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "星期二",
+    "pinyin": "xīng qī èr",
+    "pron_es": "shīng tshī èr",
+    "meaning": "Martes",
+    "category": "Otros"
+  },
+  {
+    "term": "星期三",
+    "pinyin": "xīng qī sān",
+    "pron_es": "shīng tshī sān",
+    "meaning": "Miércoles",
+    "category": "Otros"
+  },
+  {
+    "term": "明天是星期几",
+    "pinyin": "míng tiān shì xīng qī jǐ",
+    "pron_es": "míng tiān shì shīng tshī yǐ",
+    "meaning": "Qué día es mañana",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "明天是",
+    "pinyin": "míng tiān shì",
+    "pron_es": "míng tiān shì",
+    "meaning": "mañana es",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "星期几",
+    "pinyin": "xīng qī jǐ",
+    "pron_es": "shīng tshī yǐ",
+    "meaning": "día de la semana",
+    "category": "Otros"
+  },
+  {
+    "term": "问我",
+    "pinyin": "wèn wǒ",
+    "pron_es": "wèn wǒ",
+    "meaning": "Pregúnteme",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "昨天是星期几",
+    "pinyin": "zuó tiān shì xīng qī jǐ",
+    "pron_es": "dzuó tiān shì shīng tshī yǐ",
+    "meaning": "¿Qué día de la semana fue ayer?",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "昨天是",
+    "pinyin": "zuó tiān shì",
+    "pron_es": "dzuó tiān shì",
+    "meaning": "ayer fue",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "对",
+    "pinyin": "duì",
+    "pron_es": "duì",
+    "meaning": "bien",
+    "category": "Otros"
+  },
+  {
+    "term": "今天是星期几",
+    "pinyin": "jīn tiān shì xīng qī jǐ",
+    "pron_es": "yīn tiān shì shīng tshī yǐ",
+    "meaning": "¿Qué día de la semana es hoy?",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "今天是",
+    "pinyin": "jīn tiān shì",
+    "pron_es": "yīn tiān shì",
+    "meaning": "hoy es",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "你有几个小孩",
+    "pinyin": "nǐ yǒu jǐ gè xiǎo hái",
+    "pron_es": "nǐ yǒu yǐ gè shiǎo hái",
+    "meaning": "cuantos hijos tienes",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "央汪",
+    "pinyin": "yāng wāng",
+    "pron_es": "yāng wāng",
+    "meaning": "Yang Wang",
+    "category": "Otros"
+  },
+  {
+    "term": "那是手机",
+    "pinyin": "nà shì shǒu jī",
+    "pron_es": "nà shì shǒu yī",
+    "meaning": "eso es un telefono movil",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "更",
+    "pinyin": "gèng",
+    "pron_es": "gèng",
+    "meaning": "Incluso",
+    "category": "Otros"
+  },
+  {
+    "term": "些",
+    "pinyin": "xiē",
+    "pron_es": "shiē",
+    "meaning": "alguno",
+    "category": "Otros"
+  },
+  {
+    "term": "一一一一一一",
+    "pinyin": "yī yī yī yī yī yī",
+    "pron_es": "yī yī yī yī yī yī",
+    "meaning": "111111",
+    "category": "Expresiones"
+  },
+  {
+    "term": "一六",
+    "pinyin": "yī liù",
+    "pron_es": "yī liù",
+    "meaning": "uno seis",
+    "category": "Otros"
+  },
+  {
+    "term": "有什么",
+    "pinyin": "yǒu shén me",
+    "pron_es": "yǒu shén me",
+    "meaning": "¿Qué hay ahí?",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "此",
+    "pinyin": "cǐ",
+    "pron_es": "tsǐ",
+    "meaning": "este",
+    "category": "Otros"
+  },
+  {
+    "term": "他他",
+    "pinyin": "tā tā",
+    "pron_es": "tā tā",
+    "meaning": "él él",
+    "category": "Otros"
+  },
+  {
+    "term": "不是",
+    "pinyin": "bú shì",
+    "pron_es": "bú shì",
+    "meaning": "No",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "页",
+    "pinyin": "yè",
+    "pron_es": "yè",
+    "meaning": "Página",
+    "category": "Otros"
+  },
+  {
+    "term": "一百",
+    "pinyin": "yì bǎi",
+    "pron_es": "yì bǎi",
+    "meaning": "ciento",
+    "category": "Otros"
+  },
+  {
+    "term": "刺",
+    "pinyin": "cì",
+    "pron_es": "tsì",
+    "meaning": "pinchazo",
+    "category": "Otros"
+  },
+  {
+    "term": "纸",
+    "pinyin": "zhǐ",
+    "pron_es": "yǐ",
+    "meaning": "Papel",
+    "category": "Otros"
+  },
+  {
+    "term": "训",
+    "pinyin": "xùn",
+    "pron_es": "shùn",
+    "meaning": "capacitación",
+    "category": "Otros"
+  },
+  {
+    "term": "家十",
+    "pinyin": "jiā shí",
+    "pron_es": "yiā shí",
+    "meaning": "casa diez",
+    "category": "Otros"
+  },
+  {
+    "term": "似",
+    "pinyin": "shì",
+    "pron_es": "shì",
+    "meaning": "como",
+    "category": "Otros"
+  },
+  {
+    "term": "家而",
+    "pinyin": "jiā ér",
+    "pron_es": "yiā ér",
+    "meaning": "hogar",
+    "category": "Otros"
+  },
+  {
+    "term": "众",
+    "pinyin": "zhòng",
+    "pron_es": "yòng",
+    "meaning": "público",
+    "category": "Otros"
+  },
+  {
+    "term": "己",
+    "pinyin": "jǐ",
+    "pron_es": "yǐ",
+    "meaning": "ser",
+    "category": "Otros"
+  },
+  {
+    "term": "位",
+    "pinyin": "wèi",
+    "pron_es": "wèi",
+    "meaning": "Poco",
+    "category": "Otros"
+  },
+  {
+    "term": "几点几分",
+    "pinyin": "jǐ diǎn jǐ fēn",
+    "pron_es": "yǐ diǎn yǐ fēn",
+    "meaning": "¿A qué hora?",
+    "category": "Expresiones"
+  },
+  {
+    "term": "汉字",
+    "pinyin": "hàn zì",
+    "pron_es": "hàn dzì",
+    "meaning": "Carácter chino",
+    "category": "Otros"
+  },
+  {
+    "term": "写",
+    "pinyin": "xiě",
+    "pron_es": "shiě",
+    "meaning": "Escribir",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "可所",
+    "pinyin": "kě suǒ",
+    "pron_es": "kě suǒ",
+    "meaning": "puede ser",
+    "category": "Otros"
+  },
+  {
+    "term": "拿没拿",
+    "pinyin": "ná méi ná",
+    "pron_es": "ná méi ná",
+    "meaning": "¿Lo tomaste o no?",
+    "category": "Otros"
+  },
+  {
+    "term": "不于",
+    "pinyin": "bù yú",
+    "pron_es": "bù yú",
+    "meaning": "no en",
+    "category": "Otros"
+  },
+  {
+    "term": "要不",
+    "pinyin": "yào bù",
+    "pron_es": "yào bù",
+    "meaning": "o",
+    "category": "Otros"
+  },
+  {
+    "term": "不拿",
+    "pinyin": "bù ná",
+    "pron_es": "bù ná",
+    "meaning": "no lo tomes",
+    "category": "Otros"
+  },
+  {
+    "term": "起",
+    "pinyin": "qǐ",
+    "pron_es": "tshǐ",
+    "meaning": "elevar",
+    "category": "Otros"
+  },
+  {
+    "term": "为",
+    "pinyin": "wèi",
+    "pron_es": "wèi",
+    "meaning": "para",
+    "category": "Otros"
+  },
+  {
+    "term": "理",
+    "pinyin": "lǐ",
+    "pron_es": "lǐ",
+    "meaning": "razón",
+    "category": "Otros"
+  },
+  {
+    "term": "一一一一",
+    "pinyin": "yī yī yī yī",
+    "pron_es": "yī yī yī yī",
+    "meaning": "uno por uno",
+    "category": "Expresiones"
+  },
+  {
+    "term": "国术",
+    "pinyin": "guó shù",
+    "pron_es": "guó shù",
+    "meaning": "artes marciales chinas",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "三办公室",
+    "pinyin": "sān bàn gōng shì",
+    "pron_es": "sān bàn gōng shì",
+    "meaning": "Tres oficinas",
+    "category": "Expresiones"
+  },
+  {
+    "term": "所一十分",
+    "pinyin": "suǒ yī shí fēn",
+    "pron_es": "suǒ yī shí fēn",
+    "meaning": "los diez",
+    "category": "Expresiones"
+  },
+  {
+    "term": "二一",
+    "pinyin": "èr yī",
+    "pron_es": "èr yī",
+    "meaning": "1 de febrero",
+    "category": "Otros"
+  },
+  {
+    "term": "一人一",
+    "pinyin": "yī rén yī",
+    "pron_es": "yī rén yī",
+    "meaning": "uno por persona",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "扣一十分",
+    "pinyin": "kòu yī shí fēn",
+    "pron_es": "kòu yī shí fēn",
+    "meaning": "Diez puntos descontados",
+    "category": "Expresiones"
+  },
+  {
+    "term": "开了",
+    "pinyin": "kāi le",
+    "pron_es": "kāi le",
+    "meaning": "Abierto",
+    "category": "Otros"
+  },
+  {
+    "term": "很早",
+    "pinyin": "hěn zǎo",
+    "pron_es": "hěn dzǎo",
+    "meaning": "muy temprano",
+    "category": "Otros"
+  },
+  {
+    "term": "午",
+    "pinyin": "wǔ",
+    "pron_es": "wǔ",
+    "meaning": "mediodía",
+    "category": "Otros"
+  },
+  {
+    "term": "新",
+    "pinyin": "xīn",
+    "pron_es": "shīn",
+    "meaning": "nuevo",
+    "category": "Adjetivos"
+  },
+  {
+    "term": "咖啡店",
+    "pinyin": "kā fēi diàn",
+    "pron_es": "kā fēi diàn",
+    "meaning": "cafetería",
+    "category": "Otros"
+  },
+  {
+    "term": "商店晚上十点",
+    "pinyin": "shāng diàn wǎn shàng shí diǎn",
+    "pron_es": "shāng diàn wǎn shàng shí diǎn",
+    "meaning": "Tienda a las 10 p.m.",
+    "category": "Expresiones"
+  },
+  {
+    "term": "卖",
+    "pinyin": "mài",
+    "pron_es": "mài",
+    "meaning": "Vender",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "你家",
+    "pinyin": "nǐ jiā",
+    "pron_es": "nǐ yiā",
+    "meaning": "tu casa",
+    "category": "Otros"
+  },
+  {
+    "term": "加网",
+    "pinyin": "jiā wǎng",
+    "pron_es": "yiā wǎng",
+    "meaning": "Cribado",
+    "category": "Otros"
+  },
+  {
+    "term": "厂通",
+    "pinyin": "chǎng tōng",
+    "pron_es": "tshǎng tōng",
+    "meaning": "Pase de fábrica",
+    "category": "Otros"
+  },
+  {
+    "term": "去来",
+    "pinyin": "qù lái",
+    "pron_es": "tshù lái",
+    "meaning": "Ir y venir",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "人人",
+    "pinyin": "rén rén",
+    "pron_es": "rén rén",
+    "meaning": "todos",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "没",
+    "pinyin": "méi",
+    "pron_es": "méi",
+    "meaning": "sin",
+    "category": "Otros"
+  },
+  {
+    "term": "了明天",
+    "pinyin": "le míng tiān",
+    "pron_es": "le míng tiān",
+    "meaning": "mañana",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "你来吃饭吗",
+    "pinyin": "nǐ lái chī fàn ma",
+    "pron_es": "nǐ lái tshī fàn ma",
+    "meaning": "¿Vienes a cenar?",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "坐下",
+    "pinyin": "zuò xià",
+    "pron_es": "dzuò shià",
+    "meaning": "sentarse",
+    "category": "Otros"
+  },
+  {
+    "term": "我来吃饭",
+    "pinyin": "wǒ lái chī fàn",
+    "pron_es": "wǒ lái tshī fàn",
+    "meaning": "estoy aquí para comer",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "你要去哪里",
+    "pinyin": "nǐ yào qù nǎ lǐ",
+    "pron_es": "nǐ yào tshù nǎ lǐ",
+    "meaning": "¿adónde vas?",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "你现在坐在哪里",
+    "pinyin": "nǐ xiàn zài zuò zài nǎ lǐ",
+    "pron_es": "nǐ shiàn dzài dzuò dzài nǎ lǐ",
+    "meaning": "¿Dónde estás sentado ahora?",
+    "category": "Expresiones"
+  },
+  {
+    "term": "我要去商店",
+    "pinyin": "wǒ yào qù shāng diàn",
+    "pron_es": "wǒ yào tshù shāng diàn",
+    "meaning": "quiero ir a la tienda",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "我坐在椅子上",
+    "pinyin": "wǒ zuò zài yǐ zi shàng",
+    "pron_es": "wǒ dzuò dzài yǐ dzi shàng",
+    "meaning": "me siento en una silla",
+    "category": "Expresiones"
+  },
+  {
+    "term": "你要走路去哪里",
+    "pinyin": "nǐ yào zǒu lù qù nǎ lǐ",
+    "pron_es": "nǐ yào dzǒu lù tshù nǎ lǐ",
+    "meaning": "donde quieres caminar",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "你明天站在哪儿",
+    "pinyin": "nǐ míng tiān zhàn zài nǎ ér",
+    "pron_es": "nǐ míng tiān yàn dzài nǎ ér",
+    "meaning": "¿Dónde estarás mañana?",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "我明天站在朋友家里",
+    "pinyin": "wǒ míng tiān zhàn zài péng yǒu jiā lǐ",
+    "pron_es": "wǒ míng tiān yàn dzài péng yǒu yiā lǐ",
+    "meaning": "Mañana estaré en la casa de un amigo.",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "二一一",
+    "pinyin": "èr yī yī",
+    "pron_es": "èr yī yī",
+    "meaning": "dos uno uno",
+    "category": "Otros"
+  },
+  {
+    "term": "我在问他在叫什么名字",
+    "pinyin": "wǒ zài wèn tā zài jiào shén me míng zì",
+    "pron_es": "wǒ dzài wèn tā dzài yiào shén me míng dzì",
+    "meaning": "Le pregunto como se llama",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "小区",
+    "pinyin": "xiǎo qū",
+    "pron_es": "shiǎo tshū",
+    "meaning": "Comunidad",
+    "category": "Adjetivos"
+  },
+  {
+    "term": "总",
+    "pinyin": "zǒng",
+    "pron_es": "dzǒng",
+    "meaning": "total",
+    "category": "Otros"
+  },
+  {
+    "term": "散步",
+    "pinyin": "sàn bù",
+    "pron_es": "sàn bù",
+    "meaning": "caminar",
+    "category": "Otros"
+  },
+  {
+    "term": "确个星期",
+    "pinyin": "què gè xīng qī",
+    "pron_es": "tshuè gè shīng tshī",
+    "meaning": "Semana exacta",
+    "category": "Expresiones"
+  },
+  {
+    "term": "上个星期",
+    "pinyin": "shàng gè xīng qī",
+    "pron_es": "shàng gè shīng tshī",
+    "meaning": "la semana pasada",
+    "category": "Expresiones"
+  },
+  {
+    "term": "周一",
+    "pinyin": "zhōu yī",
+    "pron_es": "yōu yī",
+    "meaning": "los lunes",
+    "category": "Otros"
+  },
+  {
+    "term": "明志",
+    "pinyin": "míng zhì",
+    "pron_es": "míng yì",
+    "meaning": "Mingzhi",
+    "category": "Otros"
+  },
+  {
+    "term": "卦",
+    "pinyin": "guà",
+    "pron_es": "guà",
+    "meaning": "Gua",
+    "category": "Otros"
+  },
+  {
+    "term": "一点点",
+    "pinyin": "yì diǎn diǎn",
+    "pron_es": "yì diǎn diǎn",
+    "meaning": "Un poco",
+    "category": "Otros"
+  },
+  {
+    "term": "议",
+    "pinyin": "yì",
+    "pron_es": "yì",
+    "meaning": "conversar",
+    "category": "Otros"
+  },
+  {
+    "term": "玩具",
+    "pinyin": "wán jù",
+    "pron_es": "wán yù",
+    "meaning": "Juguete",
+    "category": "Otros"
+  },
+  {
+    "term": "红绿灯",
+    "pinyin": "hóng lǜ dēng",
+    "pron_es": "hóng lǜ dēng",
+    "meaning": "semáforo",
+    "category": "Otros"
+  },
+  {
+    "term": "人时",
+    "pinyin": "rén shí",
+    "pron_es": "rén shí",
+    "meaning": "tiempo humano",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "么时候",
+    "pinyin": "me shí hòu",
+    "pron_es": "me shí hòu",
+    "meaning": "cuando",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "说中文的地方",
+    "pinyin": "shuō zhōng wén de dì fāng",
+    "pron_es": "shuō yōng wén de dì fāng",
+    "meaning": "Un lugar donde se habla chino",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "什各",
+    "pinyin": "shén gè",
+    "pron_es": "shén gè",
+    "meaning": "shige",
+    "category": "Otros"
+  },
+  {
+    "term": "他在会议上",
+    "pinyin": "tā zài huì yì shàng",
+    "pron_es": "tā dzài huì yì shàng",
+    "meaning": "él estaba en la reunión",
+    "category": "Expresiones"
+  },
+  {
+    "term": "的看法",
+    "pinyin": "de kàn fǎ",
+    "pron_es": "de kàn fǎ",
+    "meaning": "vista",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "昨天和爷爷",
+    "pinyin": "zuó tiān hé yé yé",
+    "pron_es": "dzuó tiān hé yé yé",
+    "meaning": "Ayer con el abuelo",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "很多有趣的故事",
+    "pinyin": "hěn duō yǒu qù de gù shì",
+    "pron_es": "hěn duō yǒu tshù de gù shì",
+    "meaning": "muchas historias interesantes",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "老师会",
+    "pinyin": "lǎo shī huì",
+    "pron_es": "lǎo shī huì",
+    "meaning": "reunión de profesores",
+    "category": "Otros"
+  },
+  {
+    "term": "未有来",
+    "pinyin": "wèi yǒu lái",
+    "pron_es": "wèi yǒu lái",
+    "meaning": "No viene todavía",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "说了说",
+    "pinyin": "shuō le shuō",
+    "pron_es": "shuō le shuō",
+    "meaning": "habló de eso",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "他在会议上说",
+    "pinyin": "tā zài huì yì shàng shuō",
+    "pron_es": "tā dzài huì yì shàng shuō",
+    "meaning": "dijo en la reunión",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "自己的看法",
+    "pinyin": "zì jǐ de kàn fǎ",
+    "pron_es": "dzì yǐ de kàn fǎ",
+    "meaning": "propia opinión",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "六办",
+    "pinyin": "liù bàn",
+    "pron_es": "liù bàn",
+    "meaning": "Sexta Oficina",
+    "category": "Otros"
+  },
+  {
+    "term": "人办",
+    "pinyin": "rén bàn",
+    "pron_es": "rén bàn",
+    "meaning": "dirigido por el hombre",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "上昨天和爷爷",
+    "pinyin": "shàng zuó tiān hé yé yé",
+    "pron_es": "shàng dzuó tiān hé yé yé",
+    "meaning": "Anoche con el abuelo",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "很多有",
+    "pinyin": "hěn duō yǒu",
+    "pron_es": "hěn duō yǒu",
+    "meaning": "muchos tienen",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "事",
+    "pinyin": "shì",
+    "pron_es": "shì",
+    "meaning": "cosa",
+    "category": "Otros"
+  },
+  {
+    "term": "新的故事",
+    "pinyin": "xīn de gù shì",
+    "pron_es": "shīn de gù shì",
+    "meaning": "nueva historia",
+    "category": "Adjetivos"
+  },
+  {
+    "term": "新的规则吗",
+    "pinyin": "xīn de guī zé ma",
+    "pron_es": "shīn de guī dzé ma",
+    "meaning": "¿Nuevas reglas?",
+    "category": "Adjetivos"
+  },
+  {
+    "term": "上人",
+    "pinyin": "shàng rén",
+    "pron_es": "shàng rén",
+    "meaning": "Maestro",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "八上",
+    "pinyin": "bā shàng",
+    "pron_es": "bā shàng",
+    "meaning": "yagami",
+    "category": "Otros"
+  },
+  {
+    "term": "几点让",
+    "pinyin": "jǐ diǎn ràng",
+    "pron_es": "yǐ diǎn ràng",
+    "meaning": "¿A qué hora rendirse?",
+    "category": "Otros"
+  },
+  {
+    "term": "周末",
+    "pinyin": "zhōu mò",
+    "pron_es": "yōu mò",
+    "meaning": "fin de semana",
+    "category": "Otros"
+  },
+  {
+    "term": "修车店",
+    "pinyin": "xiū chē diàn",
+    "pron_es": "shiū tshē diàn",
+    "meaning": "taller de reparación de automóviles",
+    "category": "Otros"
+  },
+  {
+    "term": "技工",
+    "pinyin": "jì gōng",
+    "pron_es": "yì gōng",
+    "meaning": "mecánico",
+    "category": "Otros"
+  },
+  {
+    "term": "学",
+    "pinyin": "xué",
+    "pron_es": "shué",
+    "meaning": "estudiar",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "习",
+    "pinyin": "xí",
+    "pron_es": "shí",
+    "meaning": "hábito",
+    "category": "Otros"
+  },
+  {
+    "term": "时",
+    "pinyin": "shí",
+    "pron_es": "shí",
+    "meaning": "hora",
+    "category": "Otros"
+  },
+  {
+    "term": "外这",
+    "pinyin": "wài zhè",
+    "pron_es": "wài yè",
+    "meaning": "Fuera de esto",
+    "category": "Otros"
+  },
+  {
+    "term": "贞",
+    "pinyin": "zhēn",
+    "pron_es": "yēn",
+    "meaning": "Castidad",
+    "category": "Otros"
+  },
+  {
+    "term": "上一",
+    "pinyin": "shàng yī",
+    "pron_es": "shàng yī",
+    "meaning": "Anterior",
+    "category": "Otros"
+  },
+  {
+    "term": "营口",
+    "pinyin": "yíng kǒu",
+    "pron_es": "yíng kǒu",
+    "meaning": "Yingkóu",
+    "category": "Otros"
+  },
+  {
+    "term": "多少钱",
+    "pinyin": "duō shǎo qián",
+    "pron_es": "duō shǎo tshián",
+    "meaning": "Cuánto",
+    "category": "Otros"
+  },
+  {
+    "term": "修理",
+    "pinyin": "xiū lǐ",
+    "pron_es": "shiū lǐ",
+    "meaning": "reparar",
+    "category": "Otros"
+  },
+  {
+    "term": "我们明天早上要七点学习",
+    "pinyin": "wǒ men míng tiān zǎo shàng yào qī diǎn xué xí",
+    "pron_es": "wǒ men míng tiān dzǎo shàng yào tshī diǎn shué shí",
+    "meaning": "Tenemos que estudiar mañana a las siete de la mañana.",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "谁星期一修理了车",
+    "pinyin": "shuí xīng qī yī xiū lǐ le chē",
+    "pron_es": "shuí shīng tshī yī shiū lǐ le tshē",
+    "meaning": "¿Quién arregló el auto el lunes?",
+    "category": "Expresiones"
+  },
+  {
+    "term": "你昨天什么时候起床",
+    "pinyin": "nǐ zuó tiān shén me shí hòu qǐ chuáng",
+    "pron_es": "nǐ dzuó tiān shén me shí hòu tshǐ tshuáng",
+    "meaning": "cuando te levantaste ayer",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "星期一修理了车",
+    "pinyin": "xīng qī yī xiū lǐ le chē",
+    "pron_es": "shīng tshī yī shiū lǐ le tshē",
+    "meaning": "Coche reparado el lunes.",
+    "category": "Expresiones"
+  },
+  {
+    "term": "我昨天早上",
+    "pinyin": "wǒ zuó tiān zǎo shàng",
+    "pron_es": "wǒ dzuó tiān dzǎo shàng",
+    "meaning": "yo ayer por la mañana",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "点起床",
+    "pinyin": "diǎn qǐ chuáng",
+    "pron_es": "diǎn tshǐ tshuáng",
+    "meaning": "Despertar",
+    "category": "Otros"
+  },
+  {
+    "term": "我把手机放在手上",
+    "pinyin": "wǒ bǎ shǒu jī fàng zài shǒu shàng",
+    "pron_es": "wǒ bǎ shǒu yī fàng dzài shǒu shàng",
+    "meaning": "puse el teléfono en mi mano",
+    "category": "Expresiones"
+  },
+  {
+    "term": "放东西在这里",
+    "pinyin": "fàng dōng xī zài zhè lǐ",
+    "pron_es": "fàng dōng shī dzài yè lǐ",
+    "meaning": "Pon algo aquí",
+    "category": "Expresiones"
+  },
+  {
+    "term": "水定",
+    "pinyin": "shuǐ dìng",
+    "pron_es": "shuǐ dìng",
+    "meaning": "Shuiding",
+    "category": "Otros"
+  },
+  {
+    "term": "一一一未来",
+    "pinyin": "yī yī yī wèi lái",
+    "pron_es": "yī yī yī wèi lái",
+    "meaning": "111 futuro",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "皇",
+    "pinyin": "huáng",
+    "pron_es": "huáng",
+    "meaning": "Emperador",
+    "category": "Otros"
+  },
+  {
+    "term": "他们没去过",
+    "pinyin": "tā men méi qù guò",
+    "pron_es": "tā men méi tshù guò",
+    "meaning": "no han sido",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "他们去过外交部了",
+    "pinyin": "tā men qù guò wài jiāo bù le",
+    "pron_es": "tā men tshù guò wài yiāo bù le",
+    "meaning": "Han estado en el Ministerio de Asuntos Exteriores.",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "我们跑多久了",
+    "pinyin": "wǒ men pǎo duō jiǔ le",
+    "pron_es": "wǒ men pǎo duō yiǔ le",
+    "meaning": "¿Cuánto tiempo llevamos corriendo?",
+    "category": "Expresiones"
+  },
+  {
+    "term": "我们已经跑",
+    "pinyin": "wǒ men yǐ jīng pǎo",
+    "pron_es": "wǒ men yǐ yīng pǎo",
+    "meaning": "hemos corrido",
+    "category": "Expresiones"
+  },
+  {
+    "term": "六大为今天晚上跑了多远",
+    "pinyin": "liù dà wèi jīn tiān wǎn shàng pǎo le duō yuǎn",
+    "pron_es": "liù dà wèi yīn tiān wǎn shàng pǎo le duō yuǎn",
+    "meaning": "¿Qué distancia corrió Liu Dawei esta noche?",
+    "category": "Adjetivos"
+  },
+  {
+    "term": "大为今天晚上从餐厅跑到了",
+    "pinyin": "dà wèi jīn tiān wǎn shàng cóng cān tīng pǎo dào le",
+    "pron_es": "dà wèi yīn tiān wǎn shàng tsóng tsān tīng pǎo dào le",
+    "meaning": "Dawei se escapó del restaurante esta noche.",
+    "category": "Adjetivos"
+  },
+  {
+    "term": "中学",
+    "pinyin": "zhōng xué",
+    "pron_es": "yōng shué",
+    "meaning": "escuela secundaria",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "爱林跟谁一起跑步",
+    "pinyin": "ài lín gēn shuí yì qǐ pǎo bù",
+    "pron_es": "ài lín gēn shuí yì tshǐ pǎo bù",
+    "meaning": "¿Con quién corre Ailin?",
+    "category": "Expresiones"
+  },
+  {
+    "term": "少",
+    "pinyin": "shǎo",
+    "pron_es": "shǎo",
+    "meaning": "pocos",
+    "category": "Otros"
+  },
+  {
+    "term": "伍",
+    "pinyin": "wǔ",
+    "pron_es": "wǔ",
+    "meaning": "Wu",
+    "category": "Otros"
+  },
+  {
+    "term": "每",
+    "pinyin": "měi",
+    "pron_es": "měi",
+    "meaning": "Cada",
+    "category": "Otros"
+  },
+  {
+    "term": "三一",
+    "pinyin": "sān yī",
+    "pron_es": "sān yī",
+    "meaning": "Trinidad",
+    "category": "Otros"
+  },
+  {
+    "term": "我把东西能在这里",
+    "pinyin": "wǒ bǎ dōng xī néng zài zhè lǐ",
+    "pron_es": "wǒ bǎ dōng shī néng dzài yè lǐ",
+    "meaning": "Puedo poner cosas aquí",
+    "category": "Expresiones"
+  },
+  {
+    "term": "我把手机全在手",
+    "pinyin": "wǒ bǎ shǒu jī quán zài shǒu",
+    "pron_es": "wǒ bǎ shǒu yī tshuán dzài shǒu",
+    "meaning": "Tengo todos mis teléfonos móviles en la mano.",
+    "category": "Expresiones"
+  },
+  {
+    "term": "上周末",
+    "pinyin": "shàng zhōu mò",
+    "pron_es": "shàng yōu mò",
+    "meaning": "el fin de semana pasado",
+    "category": "Otros"
+  },
+  {
+    "term": "一一和一攻克一一",
+    "pinyin": "yī yī hé yī gōng kè yī yī",
+    "pron_es": "yī yī hé yī gōng kè yī yī",
+    "meaning": "Uno a uno y uno conquista uno a uno.",
+    "category": "Expresiones"
+  },
+  {
+    "term": "复习",
+    "pinyin": "fù xí",
+    "pron_es": "fù shí",
+    "meaning": "revisar",
+    "category": "Otros"
+  },
+  {
+    "term": "又",
+    "pinyin": "yòu",
+    "pron_es": "yòu",
+    "meaning": "de nuevo",
+    "category": "Otros"
+  },
+  {
+    "term": "以",
+    "pinyin": "yǐ",
+    "pron_es": "yǐ",
+    "meaning": "por",
+    "category": "Otros"
+  },
+  {
+    "term": "程师图片放在哪儿",
+    "pinyin": "chéng shī tú piàn fàng zài nǎ ér",
+    "pron_es": "tshéng shī tú piàn fàng dzài nǎ ér",
+    "meaning": "¿Dónde poner fotos de ingenieros?",
+    "category": "Expresiones"
+  },
+  {
+    "term": "学弟去修理店修理他旧电脑",
+    "pinyin": "xué dì qù xiū lǐ diàn xiū lǐ tā jiù diàn nǎo",
+    "pron_es": "shué dì tshù shiū lǐ diàn shiū lǐ tā yiù diàn nǎo",
+    "meaning": "El joven fue al taller de reparación para reparar su vieja computadora.",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "窑案",
+    "pinyin": "yáo àn",
+    "pron_es": "yáo àn",
+    "meaning": "caja del horno",
+    "category": "Otros"
+  },
+  {
+    "term": "工程师图片放在公文包里",
+    "pinyin": "gōng chéng shī tú piàn fàng zài gōng wén bāo lǐ",
+    "pron_es": "gōng tshéng shī tú piàn fàng dzài gōng wén bāo lǐ",
+    "meaning": "Foto de ingeniero en maletín.",
+    "category": "Expresiones"
+  },
+  {
+    "term": "上修理电视多少钱",
+    "pinyin": "shàng xiū lǐ diàn shì duō shǎo qián",
+    "pron_es": "shàng shiū lǐ diàn shì duō shǎo tshián",
+    "meaning": "¿Cuánto cuesta reparar un televisor?",
+    "category": "Expresiones"
+  },
+  {
+    "term": "你教授名片放在哪儿",
+    "pinyin": "nǐ jiào shòu míng piàn fàng zài nǎ ér",
+    "pron_es": "nǐ yiào shòu míng piàn fàng dzài nǎ ér",
+    "meaning": "¿Dónde guardas la tarjeta de presentación de tu profesor?",
+    "category": "Expresiones"
+  },
+  {
+    "term": "我教授名片放在皮包里",
+    "pinyin": "wǒ jiào shòu míng piàn fàng zài pí bāo lǐ",
+    "pron_es": "wǒ yiào shòu míng piàn fàng dzài pí bāo lǐ",
+    "meaning": "Guardo la tarjeta de presentación de mi profesor en mi billetera.",
+    "category": "Expresiones"
+  },
+  {
+    "term": "灾",
+    "pinyin": "zāi",
+    "pron_es": "dzāi",
+    "meaning": "desastre",
+    "category": "Otros"
+  },
+  {
+    "term": "怎和",
+    "pinyin": "zěn hé",
+    "pron_es": "dzěn hé",
+    "meaning": "como reconciliar",
+    "category": "Otros"
+  },
+  {
+    "term": "我的妈妈",
+    "pinyin": "wǒ de mā mā",
+    "pron_es": "wǒ de mā mā",
+    "meaning": "mi mamá",
+    "category": "Expresiones"
+  },
+  {
+    "term": "本还",
+    "pinyin": "běn hái",
+    "pron_es": "běn hái",
+    "meaning": "Pagar el principal",
+    "category": "Otros"
+  },
+  {
+    "term": "什和",
+    "pinyin": "shén hé",
+    "pron_es": "shén hé",
+    "meaning": "incluso",
+    "category": "Otros"
+  },
+  {
+    "term": "经党",
+    "pinyin": "jīng dǎng",
+    "pron_es": "yīng dǎng",
+    "meaning": "Partido Económico",
+    "category": "Otros"
+  },
+  {
+    "term": "斑",
+    "pinyin": "bān",
+    "pron_es": "bān",
+    "meaning": "lugar",
+    "category": "Otros"
+  },
+  {
+    "term": "一一过专",
+    "pinyin": "yī yī guò zhuān",
+    "pron_es": "yī yī guò yuān",
+    "meaning": "uno por uno",
+    "category": "Expresiones"
+  },
+  {
+    "term": "的四",
+    "pinyin": "de sì",
+    "pron_es": "de sì",
+    "meaning": "de cuatro",
+    "category": "Otros"
+  },
+  {
+    "term": "美国",
+    "pinyin": "měi guó",
+    "pron_es": "měi guó",
+    "meaning": "EE.UU",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "站家",
+    "pinyin": "zhàn jiā",
+    "pron_es": "yàn yiā",
+    "meaning": "Estación de inicio",
+    "category": "Otros"
+  },
+  {
+    "term": "画画",
+    "pinyin": "huà huà",
+    "pron_es": "huà huà",
+    "meaning": "dibujar",
+    "category": "Otros"
+  },
+  {
+    "term": "者",
+    "pinyin": "zhě",
+    "pron_es": "yě",
+    "meaning": "OMS",
+    "category": "Otros"
+  },
+  {
+    "term": "爸爸今天要做什么饭",
+    "pinyin": "bà bà jīn tiān yào zuò shén me fàn",
+    "pron_es": "bà bà yīn tiān yào dzuò shén me fàn",
+    "meaning": "¿Qué va a cocinar papá hoy?",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "爸爸今天要做米饭",
+    "pinyin": "bà bà jīn tiān yào zuò mǐ fàn",
+    "pron_es": "bà bà yīn tiān yào dzuò mǐ fàn",
+    "meaning": "Papá va a hacer arroz hoy.",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "他要做多少饭",
+    "pinyin": "tā yào zuò duō shǎo fàn",
+    "pron_es": "tā yào dzuò duō shǎo fàn",
+    "meaning": "¿Cuánta cocción hará?",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "他要做很多饭",
+    "pinyin": "tā yào zuò hěn duō fàn",
+    "pron_es": "tā yào dzuò hěn duō fàn",
+    "meaning": "tiene que cocinar mucho",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "你多经常在家做饭",
+    "pinyin": "nǐ duō jīng cháng zài jiā zuò fàn",
+    "pron_es": "nǐ duō yīng tsháng dzài yiā dzuò fàn",
+    "meaning": "¿Con qué frecuencia cocinas en casa?",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "我经常在家做饭",
+    "pinyin": "wǒ jīng cháng zài jiā zuò fàn",
+    "pron_es": "wǒ yīng tsháng dzài yiā dzuò fàn",
+    "meaning": "A menudo cocino en casa.",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "条",
+    "pinyin": "tiáo",
+    "pron_es": "tiáo",
+    "meaning": "banda",
+    "category": "Otros"
+  },
+  {
+    "term": "经最",
+    "pinyin": "jīng zuì",
+    "pron_es": "yīng dzuì",
+    "meaning": "Mayoría",
+    "category": "Otros"
+  },
+  {
+    "term": "盒",
+    "pinyin": "hé",
+    "pron_es": "hé",
+    "meaning": "caja",
+    "category": "Otros"
+  },
+  {
+    "term": "必",
+    "pinyin": "bì",
+    "pron_es": "bì",
+    "meaning": "debe",
+    "category": "Otros"
+  },
+  {
+    "term": "一首歌",
+    "pinyin": "yī shǒu gē",
+    "pron_es": "yī shǒu gē",
+    "meaning": "una cancion",
+    "category": "Otros"
+  },
+  {
+    "term": "弗拉",
+    "pinyin": "fú lā",
+    "pron_es": "fú lā",
+    "meaning": "Fray",
+    "category": "Otros"
+  },
+  {
+    "term": "局本本二本",
+    "pinyin": "jú běn běn èr běn",
+    "pron_es": "yú běn běn èr běn",
+    "meaning": "Dos libros de escritorio",
+    "category": "Expresiones"
+  },
+  {
+    "term": "一八",
+    "pinyin": "yī bā",
+    "pron_es": "yī bā",
+    "meaning": "Dieciocho",
+    "category": "Otros"
+  },
+  {
+    "term": "让",
+    "pinyin": "ràng",
+    "pron_es": "ràng",
+    "meaning": "dejar",
+    "category": "Otros"
+  },
+  {
+    "term": "骑",
+    "pinyin": "qí",
+    "pron_es": "tshí",
+    "meaning": "conducir",
+    "category": "Otros"
+  },
+  {
+    "term": "飞机",
+    "pinyin": "fēi jī",
+    "pron_es": "fēi yī",
+    "meaning": "avión",
+    "category": "Otros"
+  },
+  {
+    "term": "歌手",
+    "pinyin": "gē shǒu",
+    "pron_es": "gē shǒu",
+    "meaning": "cantante",
+    "category": "Otros"
+  },
+  {
+    "term": "一全一",
+    "pinyin": "yī quán yī",
+    "pron_es": "yī tshuán yī",
+    "meaning": "Todo uno",
+    "category": "Otros"
+  },
+  {
+    "term": "旅游",
+    "pinyin": "lǚ yóu",
+    "pron_es": "lǚ yóu",
+    "meaning": "viajar",
+    "category": "Otros"
+  },
+  {
+    "term": "这个月",
+    "pinyin": "zhè ge yuè",
+    "pron_es": "yè ge yuè",
+    "meaning": "este mes",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "这个星期",
+    "pinyin": "zhè ge xīng qī",
+    "pron_es": "yè ge shīng tshī",
+    "meaning": "esta semana",
+    "category": "Expresiones"
+  },
+  {
+    "term": "顺",
+    "pinyin": "shùn",
+    "pron_es": "shùn",
+    "meaning": "Rehuir",
+    "category": "Otros"
+  },
+  {
+    "term": "你晚上唱不唱歌",
+    "pinyin": "nǐ wǎn shàng chàng bù chàng gē",
+    "pron_es": "nǐ wǎn shàng tshàng bù tshàng gē",
+    "meaning": "¿Quieres cantar por la noche?",
+    "category": "Expresiones"
+  },
+  {
+    "term": "后",
+    "pinyin": "hòu",
+    "pron_es": "hòu",
+    "meaning": "atrás",
+    "category": "Otros"
+  },
+  {
+    "term": "五小时",
+    "pinyin": "wǔ xiǎo shí",
+    "pron_es": "wǔ shiǎo shí",
+    "meaning": "cinco horas",
+    "category": "Adjetivos"
+  },
+  {
+    "term": "十五小时",
+    "pinyin": "shí wǔ xiǎo shí",
+    "pron_es": "shí wǔ shiǎo shí",
+    "meaning": "quince horas",
+    "category": "Adjetivos"
+  },
+  {
+    "term": "家人",
+    "pinyin": "jiā rén",
+    "pron_es": "yiā rén",
+    "meaning": "familia",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "你骑什么车",
+    "pinyin": "nǐ qí shén me chē",
+    "pron_es": "nǐ tshí shén me tshē",
+    "meaning": "¿Qué bicicleta andas?",
+    "category": "Expresiones"
+  },
+  {
+    "term": "你旅行了多久",
+    "pinyin": "nǐ lǚ xíng le duō jiǔ",
+    "pron_es": "nǐ lǚ shíng le duō yiǔ",
+    "meaning": "cuanto tiempo llevas viajando",
+    "category": "Expresiones"
+  },
+  {
+    "term": "我骑摩托车",
+    "pinyin": "wǒ qí mó tuō chē",
+    "pron_es": "wǒ tshí mó tuō tshē",
+    "meaning": "yo ando en motocicleta",
+    "category": "Expresiones"
+  },
+  {
+    "term": "你早上唱多少歌",
+    "pinyin": "nǐ zǎo shàng chàng duō shǎo gē",
+    "pron_es": "nǐ dzǎo shàng tshàng duō shǎo gē",
+    "meaning": "¿Cuántas canciones cantas por la mañana?",
+    "category": "Expresiones"
+  },
+  {
+    "term": "各多",
+    "pinyin": "gè duō",
+    "pron_es": "gè duō",
+    "meaning": "Muchos",
+    "category": "Otros"
+  },
+  {
+    "term": "游泳池",
+    "pinyin": "yóu yǒng chí",
+    "pron_es": "yóu yǒng tshí",
+    "meaning": "piscina",
+    "category": "Otros"
+  },
+  {
+    "term": "河",
+    "pinyin": "hé",
+    "pron_es": "hé",
+    "meaning": "río",
+    "category": "Otros"
+  },
+  {
+    "term": "一公里",
+    "pinyin": "yī gōng lǐ",
+    "pron_es": "yī gōng lǐ",
+    "meaning": "un kilómetro",
+    "category": "Otros"
+  },
+  {
+    "term": "三次",
+    "pinyin": "sān cì",
+    "pron_es": "sān tsì",
+    "meaning": "tres veces",
+    "category": "Otros"
+  },
+  {
+    "term": "件",
+    "pinyin": "jiàn",
+    "pron_es": "yiàn",
+    "meaning": "piezas",
+    "category": "Otros"
+  },
+  {
+    "term": "手表",
+    "pinyin": "shǒu biǎo",
+    "pron_es": "shǒu biǎo",
+    "meaning": "mirar",
+    "category": "Otros"
+  },
+  {
+    "term": "戴",
+    "pinyin": "dài",
+    "pron_es": "dài",
+    "meaning": "Tener puesto",
+    "category": "Otros"
+  },
+  {
+    "term": "眼镜",
+    "pinyin": "yǎn jìng",
+    "pron_es": "yǎn yìng",
+    "meaning": "Anteojos",
+    "category": "Otros"
+  },
+  {
+    "term": "墨镜",
+    "pinyin": "mò jìng",
+    "pron_es": "mò yìng",
+    "meaning": "gafas de sol",
+    "category": "Otros"
+  },
+  {
+    "term": "手镯",
+    "pinyin": "shǒu zhuó",
+    "pron_es": "shǒu yuó",
+    "meaning": "pulsera",
+    "category": "Otros"
+  },
+  {
+    "term": "春夏秋冬",
+    "pinyin": "chūn xià qiū dōng",
+    "pron_es": "tshūn shià tshiū dōng",
+    "meaning": "Primavera, verano, otoño e invierno.",
+    "category": "Expresiones"
+  },
+  {
+    "term": "下星期五",
+    "pinyin": "xià xīng qī wǔ",
+    "pron_es": "shià shīng tshī wǔ",
+    "meaning": "el viernes próximo",
+    "category": "Expresiones"
+  },
+  {
+    "term": "很好",
+    "pinyin": "hěn hǎo",
+    "pron_es": "hěn hǎo",
+    "meaning": "muy bien",
+    "category": "Adjetivos"
+  },
+  {
+    "term": "很好看",
+    "pinyin": "hěn hǎo kàn",
+    "pron_es": "hěn hǎo kàn",
+    "meaning": "Muy lindo",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "很难看",
+    "pinyin": "hěn nán kàn",
+    "pron_es": "hěn nán kàn",
+    "meaning": "feo",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "很漂亮",
+    "pinyin": "hěn piào liàng",
+    "pron_es": "hěn piào liàng",
+    "meaning": "muy hermoso",
+    "category": "Adjetivos"
+  },
+  {
+    "term": "你现在穿的",
+    "pinyin": "nǐ xiàn zài chuān de",
+    "pron_es": "nǐ shiàn dzài tshuān de",
+    "meaning": "que llevas puesto ahora",
+    "category": "Expresiones"
+  },
+  {
+    "term": "很帅",
+    "pinyin": "hěn shuài",
+    "pron_es": "hěn shuài",
+    "meaning": "muy guapo",
+    "category": "Otros"
+  },
+  {
+    "term": "王",
+    "pinyin": "wáng",
+    "pron_es": "wáng",
+    "meaning": "rey",
+    "category": "Otros"
+  },
+  {
+    "term": "击",
+    "pinyin": "jī",
+    "pron_es": "yī",
+    "meaning": "golpear",
+    "category": "Otros"
+  },
+  {
+    "term": "了和企",
+    "pinyin": "le hé qǐ",
+    "pron_es": "le hé tshǐ",
+    "meaning": "Heqi",
+    "category": "Otros"
+  },
+  {
+    "term": "不不",
+    "pinyin": "bù bù",
+    "pron_es": "bù bù",
+    "meaning": "no no",
+    "category": "Otros"
+  },
+  {
+    "term": "博物馆",
+    "pinyin": "bó wù guǎn",
+    "pron_es": "bó wù guǎn",
+    "meaning": "museo",
+    "category": "Otros"
+  },
+  {
+    "term": "长城",
+    "pinyin": "cháng chéng",
+    "pron_es": "tsháng tshéng",
+    "meaning": "Gran Muralla",
+    "category": "Otros"
+  },
+  {
+    "term": "参观",
+    "pinyin": "cān guān",
+    "pron_es": "tsān guān",
+    "meaning": "visita",
+    "category": "Otros"
+  },
+  {
+    "term": "火山",
+    "pinyin": "huǒ shān",
+    "pron_es": "huǒ shān",
+    "meaning": "volcán",
+    "category": "Otros"
+  },
+  {
+    "term": "拜访",
+    "pinyin": "bài fǎng",
+    "pron_es": "bài fǎng",
+    "meaning": "visita",
+    "category": "Otros"
+  },
+  {
+    "term": "父母",
+    "pinyin": "fù mǔ",
+    "pron_es": "fù mǔ",
+    "meaning": "padres",
+    "category": "Otros"
+  },
+  {
+    "term": "一个小四",
+    "pinyin": "yí gè xiǎo sì",
+    "pron_es": "yí gè shiǎo sì",
+    "meaning": "una amante",
+    "category": "Adjetivos"
+  },
+  {
+    "term": "上星期六",
+    "pinyin": "shàng xīng qī liù",
+    "pron_es": "shàng shīng tshī liù",
+    "meaning": "sábado pasado",
+    "category": "Expresiones"
+  },
+  {
+    "term": "国光",
+    "pinyin": "guó guāng",
+    "pron_es": "guó guāng",
+    "meaning": "guoguang",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "指甲",
+    "pinyin": "zhǐ jiǎ",
+    "pron_es": "yǐ yiǎ",
+    "meaning": "clavo",
+    "category": "Otros"
+  },
+  {
+    "term": "研究",
+    "pinyin": "yán jiū",
+    "pron_es": "yán yiū",
+    "meaning": "Investigación",
+    "category": "Otros"
+  },
+  {
+    "term": "实验",
+    "pinyin": "shí yàn",
+    "pron_es": "shí yàn",
+    "meaning": "experimento",
+    "category": "Otros"
+  },
+  {
+    "term": "一起",
+    "pinyin": "yì qǐ",
+    "pron_es": "yì tshǐ",
+    "meaning": "Juntos",
+    "category": "Otros"
+  },
+  {
+    "term": "饭售",
+    "pinyin": "fàn shòu",
+    "pron_es": "fàn shòu",
+    "meaning": "Comidas a la venta",
+    "category": "Otros"
+  },
+  {
+    "term": "信",
+    "pinyin": "xìn",
+    "pron_es": "shìn",
+    "meaning": "carta",
+    "category": "Otros"
+  },
+  {
+    "term": "买什么",
+    "pinyin": "mǎi shén me",
+    "pron_es": "mǎi shén me",
+    "meaning": "que comprar",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "几",
+    "pinyin": "jǐ",
+    "pron_es": "yǐ",
+    "meaning": "Varios",
+    "category": "Otros"
+  },
+  {
+    "term": "为什",
+    "pinyin": "wèi shén",
+    "pron_es": "wèi shén",
+    "meaning": "por qué",
+    "category": "Otros"
+  },
+  {
+    "term": "思念",
+    "pinyin": "sī niàn",
+    "pron_es": "sī niàn",
+    "meaning": "extrañar",
+    "category": "Otros"
+  },
+  {
+    "term": "计划",
+    "pinyin": "jì huà",
+    "pron_es": "yì huà",
+    "meaning": "plan",
+    "category": "Otros"
+  },
+  {
+    "term": "多经第",
+    "pinyin": "duō jīng dì",
+    "pron_es": "duō yīng dì",
+    "meaning": "Muchos sutras",
+    "category": "Otros"
+  },
+  {
+    "term": "了吗",
+    "pinyin": "le ma",
+    "pron_es": "le ma",
+    "meaning": "¿Está hecho?",
+    "category": "Otros"
+  },
+  {
+    "term": "你多经常跟朋友做运动",
+    "pinyin": "nǐ duō jīng cháng gēn péng yǒu zuò yùn dòng",
+    "pron_es": "nǐ duō yīng tsháng gēn péng yǒu dzuò yùn dòng",
+    "meaning": "¿Con qué frecuencia haces ejercicio con tus amigos?",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "我刚刚跟老师在学习中文",
+    "pinyin": "wǒ gāng gāng gēn lǎo shī zài xué xí zhōng wén",
+    "pron_es": "wǒ gāng gāng gēn lǎo shī dzài shué shí yōng wén",
+    "meaning": "Estaba aprendiendo chino con el profesor.",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "你通常切多久水果",
+    "pinyin": "nǐ tōng cháng qiè duō jiǔ shuǐ guǒ",
+    "pron_es": "nǐ tōng tsháng tshiè duō yiǔ shuǐ guǒ",
+    "meaning": "¿Con qué frecuencia sueles cortar fruta?",
+    "category": "Expresiones"
+  },
+  {
+    "term": "两分钟",
+    "pinyin": "liǎng fēn zhōng",
+    "pron_es": "liǎng fēn yōng",
+    "meaning": "dos minutos",
+    "category": "Otros"
+  },
+  {
+    "term": "你经常一个人做运动吗",
+    "pinyin": "nǐ jīng cháng yí gè rén zuò yùn dòng ma",
+    "pron_es": "nǐ yīng tsháng yí gè rén dzuò yùn dòng ma",
+    "meaning": "¿Haces ejercicio solo a menudo?",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "你每天在哪",
+    "pinyin": "nǐ měi tiān zài nǎ",
+    "pron_es": "nǐ měi tiān dzài nǎ",
+    "meaning": "¿Dónde estás todos los días?",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "里做饭",
+    "pinyin": "lǐ zuò fàn",
+    "pron_es": "lǐ dzuò fàn",
+    "meaning": "cocinar en",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "你要做",
+    "pinyin": "nǐ yào zuò",
+    "pron_es": "nǐ yào dzuò",
+    "meaning": "tienes que hacer",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "谁的",
+    "pinyin": "shéi de",
+    "pron_es": "shéi de",
+    "meaning": "¿Cuyo?",
+    "category": "Otros"
+  },
+  {
+    "term": "砍",
+    "pinyin": "kǎn",
+    "pron_es": "kǎn",
+    "meaning": "cortar",
+    "category": "Otros"
+  },
+  {
+    "term": "树",
+    "pinyin": "shù",
+    "pron_es": "shù",
+    "meaning": "Árbol",
+    "category": "Otros"
+  },
+  {
+    "term": "也因为",
+    "pinyin": "yě yīn wèi",
+    "pron_es": "yě yīn wèi",
+    "meaning": "también porque",
+    "category": "Otros"
+  },
+  {
+    "term": "用剪刀",
+    "pinyin": "yòng jiǎn dāo",
+    "pron_es": "yòng yiǎn dāo",
+    "meaning": "usa tijeras",
+    "category": "Otros"
+  },
+  {
+    "term": "在理发店",
+    "pinyin": "zài lǐ fà diàn",
+    "pron_es": "dzài lǐ fà diàn",
+    "meaning": "en barberia",
+    "category": "Expresiones"
+  },
+  {
+    "term": "及",
+    "pinyin": "jí",
+    "pron_es": "yí",
+    "meaning": "y",
+    "category": "Funcionales"
+  },
+  {
+    "term": "要做什么",
+    "pinyin": "yào zuò shén me",
+    "pron_es": "yào dzuò shén me",
+    "meaning": "que hacer",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "我的狗",
+    "pinyin": "wǒ de gǒu",
+    "pron_es": "wǒ de gǒu",
+    "meaning": "mi perro",
+    "category": "Otros"
+  },
+  {
+    "term": "待会儿",
+    "pinyin": "dài huì er",
+    "pron_es": "dài huì er",
+    "meaning": "más tarde",
+    "category": "Otros"
+  },
+  {
+    "term": "从没有去过非洲",
+    "pinyin": "cóng méi yǒu qù guò fēi zhōu",
+    "pron_es": "tsóng méi yǒu tshù guò fēi yōu",
+    "meaning": "Nunca he estado en África",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "动物",
+    "pinyin": "dòng wù",
+    "pron_es": "dòng wù",
+    "meaning": "animal",
+    "category": "Otros"
+  },
+  {
+    "term": "冷",
+    "pinyin": "lěng",
+    "pron_es": "lěng",
+    "meaning": "frío",
+    "category": "Adjetivos"
+  },
+  {
+    "term": "热",
+    "pinyin": "rè",
+    "pron_es": "rè",
+    "meaning": "caliente",
+    "category": "Adjetivos"
+  },
+  {
+    "term": "贵",
+    "pinyin": "guì",
+    "pron_es": "guì",
+    "meaning": "caro",
+    "category": "Otros"
+  },
+  {
+    "term": "店文课",
+    "pinyin": "diàn wén kè",
+    "pron_es": "diàn wén kè",
+    "meaning": "Tienda de clase de literatura.",
+    "category": "Otros"
+  },
+  {
+    "term": "这本书",
+    "pinyin": "zhè běn shū",
+    "pron_es": "yè běn shū",
+    "meaning": "este libro",
+    "category": "Otros"
+  },
+  {
+    "term": "在美国工作",
+    "pinyin": "zài měi guó gōng zuò",
+    "pron_es": "dzài měi guó gōng dzuò",
+    "meaning": "Trabajar en los Estados Unidos",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "你觉得吃早饭好吗",
+    "pinyin": "nǐ jué de chī zǎo fàn hǎo ma",
+    "pron_es": "nǐ yué de tshī dzǎo fàn hǎo ma",
+    "meaning": "¿Crees que sería bueno desayunar?",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "应该",
+    "pinyin": "yīng gāi",
+    "pron_es": "yīng gāi",
+    "meaning": "debería",
+    "category": "Otros"
+  },
+  {
+    "term": "开心的人",
+    "pinyin": "kāi xīn de rén",
+    "pron_es": "kāi shīn de rén",
+    "meaning": "persona feliz",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "昌",
+    "pinyin": "chāng",
+    "pron_es": "tshāng",
+    "meaning": "chang",
+    "category": "Otros"
+  },
+  {
+    "term": "如",
+    "pinyin": "rú",
+    "pron_es": "rú",
+    "meaning": "como",
+    "category": "Otros"
+  },
+  {
+    "term": "如采",
+    "pinyin": "rú cǎi",
+    "pron_es": "rú tsǎi",
+    "meaning": "Rucai",
+    "category": "Otros"
+  },
+  {
+    "term": "偶尔",
+    "pinyin": "ǒu ěr",
+    "pron_es": "ǒu ěr",
+    "meaning": "Ocasionalmente",
+    "category": "Otros"
+  },
+  {
+    "term": "知道",
+    "pinyin": "zhī dào",
+    "pron_es": "yī dào",
+    "meaning": "Saber",
+    "category": "Otros"
+  },
+  {
+    "term": "这个单词",
+    "pinyin": "zhè ge dān cí",
+    "pron_es": "yè ge dān tsí",
+    "meaning": "esta palabra",
+    "category": "Expresiones"
+  },
+  {
+    "term": "这些单词的意思",
+    "pinyin": "zhè xiē dān cí de yì si",
+    "pron_es": "yè shiē dān tsí de yì si",
+    "meaning": "el significado de estas palabras",
+    "category": "Expresiones"
+  },
+  {
+    "term": "这个名字",
+    "pinyin": "zhè ge míng zì",
+    "pron_es": "yè ge míng dzì",
+    "meaning": "el nombre",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "认识",
+    "pinyin": "rèn shí",
+    "pron_es": "rèn shí",
+    "meaning": "saber",
+    "category": "Otros"
+  },
+  {
+    "term": "这个人",
+    "pinyin": "zhè ge rén",
+    "pron_es": "yè ge rén",
+    "meaning": "esta persona",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "新朋友",
+    "pinyin": "xīn péng yǒu",
+    "pron_es": "shīn péng yǒu",
+    "meaning": "nuevos amigos",
+    "category": "Adjetivos"
+  },
+  {
+    "term": "国国相克",
+    "pinyin": "guó guó xiāng kè",
+    "pron_es": "guó guó shiāng kè",
+    "meaning": "Los países están en conflicto entre sí.",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "政府",
+    "pinyin": "zhèng fǔ",
+    "pron_es": "yèng fǔ",
+    "meaning": "gobierno",
+    "category": "Otros"
+  },
+  {
+    "term": "每个人",
+    "pinyin": "měi gè rén",
+    "pron_es": "měi gè rén",
+    "meaning": "todos",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "纽约",
+    "pinyin": "niǔ yuē",
+    "pron_es": "niǔ yuē",
+    "meaning": "Nueva York",
+    "category": "Otros"
+  },
+  {
+    "term": "新加坡",
+    "pinyin": "xīn jiā pō",
+    "pron_es": "shīn yiā pō",
+    "meaning": "Singapur",
+    "category": "Adjetivos"
+  },
+  {
+    "term": "有问题",
+    "pinyin": "yǒu wèn tí",
+    "pron_es": "yǒu wèn tí",
+    "meaning": "hay un problema",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "委内瑞拉",
+    "pinyin": "wěi nèi ruì lā",
+    "pron_es": "wěi nèi ruì lā",
+    "meaning": "Venezuela",
+    "category": "Expresiones"
+  },
+  {
+    "term": "三年前",
+    "pinyin": "sān nián qián",
+    "pron_es": "sān nián tshián",
+    "meaning": "hace tres años",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "小时候",
+    "pinyin": "xiǎo shí hòu",
+    "pron_es": "shiǎo shí hòu",
+    "meaning": "infancia",
+    "category": "Adjetivos"
+  },
+  {
+    "term": "做早饭",
+    "pinyin": "zuò zǎo fàn",
+    "pron_es": "dzuò dzǎo fàn",
+    "meaning": "hacer el desayuno",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "超市",
+    "pinyin": "chāo shì",
+    "pron_es": "tshāo shì",
+    "meaning": "supermercado",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "飞机去",
+    "pinyin": "fēi jī qù",
+    "pron_es": "fēi yī tshù",
+    "meaning": "ir en avion",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "飞去",
+    "pinyin": "fēi qù",
+    "pron_es": "fēi tshù",
+    "meaning": "volar lejos",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "雨伴",
+    "pinyin": "yǔ bàn",
+    "pron_es": "yǔ bàn",
+    "meaning": "Compañero de lluvia",
+    "category": "Otros"
+  },
+  {
+    "term": "久在英国每次出门带不带雨",
+    "pinyin": "jiǔ zài yīng guó měi cì chū mén dài bù dài yǔ",
+    "pron_es": "yiǔ dzài yīng guó měi tsì tshū mén dài bù dài yǔ",
+    "meaning": "Llevo mucho tiempo en el Reino Unido. ¿Cada vez que salgo me llevo la lluvia?",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "枚槛球",
+    "pinyin": "méi kǎn qiú",
+    "pron_es": "méi kǎn tshiú",
+    "meaning": "postigo",
+    "category": "Otros"
+  },
+  {
+    "term": "由",
+    "pinyin": "yóu",
+    "pron_es": "yóu",
+    "meaning": "Depender de",
+    "category": "Otros"
+  },
+  {
+    "term": "园国交",
+    "pinyin": "yuán guó jiāo",
+    "pron_es": "yuán guó yiāo",
+    "meaning": "Diplomacia del Estado Jardín",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "她局",
+    "pinyin": "tā jú",
+    "pron_es": "tā yú",
+    "meaning": "su juego",
+    "category": "Otros"
+  },
+  {
+    "term": "她的语",
+    "pinyin": "tā de yǔ",
+    "pron_es": "tā de yǔ",
+    "meaning": "su idioma",
+    "category": "Otros"
+  },
+  {
+    "term": "很多次",
+    "pinyin": "hěn duō cì",
+    "pron_es": "hěn duō tsì",
+    "meaning": "muchas veces",
+    "category": "Otros"
+  },
+  {
+    "term": "包庄",
+    "pinyin": "bāo zhuāng",
+    "pron_es": "bāo yuāng",
+    "meaning": "Baozhuang",
+    "category": "Otros"
+  },
+  {
+    "term": "站局",
+    "pinyin": "zhàn jú",
+    "pron_es": "yàn yú",
+    "meaning": "oficina de la estación",
+    "category": "Otros"
+  },
+  {
+    "term": "房子",
+    "pinyin": "fáng zi",
+    "pron_es": "fáng dzi",
+    "meaning": "casa",
+    "category": "Otros"
+  },
+  {
+    "term": "十上",
+    "pinyin": "shí shàng",
+    "pron_es": "shí shàng",
+    "meaning": "diez en adelante",
+    "category": "Otros"
+  },
+  {
+    "term": "你上午去学校把钱带给了谁",
+    "pinyin": "nǐ shàng wǔ qù xué xiào bǎ qián dài gěi le shuí",
+    "pron_es": "nǐ shàng wǔ tshù shué shiào bǎ tshián dài gěi le shuí",
+    "meaning": "¿A quién le llevaste el dinero cuando fuiste a la escuela esta mañana?",
+    "category": "Verbos/Acciones"
+  },
+  {
+    "term": "多长时间",
+    "pinyin": "duō zhǎng shí jiān",
+    "pron_es": "duō yǎng shí yiān",
+    "meaning": "por cuánto tiempo",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "伞",
+    "pinyin": "sǎn",
+    "pron_es": "sǎn",
+    "meaning": "paraguas",
+    "category": "Otros"
+  },
+  {
+    "term": "橄榄球",
+    "pinyin": "gǎn lǎn qiú",
+    "pron_es": "gǎn lǎn tshiú",
+    "meaning": "fútbol americano",
+    "category": "Otros"
+  },
+  {
+    "term": "他在英国每次出门都带十伴",
+    "pinyin": "tā zài yīng guó měi cì chū mén dōu dài shí bàn",
+    "pron_es": "tā dzài yīng guó měi tsì tshū mén dōu dài shí bàn",
+    "meaning": "Lleva consigo diez acompañantes cada vez que sale a Inglaterra",
+    "category": "Sustantivos"
+  },
+  {
+    "term": "局",
+    "pinyin": "jú",
+    "pron_es": "yú",
+    "meaning": "oficina",
+    "category": "Otros"
+  },
+  {
+    "term": "国丽全全和和生生生",
+    "pinyin": "guó lì quán quán hé hé shēng shēng shēng",
+    "pron_es": "guó lì tshuán tshuán hé hé shēng shēng shēng",
+    "meaning": "Guoliquanheheshengshengsheng",
+    "category": "Sustantivos"
+  }
+]
