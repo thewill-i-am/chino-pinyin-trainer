@@ -3,129 +3,97 @@
     "term": "什么",
     "pinyin": "shén me",
     "pron_es": "shén me",
-    "meaning": "Qué",
-    "category": "Básico",
-    "occ": 199
+    "meaning": "qué",
+    "category": "Preguntas",
+    "occ": 240
+  },
+  {
+    "term": "我",
+    "pinyin": "wǒ",
+    "pron_es": "wǒ",
+    "meaning": "yo",
+    "category": "Pronombres",
+    "occ": 214
   },
   {
     "term": "时候",
     "pinyin": "shí hòu",
     "pron_es": "shí hòu",
-    "meaning": "cuando",
-    "category": "Básico",
-    "occ": 108
+    "meaning": "momento / cuando",
+    "category": "Tiempo/Calendario",
+    "occ": 133
   },
   {
     "term": "哪里",
     "pinyin": "nǎ lǐ",
     "pron_es": "nǎ lǐ",
     "meaning": "dónde",
-    "category": "Básico",
-    "occ": 106
+    "category": "Preguntas",
+    "occ": 121
   },
   {
     "term": "阶段",
     "pinyin": "jiē duàn",
     "pron_es": "yiē duàn",
     "meaning": "escenario",
-    "category": "Básico",
-    "occ": 91
+    "category": "Sustantivos/Objetos",
+    "occ": 117
   },
   {
     "term": "第",
     "pinyin": "dì",
     "pron_es": "dì",
-    "meaning": "No.",
-    "category": "Básico",
-    "occ": 87
+    "meaning": "prefijo ordinal (número #)",
+    "category": "Funcionales",
+    "occ": 111
+  },
+  {
+    "term": "你",
+    "pinyin": "nǐ",
+    "pron_es": "nǐ",
+    "meaning": "tú",
+    "category": "Pronombres",
+    "occ": 110
   },
   {
     "term": "一",
     "pinyin": "yī",
     "pron_es": "yī",
     "meaning": "uno",
-    "category": "Básico",
-    "occ": 84
-  },
-  {
-    "term": "周",
-    "pinyin": "zhōu",
-    "pron_es": "yōu",
-    "meaning": "semana",
-    "category": "Básico",
-    "occ": 82
+    "category": "Números",
+    "occ": 106
   },
   {
     "term": "词汇",
     "pinyin": "cí huì",
     "pron_es": "tsí huì",
     "meaning": "vocabulario",
-    "category": "Básico",
-    "occ": 78
+    "category": "Estudio/Trabajo",
+    "occ": 98
   },
   {
-    "term": "谁",
-    "pinyin": "shuí",
-    "pron_es": "shuí",
-    "meaning": "OMS",
-    "category": "Básico",
-    "occ": 72
+    "term": "周",
+    "pinyin": "zhōu",
+    "pron_es": "yōu",
+    "meaning": "semana",
+    "category": "Tiempo/Calendario",
+    "occ": 97
   },
   {
     "term": "要",
     "pinyin": "yào",
     "pron_es": "yào",
     "meaning": "desear",
-    "category": "Básico",
-    "occ": 61
+    "category": "Verbos/Acciones",
+    "occ": 89
   },
   {
-    "term": "为什么",
-    "pinyin": "wèi shén me",
-    "pron_es": "wèi shén me",
-    "meaning": "Por qué",
-    "category": "Sustantivos/Conceptos",
-    "occ": 57
-  },
-  {
-    "term": "上",
-    "pinyin": "shàng",
-    "pron_es": "shàng",
-    "meaning": "superior",
-    "category": "Básico",
-    "occ": 56
-  },
-  {
-    "term": "跟",
-    "pinyin": "gēn",
-    "pron_es": "gēn",
-    "meaning": "y",
-    "category": "Básico",
-    "occ": 55
-  },
-  {
-    "term": "人",
-    "pinyin": "rén",
-    "pron_es": "rén",
-    "meaning": "gente",
-    "category": "Básico",
-    "occ": 53
-  },
-  {
-    "term": "现在",
-    "pinyin": "xiàn zài",
-    "pron_es": "shiàn dzài",
-    "meaning": "Ahora",
-    "category": "Básico",
-    "occ": 53
-  },
-  {
-    "term": "晚上",
-    "pinyin": "wǎn shàng",
-    "pron_es": "wǎn shàng",
-    "meaning": "noche",
-    "category": "Básico",
-    "occ": 50
+    "term": "谁",
+    "pinyin": "shuí",
+    "pron_es": "shuí",
+    "meaning": "quién",
+    "category": "Preguntas",
+    "occ": 85
   },
   {
     "term": "去",
@@ -133,101 +101,293 @@
     "pron_es": "tshù",
     "meaning": "ir",
     "category": "Verbos/Acciones",
-    "occ": 49
+    "occ": 82
   },
   {
     "term": "不",
     "pinyin": "bù",
     "pron_es": "bù",
-    "meaning": "No",
-    "category": "Básico",
-    "occ": 46
+    "meaning": "no",
+    "category": "Negación",
+    "occ": 78
   },
   {
-    "term": "经常",
-    "pinyin": "jīng cháng",
-    "pron_es": "yīng tsháng",
-    "meaning": "a menudo",
-    "category": "Básico",
-    "occ": 42
+    "term": "为什么",
+    "pinyin": "wèi shén me",
+    "pron_es": "wèi shén me",
+    "meaning": "Por qué",
+    "category": "Preguntas",
+    "occ": 78
+  },
+  {
+    "term": "现在",
+    "pinyin": "xiàn zài",
+    "pron_es": "shiàn dzài",
+    "meaning": "Ahora",
+    "category": "Tiempo/Calendario",
+    "occ": 73
+  },
+  {
+    "term": "人",
+    "pinyin": "rén",
+    "pron_es": "rén",
+    "meaning": "gente",
+    "category": "Sustantivos/Objetos",
+    "occ": 70
+  },
+  {
+    "term": "跟",
+    "pinyin": "gēn",
+    "pron_es": "gēn",
+    "meaning": "con / seguir",
+    "category": "Preposiciones",
+    "occ": 63
+  },
+  {
+    "term": "上",
+    "pinyin": "shàng",
+    "pron_es": "shàng",
+    "meaning": "arriba / subir",
+    "category": "Preposiciones",
+    "occ": 61
+  },
+  {
+    "term": "是",
+    "pinyin": "shì",
+    "pron_es": "shì",
+    "meaning": "ser / estar",
+    "category": "Verbos/Acciones",
+    "occ": 60
   },
   {
     "term": "多少",
     "pinyin": "duō shǎo",
     "pron_es": "duō shǎo",
     "meaning": "Cuántos",
-    "category": "Básico",
-    "occ": 40
+    "category": "Preguntas",
+    "occ": 56
+  },
+  {
+    "term": "经常",
+    "pinyin": "jīng cháng",
+    "pron_es": "yīng tsháng",
+    "meaning": "frecuentemente",
+    "category": "Adverbios",
+    "occ": 52
+  },
+  {
+    "term": "晚上",
+    "pinyin": "wǎn shàng",
+    "pron_es": "wǎn shàng",
+    "meaning": "noche",
+    "category": "Tiempo/Calendario",
+    "occ": 50
+  },
+  {
+    "term": "怎么",
+    "pinyin": "zěn me",
+    "pron_es": "dzěn me",
+    "meaning": "cómo",
+    "category": "Preguntas",
+    "occ": 47
+  },
+  {
+    "term": "他",
+    "pinyin": "tā",
+    "pron_es": "tā",
+    "meaning": "él",
+    "category": "Pronombres",
+    "occ": 45
   },
   {
     "term": "朋友",
     "pinyin": "péng yǒu",
     "pron_es": "péng yǒu",
     "meaning": "amigo",
-    "category": "Básico",
-    "occ": 32
-  },
-  {
-    "term": "早上",
-    "pinyin": "zǎo shàng",
-    "pron_es": "dzǎo shàng",
-    "meaning": "Mañana",
-    "category": "Básico",
-    "occ": 32
+    "category": "Personas/Familia",
+    "occ": 44
   },
   {
     "term": "多",
     "pinyin": "duō",
     "pron_es": "duō",
-    "meaning": "muchos",
-    "category": "Básico",
-    "occ": 32
-  },
-  {
-    "term": "旅行",
-    "pinyin": "lǚ xíng",
-    "pron_es": "lǚ shíng",
-    "meaning": "viajar",
-    "category": "Básico",
-    "occ": 32
-  },
-  {
-    "term": "多久",
-    "pinyin": "duō jiǔ",
-    "pron_es": "duō yiǔ",
-    "meaning": "cuánto tiempo",
-    "category": "Básico",
-    "occ": 30
+    "meaning": "mucho / muchos",
+    "category": "Adjetivos",
+    "occ": 44
   },
   {
     "term": "手机",
     "pinyin": "shǒu jī",
     "pron_es": "shǒu yī",
     "meaning": "Teléfono móvil",
-    "category": "Básico",
-    "occ": 29
+    "category": "Sustantivos/Objetos",
+    "occ": 42
+  },
+  {
+    "term": "旅行",
+    "pinyin": "lǚ xíng",
+    "pron_es": "lǚ shíng",
+    "meaning": "viajar",
+    "category": "Sustantivos/Objetos",
+    "occ": 41
+  },
+  {
+    "term": "因为",
+    "pinyin": "yīn wèi",
+    "pron_es": "yīn wèi",
+    "meaning": "porque",
+    "category": "Conectores",
+    "occ": 40
   },
   {
     "term": "未来",
     "pinyin": "wèi lái",
     "pron_es": "wèi lái",
     "meaning": "futuro",
+    "category": "Sustantivos/Objetos",
+    "occ": 39
+  },
+  {
+    "term": "早上",
+    "pinyin": "zǎo shàng",
+    "pron_es": "dzǎo shàng",
+    "meaning": "Mañana",
+    "category": "Tiempo/Calendario",
+    "occ": 37
+  },
+  {
+    "term": "很",
+    "pinyin": "hěn",
+    "pron_es": "hěn",
+    "meaning": "muy",
+    "category": "Adverbios",
+    "occ": 37
+  },
+  {
+    "term": "过去",
+    "pinyin": "guò qù",
+    "pron_es": "guò tshù",
+    "meaning": "pasado / pasar",
+    "category": "Tiempo/Calendario",
+    "occ": 36
+  },
+  {
+    "term": "多久",
+    "pinyin": "duō jiǔ",
+    "pron_es": "duō yiǔ",
+    "meaning": "cuánto tiempo",
+    "category": "Preguntas",
+    "occ": 36
+  },
+  {
+    "term": "今天",
+    "pinyin": "jīn tiān",
+    "pron_es": "yīn tiān",
+    "meaning": "hoy",
+    "category": "Tiempo/Calendario",
+    "occ": 35
+  },
+  {
+    "term": "做",
+    "pinyin": "zuò",
+    "pron_es": "dzuò",
+    "meaning": "Hacer",
     "category": "Verbos/Acciones",
-    "occ": 29
+    "occ": 35
+  },
+  {
+    "term": "买",
+    "pinyin": "mǎi",
+    "pron_es": "mǎi",
+    "meaning": "compra",
+    "category": "Verbos/Acciones",
+    "occ": 34
+  },
+  {
+    "term": "中文",
+    "pinyin": "zhōng wén",
+    "pron_es": "yōng wén",
+    "meaning": "Chino",
+    "category": "Estudio/Trabajo",
+    "occ": 34
+  },
+  {
+    "term": "明天",
+    "pinyin": "míng tiān",
+    "pron_es": "míng tiān",
+    "meaning": "mañana",
+    "category": "Tiempo/Calendario",
+    "occ": 33
   },
   {
     "term": "妈妈",
     "pinyin": "mā mā",
     "pron_es": "mā mā",
     "meaning": "Madre",
-    "category": "Básico",
+    "category": "Personas/Familia",
+    "occ": 31
+  },
+  {
+    "term": "本",
+    "pinyin": "běn",
+    "pron_es": "běn",
+    "meaning": "clasificador para libros",
+    "category": "Clasificadores",
+    "occ": 31
+  },
+  {
+    "term": "车",
+    "pinyin": "chē",
+    "pron_es": "tshē",
+    "meaning": "auto",
+    "category": "Sustantivos/Objetos",
+    "occ": 29
+  },
+  {
+    "term": "给",
+    "pinyin": "gěi",
+    "pron_es": "gěi",
+    "meaning": "dar / para",
+    "category": "Preposiciones",
+    "occ": 29
+  },
+  {
+    "term": "哪",
+    "pinyin": "nǎ",
+    "pron_es": "nǎ",
+    "meaning": "dónde",
+    "category": "Preguntas",
     "occ": 27
   },
   {
-    "term": "过去",
-    "pinyin": "guò qù",
-    "pron_es": "guò tshù",
-    "meaning": "pasado",
+    "term": "二",
+    "pinyin": "èr",
+    "pron_es": "èr",
+    "meaning": "dos",
+    "category": "Números",
+    "occ": 27
+  },
+  {
+    "term": "有",
+    "pinyin": "yǒu",
+    "pron_es": "yǒu",
+    "meaning": "tener",
+    "category": "Verbos/Acciones",
+    "occ": 26
+  },
+  {
+    "term": "这",
+    "pinyin": "zhè",
+    "pron_es": "yè",
+    "meaning": "este",
+    "category": "Demostrativos",
+    "occ": 26
+  },
+  {
+    "term": "说",
+    "pinyin": "shuō",
+    "pron_es": "shuō",
+    "meaning": "explicar",
     "category": "Verbos/Acciones",
     "occ": 26
   },
@@ -236,15 +396,23 @@
     "pinyin": "jiā",
     "pron_es": "yiā",
     "meaning": "Hogar",
-    "category": "Básico",
+    "category": "Lugares",
     "occ": 25
   },
   {
-    "term": "一一",
-    "pinyin": "yī yī",
-    "pron_es": "yī yī",
-    "meaning": "todo",
-    "category": "Básico",
+    "term": "会",
+    "pinyin": "huì",
+    "pron_es": "huì",
+    "meaning": "poder (habilidad) / reunión",
+    "category": "Modales",
+    "occ": 25
+  },
+  {
+    "term": "工作",
+    "pinyin": "gōng zuò",
+    "pron_es": "gōng dzuò",
+    "meaning": "Trabajar",
+    "category": "Estudio/Trabajo",
     "occ": 24
   },
   {
@@ -252,272 +420,16 @@
     "pinyin": "xué xiào",
     "pron_es": "shué shiào",
     "meaning": "Escuela",
-    "category": "Verbos/Acciones",
-    "occ": 23
+    "category": "Lugares",
+    "occ": 24
   },
   {
     "term": "很少",
     "pinyin": "hěn shǎo",
     "pron_es": "hěn shǎo",
-    "meaning": "extraño",
-    "category": "Básico",
-    "occ": 23
-  },
-  {
-    "term": "本",
-    "pinyin": "běn",
-    "pron_es": "běn",
-    "meaning": "Libro",
-    "category": "Básico",
-    "occ": 22
-  },
-  {
-    "term": "因为",
-    "pinyin": "yīn wèi",
-    "pron_es": "yīn wèi",
-    "meaning": "porque",
-    "category": "Básico",
-    "occ": 22
-  },
-  {
-    "term": "爸爸",
-    "pinyin": "bà bà",
-    "pron_es": "bà bà",
-    "meaning": "papá",
-    "category": "Básico",
-    "occ": 21
-  },
-  {
-    "term": "给",
-    "pinyin": "gěi",
-    "pron_es": "gěi",
-    "meaning": "Dar",
-    "category": "Básico",
-    "occ": 21
-  },
-  {
-    "term": "中文",
-    "pinyin": "zhōng wén",
-    "pron_es": "yōng wén",
-    "meaning": "Chino",
-    "category": "Básico",
-    "occ": 21
-  },
-  {
-    "term": "说",
-    "pinyin": "shuō",
-    "pron_es": "shuō",
-    "meaning": "explicar",
-    "category": "Verbos/Acciones",
-    "occ": 21
-  },
-  {
-    "term": "做",
-    "pinyin": "zuò",
-    "pron_es": "dzuò",
-    "meaning": "Hacer",
-    "category": "Verbos/Acciones",
-    "occ": 21
-  },
-  {
-    "term": "怎么",
-    "pinyin": "zěn me",
-    "pron_es": "dzěn me",
-    "meaning": "cómo",
-    "category": "Básico",
-    "occ": 21
-  },
-  {
-    "term": "几点",
-    "pinyin": "jǐ diǎn",
-    "pron_es": "yǐ diǎn",
-    "meaning": "¿Qué hora es?",
-    "category": "Básico",
-    "occ": 20
-  },
-  {
-    "term": "今天",
-    "pinyin": "jīn tiān",
-    "pron_es": "yīn tiān",
-    "meaning": "hoy",
-    "category": "Básico",
-    "occ": 19
-  },
-  {
-    "term": "明天",
-    "pinyin": "míng tiān",
-    "pron_es": "míng tiān",
-    "meaning": "mañana",
-    "category": "Básico",
-    "occ": 19
-  },
-  {
-    "term": "二",
-    "pinyin": "èr",
-    "pron_es": "èr",
-    "meaning": "dos",
-    "category": "Básico",
-    "occ": 19
-  },
-  {
-    "term": "很",
-    "pinyin": "hěn",
-    "pron_es": "hěn",
-    "meaning": "muy",
-    "category": "Básico",
-    "occ": 19
-  },
-  {
-    "term": "工作",
-    "pinyin": "gōng zuò",
-    "pron_es": "gōng dzuò",
-    "meaning": "Trabajar",
-    "category": "Básico",
-    "occ": 18
-  },
-  {
-    "term": "小时",
-    "pinyin": "xiǎo shí",
-    "pron_es": "shiǎo shí",
-    "meaning": "Hora",
-    "category": "Adjetivos",
-    "occ": 18
-  },
-  {
-    "term": "下",
-    "pinyin": "xià",
-    "pron_es": "shià",
-    "meaning": "Abajo",
-    "category": "Básico",
-    "occ": 17
-  },
-  {
-    "term": "朋友家",
-    "pinyin": "péng yǒu jiā",
-    "pron_es": "péng yǒu yiā",
-    "meaning": "casa de un amigo",
-    "category": "Sustantivos/Conceptos",
-    "occ": 17
-  },
-  {
-    "term": "东西",
-    "pinyin": "dōng xī",
-    "pron_es": "dōng shī",
-    "meaning": "cosa",
-    "category": "Básico",
-    "occ": 17
-  },
-  {
-    "term": "昨天",
-    "pinyin": "zuó tiān",
-    "pron_es": "dzuó tiān",
-    "meaning": "ayer",
-    "category": "Básico",
-    "occ": 16
-  },
-  {
-    "term": "站",
-    "pinyin": "zhàn",
-    "pron_es": "yàn",
-    "meaning": "pararse",
-    "category": "Básico",
-    "occ": 16
-  },
-  {
-    "term": "学习",
-    "pinyin": "xué xí",
-    "pron_es": "shué shí",
-    "meaning": "estudiar",
-    "category": "Verbos/Acciones",
-    "occ": 16
-  },
-  {
-    "term": "种",
-    "pinyin": "zhǒng",
-    "pron_es": "yǒng",
-    "meaning": "amable",
-    "category": "Básico",
-    "occ": 16
-  },
-  {
-    "term": "车",
-    "pinyin": "chē",
-    "pron_es": "tshē",
-    "meaning": "auto",
-    "category": "Básico",
-    "occ": 15
-  },
-  {
-    "term": "大学",
-    "pinyin": "dà xué",
-    "pron_es": "dà shué",
-    "meaning": "Universidad",
-    "category": "Verbos/Acciones",
-    "occ": 15
-  },
-  {
-    "term": "总是",
-    "pinyin": "zǒng shì",
-    "pron_es": "dzǒng shì",
-    "meaning": "siempre",
-    "category": "Verbos/Acciones",
-    "occ": 15
-  },
-  {
-    "term": "四",
-    "pinyin": "sì",
-    "pron_es": "sì",
-    "meaning": "cuatro",
-    "category": "Básico",
-    "occ": 14
-  },
-  {
-    "term": "从不",
-    "pinyin": "cóng bù",
-    "pron_es": "tsóng bù",
-    "meaning": "Nunca",
-    "category": "Básico",
-    "occ": 14
-  },
-  {
-    "term": "做饭",
-    "pinyin": "zuò fàn",
-    "pron_es": "dzuò fàn",
-    "meaning": "Cocinar",
-    "category": "Verbos/Acciones",
-    "occ": 14
-  },
-  {
-    "term": "刚刚",
-    "pinyin": "gāng gāng",
-    "pron_es": "gāng gāng",
-    "meaning": "justo",
-    "category": "Básico",
-    "occ": 13
-  },
-  {
-    "term": "常常",
-    "pinyin": "cháng cháng",
-    "pron_es": "tsháng tsháng",
-    "meaning": "Frecuente",
-    "category": "Básico",
-    "occ": 13
-  },
-  {
-    "term": "上午",
-    "pinyin": "shàng wǔ",
-    "pron_es": "shàng wǔ",
-    "meaning": "mañana",
-    "category": "Básico",
-    "occ": 12
-  },
-  {
-    "term": "点",
-    "pinyin": "diǎn",
-    "pron_es": "diǎn",
-    "meaning": "punto",
-    "category": "Básico",
-    "occ": 12
+    "meaning": "muy poco / rara vez",
+    "category": "Adverbios",
+    "occ": 24
   },
   {
     "term": "吃",
@@ -525,255 +437,159 @@
     "pron_es": "tshī",
     "meaning": "comer",
     "category": "Verbos/Acciones",
-    "occ": 12
+    "occ": 23
   },
   {
-    "term": "来",
-    "pinyin": "lái",
-    "pron_es": "lái",
-    "meaning": "Venir",
-    "category": "Verbos/Acciones",
-    "occ": 12
-  },
-  {
-    "term": "上次",
-    "pinyin": "shàng cì",
-    "pron_es": "shàng tsì",
-    "meaning": "último tiempo",
-    "category": "Básico",
-    "occ": 12
-  },
-  {
-    "term": "有时候",
-    "pinyin": "yǒu shí hòu",
-    "pron_es": "yǒu shí hòu",
-    "meaning": "a veces",
-    "category": "Verbos/Acciones",
-    "occ": 12
-  },
-  {
-    "term": "教",
-    "pinyin": "jiào",
-    "pron_es": "yiào",
-    "meaning": "enseñar",
-    "category": "Básico",
-    "occ": 12
+    "term": "种",
+    "pinyin": "zhǒng",
+    "pron_es": "yǒng",
+    "meaning": "tipo / clase",
+    "category": "Clasificadores",
+    "occ": 23
   },
   {
     "term": "需要",
     "pinyin": "xū yào",
     "pron_es": "shū yào",
     "meaning": "necesidad",
-    "category": "Básico",
-    "occ": 12
+    "category": "Verbos/Acciones",
+    "occ": 23
   },
   {
-    "term": "分",
-    "pinyin": "fēn",
-    "pron_es": "fēn",
-    "meaning": "punto",
-    "category": "Básico",
-    "occ": 11
+    "term": "站",
+    "pinyin": "zhàn",
+    "pron_es": "yàn",
+    "meaning": "estar de pie / estación",
+    "category": "Verbos/Acciones",
+    "occ": 22
   },
   {
-    "term": "拿",
-    "pinyin": "ná",
-    "pron_es": "ná",
-    "meaning": "llevar",
-    "category": "Básico",
-    "occ": 11
+    "term": "爸爸",
+    "pinyin": "bà bà",
+    "pron_es": "bà bà",
+    "meaning": "papá",
+    "category": "Personas/Familia",
+    "occ": 22
   },
   {
-    "term": "商店",
-    "pinyin": "shāng diàn",
-    "pron_es": "shāng diàn",
-    "meaning": "comercio",
-    "category": "Básico",
-    "occ": 11
+    "term": "钱",
+    "pinyin": "qián",
+    "pron_es": "tshián",
+    "meaning": "dinero",
+    "category": "Sustantivos/Objetos",
+    "occ": 22
+  },
+  {
+    "term": "喜欢",
+    "pinyin": "xǐ huān",
+    "pron_es": "shǐ huān",
+    "meaning": "como",
+    "category": "Verbos/Acciones",
+    "occ": 22
+  },
+  {
+    "term": "几点",
+    "pinyin": "jǐ diǎn",
+    "pron_es": "yǐ diǎn",
+    "meaning": "¿Qué hora es?",
+    "category": "Tiempo/Calendario",
+    "occ": 21
+  },
+  {
+    "term": "下",
+    "pinyin": "xià",
+    "pron_es": "shià",
+    "meaning": "abajo / bajar / siguiente",
+    "category": "Preposiciones",
+    "occ": 21
   },
   {
     "term": "问题",
     "pinyin": "wèn tí",
     "pron_es": "wèn tí",
     "meaning": "pregunta",
-    "category": "Verbos/Acciones",
-    "occ": 11
-  },
-  {
-    "term": "告诉",
-    "pinyin": "gào sù",
-    "pron_es": "gào sù",
-    "meaning": "Decir",
-    "category": "Básico",
-    "occ": 11
-  },
-  {
-    "term": "电",
-    "pinyin": "diàn",
-    "pron_es": "diàn",
-    "meaning": "electricidad",
-    "category": "Básico",
-    "occ": 11
-  },
-  {
-    "term": "睡觉",
-    "pinyin": "shuì jiào",
-    "pron_es": "shuì yiào",
-    "meaning": "dormir",
-    "category": "Básico",
-    "occ": 11
+    "category": "Estudio/Trabajo",
+    "occ": 20
   },
   {
     "term": "这个",
     "pinyin": "zhè ge",
     "pron_es": "yè ge",
     "meaning": "este",
-    "category": "Básico",
-    "occ": 11
+    "category": "Demostrativos",
+    "occ": 20
   },
   {
-    "term": "把",
-    "pinyin": "bǎ",
-    "pron_es": "bǎ",
-    "meaning": "Manojo",
-    "category": "Básico",
-    "occ": 11
+    "term": "总是",
+    "pinyin": "zǒng shì",
+    "pron_es": "dzǒng shì",
+    "meaning": "siempre",
+    "category": "Adverbios",
+    "occ": 20
   },
   {
-    "term": "坐飞机",
-    "pinyin": "zuò fēi jī",
-    "pron_es": "dzuò fēi yī",
-    "meaning": "en avión",
-    "category": "Sustantivos/Conceptos",
-    "occ": 11
+    "term": "昨天",
+    "pinyin": "zuó tiān",
+    "pron_es": "dzuó tiān",
+    "meaning": "ayer",
+    "category": "Tiempo/Calendario",
+    "occ": 19
   },
   {
-    "term": "护照",
-    "pinyin": "hù zhào",
-    "pron_es": "hù yào",
-    "meaning": "pasaporte",
-    "category": "Básico",
-    "occ": 11
+    "term": "四",
+    "pinyin": "sì",
+    "pron_es": "sì",
+    "meaning": "cuatro",
+    "category": "Números",
+    "occ": 19
   },
   {
-    "term": "星期",
-    "pinyin": "xīng qī",
-    "pron_es": "shīng tshī",
-    "meaning": "Semana",
-    "category": "Básico",
-    "occ": 10
+    "term": "学习",
+    "pinyin": "xué xí",
+    "pron_es": "shué shí",
+    "meaning": "estudiar",
+    "category": "Verbos/Acciones",
+    "occ": 19
   },
   {
-    "term": "加",
-    "pinyin": "jiā",
-    "pron_es": "yiā",
-    "meaning": "agregar",
-    "category": "Básico",
-    "occ": 10
+    "term": "小时",
+    "pinyin": "xiǎo shí",
+    "pron_es": "shiǎo shí",
+    "meaning": "hora",
+    "category": "Tiempo/Calendario",
+    "occ": 19
   },
   {
-    "term": "词",
-    "pinyin": "cí",
-    "pron_es": "tsí",
-    "meaning": "palabra",
-    "category": "Básico",
-    "occ": 10
-  },
-  {
-    "term": "八点",
-    "pinyin": "bā diǎn",
-    "pron_es": "bā diǎn",
-    "meaning": "ocho en punto",
-    "category": "Básico",
-    "occ": 10
-  },
-  {
-    "term": "老师",
-    "pinyin": "lǎo shī",
-    "pron_es": "lǎo shī",
-    "meaning": "maestro",
-    "category": "Básico",
-    "occ": 10
-  },
-  {
-    "term": "一个",
-    "pinyin": "yí gè",
-    "pron_es": "yí gè",
-    "meaning": "uno",
-    "category": "Básico",
-    "occ": 10
-  },
-  {
-    "term": "在家",
-    "pinyin": "zài jiā",
-    "pron_es": "dzài yiā",
-    "meaning": "en casa",
-    "category": "Básico",
-    "occ": 10
-  },
-  {
-    "term": "会",
-    "pinyin": "huì",
-    "pron_es": "huì",
-    "meaning": "reunión",
-    "category": "Básico",
-    "occ": 10
+    "term": "东西",
+    "pinyin": "dōng xī",
+    "pron_es": "dōng shī",
+    "meaning": "cosa",
+    "category": "Sustantivos/Objetos",
+    "occ": 18
   },
   {
     "term": "很多",
     "pinyin": "hěn duō",
     "pron_es": "hěn duō",
     "meaning": "mucho",
-    "category": "Básico",
-    "occ": 10
+    "category": "Adverbios",
+    "occ": 18
   },
   {
-    "term": "开车",
-    "pinyin": "kāi chē",
-    "pron_es": "kāi tshē",
-    "meaning": "conducir",
-    "category": "Básico",
-    "occ": 10
+    "term": "常常",
+    "pinyin": "cháng cháng",
+    "pron_es": "tsháng tsháng",
+    "meaning": "a menudo",
+    "category": "Adverbios",
+    "occ": 18
   },
   {
-    "term": "画",
-    "pinyin": "huà",
-    "pron_es": "huà",
-    "meaning": "cuadro",
-    "category": "Básico",
-    "occ": 10
-  },
-  {
-    "term": "名字",
-    "pinyin": "míng zì",
-    "pron_es": "míng dzì",
-    "meaning": "nombre",
-    "category": "Básico",
-    "occ": 9
-  },
-  {
-    "term": "时态",
-    "pinyin": "shí tài",
-    "pron_es": "shí tài",
-    "meaning": "tenso",
-    "category": "Básico",
-    "occ": 9
-  },
-  {
-    "term": "里",
-    "pinyin": "lǐ",
-    "pron_es": "lǐ",
-    "meaning": "adentro",
-    "category": "Básico",
-    "occ": 9
-  },
-  {
-    "term": "中午",
-    "pinyin": "zhōng wǔ",
-    "pron_es": "yōng wǔ",
-    "meaning": "mediodía",
-    "category": "Básico",
-    "occ": 8
+    "term": "打算",
+    "pinyin": "dǎ suàn",
+    "pron_es": "dǎ suàn",
+    "meaning": "planear / tener intención",
+    "category": "Verbos/Acciones",
+    "occ": 18
   },
   {
     "term": "我们",
@@ -781,7 +597,119 @@
     "pron_es": "wǒ men",
     "meaning": "a nosotros",
     "category": "Pronombres",
-    "occ": 8
+    "occ": 17
+  },
+  {
+    "term": "朋友家",
+    "pinyin": "péng yǒu jiā",
+    "pron_es": "péng yǒu yiā",
+    "meaning": "casa de un amigo",
+    "category": "Personas/Familia",
+    "occ": 17
+  },
+  {
+    "term": "大学",
+    "pinyin": "dà xué",
+    "pron_es": "dà shué",
+    "meaning": "universidad",
+    "category": "Lugares",
+    "occ": 17
+  },
+  {
+    "term": "衣服",
+    "pinyin": "yī fú",
+    "pron_es": "yī fú",
+    "meaning": "ropa",
+    "category": "Sustantivos/Objetos",
+    "occ": 17
+  },
+  {
+    "term": "计划",
+    "pinyin": "jì huà",
+    "pron_es": "yì huà",
+    "meaning": "plan / planear",
+    "category": "Verbos/Acciones",
+    "occ": 17
+  },
+  {
+    "term": "知道",
+    "pinyin": "zhī dào",
+    "pron_es": "yī dào",
+    "meaning": "Saber",
+    "category": "Verbos/Acciones",
+    "occ": 17
+  },
+  {
+    "term": "好吃",
+    "pinyin": "hǎo chī",
+    "pron_es": "hǎo tshī",
+    "meaning": "rico (comida)",
+    "category": "Adjetivos",
+    "occ": 17
+  },
+  {
+    "term": "那",
+    "pinyin": "nà",
+    "pron_es": "nà",
+    "meaning": "Eso",
+    "category": "Demostrativos",
+    "occ": 16
+  },
+  {
+    "term": "每天",
+    "pinyin": "měi tiān",
+    "pron_es": "měi tiān",
+    "meaning": "cada día",
+    "category": "Tiempo/Calendario",
+    "occ": 16
+  },
+  {
+    "term": "从不",
+    "pinyin": "cóng bù",
+    "pron_es": "tsóng bù",
+    "meaning": "nunca",
+    "category": "Negación",
+    "occ": 16
+  },
+  {
+    "term": "觉得",
+    "pinyin": "jué de",
+    "pron_es": "yué de",
+    "meaning": "sentir",
+    "category": "Verbos/Acciones",
+    "occ": 16
+  },
+  {
+    "term": "做饭",
+    "pinyin": "zuò fàn",
+    "pron_es": "dzuò fàn",
+    "meaning": "Cocinar",
+    "category": "Comida/Bebida",
+    "occ": 15
+  },
+  {
+    "term": "老板",
+    "pinyin": "lǎo bǎn",
+    "pron_es": "lǎo bǎn",
+    "meaning": "jefe",
+    "category": "Personas/Familia",
+    "occ": 15
+  },
+  {
+    "term": "更",
+    "pinyin": "gèng",
+    "pron_es": "gèng",
+    "meaning": "más / aún más",
+    "category": "Adverbios",
+    "occ": 14
+  },
+  {
+    "term": "老师",
+    "pinyin": "lǎo shī",
+    "pron_es": "lǎo shī",
+    "meaning": "maestro",
+    "category": "Personas/Familia",
+    "occ": 14
   },
   {
     "term": "看",
@@ -789,22 +717,566 @@
     "pron_es": "kàn",
     "meaning": "mirar",
     "category": "Verbos/Acciones",
+    "occ": 14
+  },
+  {
+    "term": "电脑",
+    "pinyin": "diàn nǎo",
+    "pron_es": "diàn nǎo",
+    "meaning": "computadora",
+    "category": "Sustantivos/Objetos",
+    "occ": 14
+  },
+  {
+    "term": "来",
+    "pinyin": "lái",
+    "pron_es": "lái",
+    "meaning": "Venir",
+    "category": "Verbos/Acciones",
+    "occ": 14
+  },
+  {
+    "term": "睡觉",
+    "pinyin": "shuì jiào",
+    "pron_es": "shuì yiào",
+    "meaning": "dormir",
+    "category": "Verbos/Acciones",
+    "occ": 14
+  },
+  {
+    "term": "怎么样",
+    "pinyin": "zěn me yàng",
+    "pron_es": "dzěn me yàng",
+    "meaning": "¿Qué tal?",
+    "category": "Preguntas",
+    "occ": 14
+  },
+  {
+    "term": "可以",
+    "pinyin": "kě yǐ",
+    "pron_es": "kě yǐ",
+    "meaning": "se puede / poder",
+    "category": "Modales",
+    "occ": 14
+  },
+  {
+    "term": "刚刚",
+    "pinyin": "gāng gāng",
+    "pron_es": "gāng gāng",
+    "meaning": "justo ahora",
+    "category": "Adverbios",
+    "occ": 13
+  },
+  {
+    "term": "告诉",
+    "pinyin": "gào sù",
+    "pron_es": "gào sù",
+    "meaning": "decir / informar",
+    "category": "Verbos/Acciones",
+    "occ": 13
+  },
+  {
+    "term": "有时候",
+    "pinyin": "yǒu shí hòu",
+    "pron_es": "yǒu shí hòu",
+    "meaning": "a veces",
+    "category": "Tiempo/Calendario",
+    "occ": 13
+  },
+  {
+    "term": "食物",
+    "pinyin": "shí wù",
+    "pron_es": "shí wù",
+    "meaning": "alimento",
+    "category": "Sustantivos/Objetos",
+    "occ": 13
+  },
+  {
+    "term": "菜",
+    "pinyin": "cài",
+    "pron_es": "tsài",
+    "meaning": "verdura",
+    "category": "Comida/Bebida",
+    "occ": 13
+  },
+  {
+    "term": "用",
+    "pinyin": "yòng",
+    "pron_es": "yòng",
+    "meaning": "usar",
+    "category": "Verbos/Acciones",
+    "occ": 13
+  },
+  {
+    "term": "帮助",
+    "pinyin": "bāng zhù",
+    "pron_es": "bāng yù",
+    "meaning": "ayuda",
+    "category": "Verbos/Acciones",
+    "occ": 13
+  },
+  {
+    "term": "中国",
+    "pinyin": "zhōng guó",
+    "pron_es": "yōng guó",
+    "meaning": "China",
+    "category": "Sustantivos/Objetos",
+    "occ": 13
+  },
+  {
+    "term": "真",
+    "pinyin": "zhēn",
+    "pron_es": "yēn",
+    "meaning": "de verdad / muy",
+    "category": "Adverbios",
+    "occ": 13
+  },
+  {
+    "term": "星期",
+    "pinyin": "xīng qī",
+    "pron_es": "shīng tshī",
+    "meaning": "Semana",
+    "category": "Tiempo/Calendario",
+    "occ": 12
+  },
+  {
+    "term": "上午",
+    "pinyin": "shàng wǔ",
+    "pron_es": "shàng wǔ",
+    "meaning": "mañana",
+    "category": "Tiempo/Calendario",
+    "occ": 12
+  },
+  {
+    "term": "点",
+    "pinyin": "diǎn",
+    "pron_es": "diǎn",
+    "meaning": "en punto / punto",
+    "category": "Tiempo/Calendario",
+    "occ": 12
+  },
+  {
+    "term": "分",
+    "pinyin": "fēn",
+    "pron_es": "fēn",
+    "meaning": "minuto",
+    "category": "Tiempo/Calendario",
+    "occ": 12
+  },
+  {
+    "term": "加",
+    "pinyin": "jiā",
+    "pron_es": "yiā",
+    "meaning": "agregar",
+    "category": "Sustantivos/Objetos",
+    "occ": 12
+  },
+  {
+    "term": "上次",
+    "pinyin": "shàng cì",
+    "pron_es": "shàng tsì",
+    "meaning": "la vez pasada",
+    "category": "Tiempo/Calendario",
+    "occ": 12
+  },
+  {
+    "term": "通常",
+    "pinyin": "tōng cháng",
+    "pron_es": "tōng tsháng",
+    "meaning": "normalmente",
+    "category": "Adverbios",
+    "occ": 12
+  },
+  {
+    "term": "教",
+    "pinyin": "jiào",
+    "pron_es": "yiào",
+    "meaning": "enseñar",
+    "category": "Verbos/Acciones",
+    "occ": 12
+  },
+  {
+    "term": "住",
+    "pinyin": "zhù",
+    "pron_es": "yù",
+    "meaning": "vivir",
+    "category": "Verbos/Acciones",
+    "occ": 11
+  },
+  {
+    "term": "词",
+    "pinyin": "cí",
+    "pron_es": "tsí",
+    "meaning": "palabra (unidad léxica)",
+    "category": "Estudio/Trabajo",
+    "occ": 11
+  },
+  {
+    "term": "拿",
+    "pinyin": "ná",
+    "pron_es": "ná",
+    "meaning": "tomar / agarrar",
+    "category": "Verbos/Acciones",
+    "occ": 11
+  },
+  {
+    "term": "办公室",
+    "pinyin": "bàn gōng shì",
+    "pron_es": "bàn gōng shì",
+    "meaning": "oficina",
+    "category": "Lugares",
+    "occ": 11
+  },
+  {
+    "term": "时态",
+    "pinyin": "shí tài",
+    "pron_es": "shí tài",
+    "meaning": "tiempo verbal",
+    "category": "Estudio/Trabajo",
+    "occ": 11
+  },
+  {
+    "term": "商店",
+    "pinyin": "shāng diàn",
+    "pron_es": "shāng diàn",
+    "meaning": "comercio",
+    "category": "Lugares",
+    "occ": 11
+  },
+  {
+    "term": "修",
+    "pinyin": "xiū",
+    "pron_es": "shiū",
+    "meaning": "arreglar / reparar",
+    "category": "Verbos/Acciones",
+    "occ": 11
+  },
+  {
+    "term": "电",
+    "pinyin": "diàn",
+    "pron_es": "diàn",
+    "meaning": "electricidad / eléctrico",
+    "category": "Sustantivos/Objetos",
+    "occ": 11
+  },
+  {
+    "term": "把",
+    "pinyin": "bǎ",
+    "pron_es": "bǎ",
+    "meaning": "Manojo",
+    "category": "Partículas/Funcionales",
+    "occ": 11
+  },
+  {
+    "term": "少",
+    "pinyin": "shǎo",
+    "pron_es": "shǎo",
+    "meaning": "poco",
+    "category": "Adjetivos",
+    "occ": 11
+  },
+  {
+    "term": "开车",
+    "pinyin": "kāi chē",
+    "pron_es": "kāi tshē",
+    "meaning": "conducir",
+    "category": "Verbos/Acciones",
+    "occ": 11
+  },
+  {
+    "term": "坐飞机",
+    "pinyin": "zuò fēi jī",
+    "pron_es": "dzuò fēi yī",
+    "meaning": "viajar en avión",
+    "category": "Verbos/Acciones",
+    "occ": 11
+  },
+  {
+    "term": "想",
+    "pinyin": "xiǎng",
+    "pron_es": "shiǎng",
+    "meaning": "pensar",
+    "category": "Verbos/Acciones",
+    "occ": 11
+  },
+  {
+    "term": "护照",
+    "pinyin": "hù zhào",
+    "pron_es": "hù yào",
+    "meaning": "pasaporte",
+    "category": "Sustantivos/Objetos",
+    "occ": 11
+  },
+  {
+    "term": "电话",
+    "pinyin": "diàn huà",
+    "pron_es": "diàn huà",
+    "meaning": "Teléfono",
+    "category": "Sustantivos/Objetos",
+    "occ": 11
+  },
+  {
+    "term": "次",
+    "pinyin": "cì",
+    "pron_es": "tsì",
+    "meaning": "vez (clasificador)",
+    "category": "Clasificadores",
+    "occ": 11
+  },
+  {
+    "term": "月",
+    "pinyin": "yuè",
+    "pron_es": "yuè",
+    "meaning": "mes",
+    "category": "Tiempo/Calendario",
+    "occ": 10
+  },
+  {
+    "term": "八点",
+    "pinyin": "bā diǎn",
+    "pron_es": "bā diǎn",
+    "meaning": "ocho en punto",
+    "category": "Tiempo/Calendario",
+    "occ": 10
+  },
+  {
+    "term": "你们",
+    "pinyin": "nǐ men",
+    "pron_es": "nǐ men",
+    "meaning": "tú",
+    "category": "Pronombres",
+    "occ": 10
+  },
+  {
+    "term": "一个",
+    "pinyin": "yí gè",
+    "pron_es": "yí gè",
+    "meaning": "uno (con clasificador)",
+    "category": "Números",
+    "occ": 10
+  },
+  {
+    "term": "在家",
+    "pinyin": "zài jiā",
+    "pron_es": "dzài yiā",
+    "meaning": "en casa",
+    "category": "Lugares",
+    "occ": 10
+  },
+  {
+    "term": "饭",
+    "pinyin": "fàn",
+    "pron_es": "fàn",
+    "meaning": "comida",
+    "category": "Comida/Bebida",
+    "occ": 10
+  },
+  {
+    "term": "画",
+    "pinyin": "huà",
+    "pron_es": "huà",
+    "meaning": "dibujar / pintura",
+    "category": "Verbos/Acciones",
+    "occ": 10
+  },
+  {
+    "term": "认识",
+    "pinyin": "rèn shí",
+    "pron_es": "rèn shí",
+    "meaning": "saber",
+    "category": "Verbos/Acciones",
+    "occ": 10
+  },
+  {
+    "term": "做作业",
+    "pinyin": "zuò zuò yè",
+    "pron_es": "dzuò dzuò yè",
+    "meaning": "hacer la tarea",
+    "category": "Estudio/Trabajo",
+    "occ": 10
+  },
+  {
+    "term": "可能",
+    "pinyin": "kě néng",
+    "pron_es": "kě néng",
+    "meaning": "posible",
+    "category": "Verbos/Acciones",
+    "occ": 10
+  },
+  {
+    "term": "比",
+    "pinyin": "bǐ",
+    "pron_es": "bǐ",
+    "meaning": "Comparar",
+    "category": "Sustantivos/Objetos",
+    "occ": 10
+  },
+  {
+    "term": "名字",
+    "pinyin": "míng zì",
+    "pron_es": "míng dzì",
+    "meaning": "nombre",
+    "category": "Sustantivos/Objetos",
+    "occ": 9
+  },
+  {
+    "term": "几",
+    "pinyin": "jǐ",
+    "pron_es": "yǐ",
+    "meaning": "cuántos / varios",
+    "category": "Preguntas",
+    "occ": 9
+  },
+  {
+    "term": "这是",
+    "pinyin": "zhè shì",
+    "pron_es": "yè shì",
+    "meaning": "esto es",
+    "category": "Expresiones cortas",
+    "occ": 9
+  },
+  {
+    "term": "她",
+    "pinyin": "tā",
+    "pron_es": "tā",
+    "meaning": "ella",
+    "category": "Pronombres",
+    "occ": 9
+  },
+  {
+    "term": "里",
+    "pinyin": "lǐ",
+    "pron_es": "lǐ",
+    "meaning": "dentro / interior",
+    "category": "Preposiciones",
+    "occ": 9
+  },
+  {
+    "term": "答案",
+    "pinyin": "dá àn",
+    "pron_es": "dá àn",
+    "meaning": "Respuesta",
+    "category": "Estudio/Trabajo",
+    "occ": 9
+  },
+  {
+    "term": "米饭",
+    "pinyin": "mǐ fàn",
+    "pron_es": "mǐ fàn",
+    "meaning": "arroz",
+    "category": "Comida/Bebida",
+    "occ": 9
+  },
+  {
+    "term": "好",
+    "pinyin": "hǎo",
+    "pron_es": "hǎo",
+    "meaning": "bien",
+    "category": "Adjetivos",
+    "occ": 9
+  },
+  {
+    "term": "女朋友",
+    "pinyin": "nǚ péng yǒu",
+    "pron_es": "nǚ péng yǒu",
+    "meaning": "novia",
+    "category": "Personas/Familia",
+    "occ": 9
+  },
+  {
+    "term": "短信",
+    "pinyin": "duǎn xìn",
+    "pron_es": "duǎn shìn",
+    "meaning": "mensaje corto",
+    "category": "Sustantivos/Objetos",
+    "occ": 9
+  },
+  {
+    "term": "中午",
+    "pinyin": "zhōng wǔ",
+    "pron_es": "yōng wǔ",
+    "meaning": "mediodía",
+    "category": "Tiempo/Calendario",
+    "occ": 8
+  },
+  {
+    "term": "下午",
+    "pinyin": "xià wǔ",
+    "pron_es": "shià wǔ",
+    "meaning": "tarde",
+    "category": "Tiempo/Calendario",
+    "occ": 8
+  },
+  {
+    "term": "学生",
+    "pinyin": "xué shēng",
+    "pron_es": "shué shēng",
+    "meaning": "alumno",
+    "category": "Personas/Familia",
+    "occ": 8
+  },
+  {
+    "term": "不是",
+    "pinyin": "bú shì",
+    "pron_es": "bú shì",
+    "meaning": "no es",
+    "category": "Negación",
+    "occ": 8
+  },
+  {
+    "term": "书",
+    "pinyin": "shū",
+    "pron_es": "shū",
+    "meaning": "Libro",
+    "category": "Sustantivos/Objetos",
+    "occ": 8
+  },
+  {
+    "term": "到",
+    "pinyin": "dào",
+    "pron_es": "dào",
+    "meaning": "llegar / hasta",
+    "category": "Preposiciones",
+    "occ": 8
+  },
+  {
+    "term": "电影",
+    "pinyin": "diàn yǐng",
+    "pron_es": "diàn yǐng",
+    "meaning": "Película",
+    "category": "Sustantivos/Objetos",
     "occ": 8
   },
   {
     "term": "开",
     "pinyin": "kāi",
     "pron_es": "kāi",
-    "meaning": "abierto",
-    "category": "Básico",
+    "meaning": "abrir / comenzar",
+    "category": "Verbos/Acciones",
     "occ": 8
   },
   {
-    "term": "通常",
-    "pinyin": "tōng cháng",
-    "pron_es": "tōng tsháng",
-    "meaning": "generalmente",
-    "category": "Básico",
+    "term": "全",
+    "pinyin": "quán",
+    "pron_es": "tshuán",
+    "meaning": "todo / completo",
+    "category": "Adjetivos",
+    "occ": 8
+  },
+  {
+    "term": "公司",
+    "pinyin": "gōng sī",
+    "pron_es": "gōng sī",
+    "meaning": "compañía",
+    "category": "Lugares",
+    "occ": 8
+  },
+  {
+    "term": "玩",
+    "pinyin": "wán",
+    "pron_es": "wán",
+    "meaning": "jugar",
+    "category": "Verbos/Acciones",
     "occ": 8
   },
   {
@@ -812,15 +1284,15 @@
     "pinyin": "qǐ chuáng",
     "pron_es": "tshǐ tshuáng",
     "meaning": "levantarse",
-    "category": "Básico",
+    "category": "Verbos/Acciones",
     "occ": 8
   },
   {
-    "term": "钱",
-    "pinyin": "qián",
-    "pron_es": "tshián",
-    "meaning": "dinero",
-    "category": "Básico",
+    "term": "能",
+    "pinyin": "néng",
+    "pron_es": "néng",
+    "meaning": "poder (capacidad)",
+    "category": "Modales",
     "occ": 8
   },
   {
@@ -828,15 +1300,31 @@
     "pinyin": "chú shī",
     "pron_es": "tshú shī",
     "meaning": "cocinero",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
+    "occ": 8
+  },
+  {
+    "term": "一张",
+    "pinyin": "yī zhāng",
+    "pron_es": "yī yāng",
+    "meaning": "una (clasificador para objetos planos)",
+    "category": "Clasificadores",
     "occ": 8
   },
   {
     "term": "坐车",
     "pinyin": "zuò chē",
     "pron_es": "dzuò tshē",
-    "meaning": "toma un auto",
-    "category": "Básico",
+    "meaning": "ir en carro/bus",
+    "category": "Verbos/Acciones",
+    "occ": 8
+  },
+  {
+    "term": "同事",
+    "pinyin": "tóng shì",
+    "pron_es": "tóng shì",
+    "meaning": "colega",
+    "category": "Personas/Familia",
     "occ": 8
   },
   {
@@ -844,7 +1332,23 @@
     "pinyin": "měi cì",
     "pron_es": "měi tsì",
     "meaning": "cada vez",
-    "category": "Básico",
+    "category": "Tiempo/Calendario",
+    "occ": 8
+  },
+  {
+    "term": "出门",
+    "pinyin": "chū mén",
+    "pron_es": "tshū mén",
+    "meaning": "salir",
+    "category": "Verbos/Acciones",
+    "occ": 8
+  },
+  {
+    "term": "接",
+    "pinyin": "jiē",
+    "pron_es": "yiē",
+    "meaning": "recoger / recibir",
+    "category": "Verbos/Acciones",
     "occ": 8
   },
   {
@@ -852,23 +1356,23 @@
     "pinyin": "gè rén xìn xī",
     "pron_es": "gè rén shìn shī",
     "meaning": "información personal",
-    "category": "Sustantivos/Conceptos",
+    "category": "Expresiones cortas",
     "occ": 7
   },
   {
-    "term": "月",
-    "pinyin": "yuè",
-    "pron_es": "yuè",
-    "meaning": "luna",
-    "category": "Básico",
+    "term": "小孩",
+    "pinyin": "xiǎo hái",
+    "pron_es": "shiǎo hái",
+    "meaning": "niño/a",
+    "category": "Personas/Familia",
     "occ": 7
   },
   {
-    "term": "下午",
-    "pinyin": "xià wǔ",
-    "pron_es": "shià wǔ",
-    "meaning": "tarde",
-    "category": "Básico",
+    "term": "十",
+    "pinyin": "shí",
+    "pron_es": "shí",
+    "meaning": "diez",
+    "category": "Números",
     "occ": 7
   },
   {
@@ -880,19 +1384,19 @@
     "occ": 7
   },
   {
-    "term": "打电话",
-    "pinyin": "dǎ diàn huà",
-    "pron_es": "dǎ diàn huà",
-    "meaning": "Llamar",
-    "category": "Sustantivos/Conceptos",
+    "term": "理",
+    "pinyin": "lǐ",
+    "pron_es": "lǐ",
+    "meaning": "razón / lógica",
+    "category": "Sustantivos/Objetos",
     "occ": 7
   },
   {
-    "term": "每天",
-    "pinyin": "měi tiān",
-    "pron_es": "měi tiān",
-    "meaning": "cada día",
-    "category": "Básico",
+    "term": "打电话",
+    "pinyin": "dǎ diàn huà",
+    "pron_es": "dǎ diàn huà",
+    "meaning": "llamar por teléfono",
+    "category": "Verbos/Acciones",
     "occ": 7
   },
   {
@@ -900,31 +1404,111 @@
     "pinyin": "yīng wén",
     "pron_es": "yīng wén",
     "meaning": "Inglés",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 7
   },
   {
     "term": "放",
     "pinyin": "fàng",
     "pron_es": "fàng",
-    "meaning": "poner",
-    "category": "Básico",
+    "meaning": "poner / dejar",
+    "category": "Verbos/Acciones",
+    "occ": 7
+  },
+  {
+    "term": "分钟",
+    "pinyin": "fēn zhōng",
+    "pron_es": "fēn yōng",
+    "meaning": "minuto",
+    "category": "Tiempo/Calendario",
+    "occ": 7
+  },
+  {
+    "term": "数学",
+    "pinyin": "shù xué",
+    "pron_es": "shù shué",
+    "meaning": "matemáticas",
+    "category": "Estudio/Trabajo",
+    "occ": 7
+  },
+  {
+    "term": "跳舞",
+    "pinyin": "tiào wǔ",
+    "pron_es": "tiào wǔ",
+    "meaning": "bailar",
+    "category": "Verbos/Acciones",
+    "occ": 7
+  },
+  {
+    "term": "久",
+    "pinyin": "jiǔ",
+    "pron_es": "yiǔ",
+    "meaning": "duradero / mucho tiempo",
+    "category": "Adjetivos",
+    "occ": 7
+  },
+  {
+    "term": "后",
+    "pinyin": "hòu",
+    "pron_es": "hòu",
+    "meaning": "después / atrás",
+    "category": "Preposiciones",
     "occ": 7
   },
   {
     "term": "家人",
     "pinyin": "jiā rén",
     "pron_es": "yiā rén",
-    "meaning": "familia",
-    "category": "Básico",
+    "meaning": "familiares",
+    "category": "Personas/Familia",
+    "occ": 7
+  },
+  {
+    "term": "漂亮",
+    "pinyin": "piào liàng",
+    "pron_es": "piào liàng",
+    "meaning": "bonito",
+    "category": "Adjetivos",
+    "occ": 7
+  },
+  {
+    "term": "有时",
+    "pinyin": "yǒu shí",
+    "pron_es": "yǒu shí",
+    "meaning": "a veces",
+    "category": "Adverbios",
     "occ": 7
   },
   {
     "term": "带",
     "pinyin": "dài",
     "pron_es": "dài",
-    "meaning": "traer",
-    "category": "Básico",
+    "meaning": "llevar / traer",
+    "category": "Verbos/Acciones",
+    "occ": 7
+  },
+  {
+    "term": "多长时间",
+    "pinyin": "duō zhǎng shí jiān",
+    "pron_es": "duō yǎng shí yiān",
+    "meaning": "cuánto tiempo",
+    "category": "Preguntas",
+    "occ": 7
+  },
+  {
+    "term": "练习",
+    "pinyin": "liàn xí",
+    "pron_es": "liàn shí",
+    "meaning": "practicar / práctica",
+    "category": "Estudio/Trabajo",
+    "occ": 7
+  },
+  {
+    "term": "汉语",
+    "pinyin": "hàn yǔ",
+    "pron_es": "hàn yǔ",
+    "meaning": "Chino",
+    "category": "Estudio/Trabajo",
     "occ": 7
   },
   {
@@ -936,11 +1520,19 @@
     "occ": 6
   },
   {
-    "term": "学生",
-    "pinyin": "xué shēng",
-    "pron_es": "shué shēng",
-    "meaning": "alumno",
-    "category": "Verbos/Acciones",
+    "term": "六",
+    "pinyin": "liù",
+    "pron_es": "liù",
+    "meaning": "seis",
+    "category": "Números",
+    "occ": 6
+  },
+  {
+    "term": "哥哥",
+    "pinyin": "gē gē",
+    "pron_es": "gē gē",
+    "meaning": "hermano mayor",
+    "category": "Personas/Familia",
     "occ": 6
   },
   {
@@ -948,7 +1540,7 @@
     "pinyin": "nà ge",
     "pron_es": "nà ge",
     "meaning": "eso",
-    "category": "Básico",
+    "category": "Demostrativos",
     "occ": 6
   },
   {
@@ -956,7 +1548,7 @@
     "pinyin": "èr shí",
     "pron_es": "èr shí",
     "meaning": "veinte",
-    "category": "Básico",
+    "category": "Números",
     "occ": 6
   },
   {
@@ -964,7 +1556,7 @@
     "pinyin": "wǔ diǎn",
     "pron_es": "wǔ diǎn",
     "meaning": "cinco en punto",
-    "category": "Básico",
+    "category": "Tiempo/Calendario",
     "occ": 6
   },
   {
@@ -972,7 +1564,7 @@
     "pinyin": "èr shí sān",
     "pron_es": "èr shí sān",
     "meaning": "veintitrés",
-    "category": "Sustantivos/Conceptos",
+    "category": "Números",
     "occ": 6
   },
   {
@@ -980,15 +1572,15 @@
     "pinyin": "yīn yuè",
     "pron_es": "yīn yuè",
     "meaning": "música",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 6
   },
   {
-    "term": "办公室",
-    "pinyin": "bàn gōng shì",
-    "pron_es": "bàn gōng shì",
-    "meaning": "oficina",
-    "category": "Sustantivos/Conceptos",
+    "term": "没",
+    "pinyin": "méi",
+    "pron_es": "méi",
+    "meaning": "no / no haber",
+    "category": "Negación",
     "occ": 6
   },
   {
@@ -996,15 +1588,63 @@
     "pinyin": "mén",
     "pron_es": "mén",
     "meaning": "Puerta",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
+    "occ": 6
+  },
+  {
+    "term": "打",
+    "pinyin": "dǎ",
+    "pron_es": "dǎ",
+    "meaning": "golpear / llamar",
+    "category": "Verbos/Acciones",
+    "occ": 6
+  },
+  {
+    "term": "没有",
+    "pinyin": "méi yǒu",
+    "pron_es": "méi yǒu",
+    "meaning": "No",
+    "category": "Verbos/Acciones",
+    "occ": 6
+  },
+  {
+    "term": "外",
+    "pinyin": "wài",
+    "pron_es": "wài",
+    "meaning": "afuera / exterior",
+    "category": "Preposiciones",
     "occ": 6
   },
   {
     "term": "网上",
     "pinyin": "wǎng shàng",
     "pron_es": "wǎng shàng",
-    "meaning": "en línea",
-    "category": "Básico",
+    "meaning": "en internet",
+    "category": "Lugares",
+    "occ": 6
+  },
+  {
+    "term": "中",
+    "pinyin": "zhōng",
+    "pron_es": "yōng",
+    "meaning": "medio / dentro",
+    "category": "Preposiciones",
+    "occ": 6
+  },
+  {
+    "term": "我要",
+    "pinyin": "wǒ yào",
+    "pron_es": "wǒ yào",
+    "meaning": "yo quiero",
+    "category": "Expresiones cortas",
+    "occ": 6
+  },
+  {
+    "term": "儿子",
+    "pinyin": "ér zi",
+    "pron_es": "ér dzi",
+    "meaning": "hijo",
+    "category": "Personas/Familia",
     "occ": 6
   },
   {
@@ -1012,7 +1652,7 @@
     "pinyin": "gōng zuò rì",
     "pron_es": "gōng dzuò rì",
     "meaning": "jornada laboral",
-    "category": "Sustantivos/Conceptos",
+    "category": "Estudio/Trabajo",
     "occ": 6
   },
   {
@@ -1020,7 +1660,15 @@
     "pinyin": "dān cí",
     "pron_es": "dān tsí",
     "meaning": "palabra",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
+    "occ": 6
+  },
+  {
+    "term": "从",
+    "pinyin": "cóng",
+    "pron_es": "tsóng",
+    "meaning": "desde",
+    "category": "Preposiciones",
     "occ": 6
   },
   {
@@ -1028,47 +1676,39 @@
     "pinyin": "yī tiān",
     "pron_es": "yī tiān",
     "meaning": "un día",
-    "category": "Básico",
+    "category": "Tiempo/Calendario",
     "occ": 6
   },
   {
-    "term": "饭",
-    "pinyin": "fàn",
-    "pron_es": "fàn",
-    "meaning": "comida",
-    "category": "Básico",
-    "occ": 6
-  },
-  {
-    "term": "一张",
-    "pinyin": "yī zhāng",
-    "pron_es": "yī yāng",
-    "meaning": "una pieza",
-    "category": "Básico",
+    "term": "修理",
+    "pinyin": "xiū lǐ",
+    "pron_es": "shiū lǐ",
+    "meaning": "reparar",
+    "category": "Verbos/Acciones",
     "occ": 6
   },
   {
     "term": "唱歌",
     "pinyin": "chàng gē",
     "pron_es": "tshàng gē",
-    "meaning": "Cantar",
-    "category": "Básico",
+    "meaning": "cantar",
+    "category": "Verbos/Acciones",
     "occ": 6
   },
   {
     "term": "唱",
     "pinyin": "chàng",
     "pron_es": "tshàng",
-    "meaning": "Cantar",
-    "category": "Básico",
+    "meaning": "cantar",
+    "category": "Verbos/Acciones",
     "occ": 6
   },
   {
-    "term": "食物",
-    "pinyin": "shí wù",
-    "pron_es": "shí wù",
-    "meaning": "alimento",
-    "category": "Básico",
+    "term": "我家",
+    "pinyin": "wǒ jiā",
+    "pron_es": "wǒ yiā",
+    "meaning": "mi casa",
+    "category": "Lugares",
     "occ": 6
   },
   {
@@ -1076,7 +1716,7 @@
     "pinyin": "kāi xīn",
     "pron_es": "kāi shīn",
     "meaning": "feliz",
-    "category": "Básico",
+    "category": "Adjetivos",
     "occ": 6
   },
   {
@@ -1084,15 +1724,15 @@
     "pinyin": "yùn dòng",
     "pron_es": "yùn dòng",
     "meaning": "deportes",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 6
   },
   {
-    "term": "菜",
-    "pinyin": "cài",
-    "pron_es": "tsài",
-    "meaning": "verdura",
-    "category": "Básico",
+    "term": "比较",
+    "pinyin": "bǐ jiào",
+    "pron_es": "bǐ yiào",
+    "meaning": "comparar / relativamente",
+    "category": "Verbos/Acciones",
     "occ": 6
   },
   {
@@ -1100,15 +1740,71 @@
     "pinyin": "yīng guó",
     "pron_es": "yīng guó",
     "meaning": "Reino Unido",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 6
   },
   {
-    "term": "出门",
-    "pinyin": "chū mén",
-    "pron_es": "tshū mén",
-    "meaning": "salir",
-    "category": "Básico",
+    "term": "送",
+    "pinyin": "sòng",
+    "pron_es": "sòng",
+    "meaning": "entregar / regalar",
+    "category": "Verbos/Acciones",
+    "occ": 6
+  },
+  {
+    "term": "收到",
+    "pinyin": "shōu dào",
+    "pron_es": "shōu dào",
+    "meaning": "recibir",
+    "category": "Verbos/Acciones",
+    "occ": 6
+  },
+  {
+    "term": "解决问题",
+    "pinyin": "jiě jué wèn tí",
+    "pron_es": "yiě yué wèn tí",
+    "meaning": "resolver problemas",
+    "category": "Estudio/Trabajo",
+    "occ": 6
+  },
+  {
+    "term": "书店",
+    "pinyin": "shū diàn",
+    "pron_es": "shū diàn",
+    "meaning": "librería",
+    "category": "Sustantivos/Objetos",
+    "occ": 6
+  },
+  {
+    "term": "小说",
+    "pinyin": "xiǎo shuō",
+    "pron_es": "shiǎo shuō",
+    "meaning": "novedoso",
+    "category": "Verbos/Acciones",
+    "occ": 6
+  },
+  {
+    "term": "北京",
+    "pinyin": "běi jīng",
+    "pron_es": "běi yīng",
+    "meaning": "Pekín",
+    "category": "Sustantivos/Objetos",
+    "occ": 6
+  },
+  {
+    "term": "第一周",
+    "pinyin": "dì yī zhōu",
+    "pron_es": "dì yī yōu",
+    "meaning": "primera semana",
+    "category": "Tiempo/Calendario",
+    "occ": 6
+  },
+  {
+    "term": "副词",
+    "pinyin": "fù cí",
+    "pron_es": "fù tsí",
+    "meaning": "adverbio",
+    "category": "Sustantivos/Objetos",
     "occ": 6
   },
   {
@@ -1116,7 +1812,7 @@
     "pinyin": "yī rén",
     "pron_es": "yī rén",
     "meaning": "una persona",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 5
   },
   {
@@ -1124,15 +1820,7 @@
     "pinyin": "xīng qī yī",
     "pron_es": "shīng tshī yī",
     "meaning": "Lunes",
-    "category": "Sustantivos/Conceptos",
-    "occ": 5
-  },
-  {
-    "term": "几",
-    "pinyin": "jǐ",
-    "pron_es": "yǐ",
-    "meaning": "Varios",
-    "category": "Básico",
+    "category": "Tiempo/Calendario",
     "occ": 5
   },
   {
@@ -1140,7 +1828,7 @@
     "pinyin": "xīng qī liù",
     "pron_es": "shīng tshī liù",
     "meaning": "Sábado",
-    "category": "Sustantivos/Conceptos",
+    "category": "Tiempo/Calendario",
     "occ": 5
   },
   {
@@ -1148,15 +1836,15 @@
     "pinyin": "liǎng",
     "pron_es": "liǎng",
     "meaning": "dos",
-    "category": "Básico",
+    "category": "Números",
     "occ": 5
   },
   {
-    "term": "六",
-    "pinyin": "liù",
-    "pron_es": "liù",
-    "meaning": "seis",
-    "category": "Básico",
+    "term": "么",
+    "pinyin": "me",
+    "pron_es": "me",
+    "meaning": "¿Qué?",
+    "category": "Sustantivos/Objetos",
     "occ": 5
   },
   {
@@ -1164,7 +1852,7 @@
     "pinyin": "sān",
     "pron_es": "sān",
     "meaning": "tres",
-    "category": "Básico",
+    "category": "Números",
     "occ": 5
   },
   {
@@ -1172,39 +1860,15 @@
     "pinyin": "wài gōng",
     "pron_es": "wài gōng",
     "meaning": "abuelo",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 5
   },
   {
-    "term": "哥哥",
-    "pinyin": "gē gē",
-    "pron_es": "gē gē",
-    "meaning": "hermano mayor",
-    "category": "Básico",
-    "occ": 5
-  },
-  {
-    "term": "书",
-    "pinyin": "shū",
-    "pron_es": "shū",
-    "meaning": "Libro",
-    "category": "Básico",
-    "occ": 5
-  },
-  {
-    "term": "到",
-    "pinyin": "dào",
-    "pron_es": "dào",
-    "meaning": "llegar",
-    "category": "Básico",
-    "occ": 5
-  },
-  {
-    "term": "电影",
-    "pinyin": "diàn yǐng",
-    "pron_es": "diàn yǐng",
-    "meaning": "Película",
-    "category": "Básico",
+    "term": "水",
+    "pinyin": "shuǐ",
+    "pron_es": "shuǐ",
+    "meaning": "agua",
+    "category": "Comida/Bebida",
     "occ": 5
   },
   {
@@ -1212,7 +1876,7 @@
     "pinyin": "sān diǎn",
     "pron_es": "sān diǎn",
     "meaning": "las tres en punto",
-    "category": "Básico",
+    "category": "Tiempo/Calendario",
     "occ": 5
   },
   {
@@ -1220,7 +1884,7 @@
     "pinyin": "shí yī fēn",
     "pron_es": "shí yī fēn",
     "meaning": "once puntos",
-    "category": "Sustantivos/Conceptos",
+    "category": "Tiempo/Calendario",
     "occ": 5
   },
   {
@@ -1228,7 +1892,7 @@
     "pinyin": "sì diǎn",
     "pron_es": "sì diǎn",
     "meaning": "las cuatro en punto",
-    "category": "Básico",
+    "category": "Tiempo/Calendario",
     "occ": 5
   },
   {
@@ -1236,7 +1900,7 @@
     "pinyin": "shí bā fēn",
     "pron_es": "shí bā fēn",
     "meaning": "dieciocho puntos",
-    "category": "Sustantivos/Conceptos",
+    "category": "Tiempo/Calendario",
     "occ": 5
   },
   {
@@ -1244,15 +1908,23 @@
     "pinyin": "diàn shì",
     "pron_es": "diàn shì",
     "meaning": "televisión",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 5
   },
   {
-    "term": "全",
-    "pinyin": "quán",
-    "pron_es": "tshuán",
-    "meaning": "Completo",
-    "category": "Básico",
+    "term": "本书",
+    "pinyin": "běn shū",
+    "pron_es": "běn shū",
+    "meaning": "libro",
+    "category": "Sustantivos/Objetos",
+    "occ": 5
+  },
+  {
+    "term": "新",
+    "pinyin": "xīn",
+    "pron_es": "shīn",
+    "meaning": "nuevo",
+    "category": "Adjetivos",
     "occ": 5
   },
   {
@@ -1260,15 +1932,7 @@
     "pinyin": "pǎo bù",
     "pron_es": "pǎo bù",
     "meaning": "correr",
-    "category": "Básico",
-    "occ": 5
-  },
-  {
-    "term": "公司",
-    "pinyin": "gōng sī",
-    "pron_es": "gōng sī",
-    "meaning": "compañía",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 5
   },
   {
@@ -1276,23 +1940,15 @@
     "pinyin": "zǒu lù",
     "pron_es": "dzǒu lù",
     "meaning": "caminar",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 5
   },
   {
-    "term": "我要",
-    "pinyin": "wǒ yào",
-    "pron_es": "wǒ yào",
-    "meaning": "Quiero",
-    "category": "Básico",
-    "occ": 5
-  },
-  {
-    "term": "儿子",
-    "pinyin": "ér zi",
-    "pron_es": "ér dzi",
-    "meaning": "hijo",
-    "category": "Básico",
+    "term": "有趣",
+    "pinyin": "yǒu qù",
+    "pron_es": "yǒu tshù",
+    "meaning": "interesante",
+    "category": "Verbos/Acciones",
     "occ": 5
   },
   {
@@ -1300,15 +1956,15 @@
     "pinyin": "shàng gè yuè",
     "pron_es": "shàng gè yuè",
     "meaning": "mes pasado",
-    "category": "Sustantivos/Conceptos",
+    "category": "Tiempo/Calendario",
     "occ": 5
   },
   {
-    "term": "修理",
-    "pinyin": "xiū lǐ",
-    "pron_es": "shiū lǐ",
-    "meaning": "reparar",
-    "category": "Básico",
+    "term": "让",
+    "pinyin": "ràng",
+    "pron_es": "ràng",
+    "meaning": "dejar",
+    "category": "Sustantivos/Objetos",
     "occ": 5
   },
   {
@@ -1316,31 +1972,23 @@
     "pinyin": "fàng zài",
     "pron_es": "fàng dzài",
     "meaning": "ponerse",
-    "category": "Básico",
+    "category": "Verbos/Acciones",
     "occ": 5
   },
   {
-    "term": "答案",
-    "pinyin": "dá àn",
-    "pron_es": "dá àn",
-    "meaning": "Respuesta",
-    "category": "Básico",
+    "term": "餐厅",
+    "pinyin": "cān tīng",
+    "pron_es": "tsān tīng",
+    "meaning": "Comedor",
+    "category": "Lugares",
     "occ": 5
   },
   {
-    "term": "米饭",
-    "pinyin": "mǐ fàn",
-    "pron_es": "mǐ fàn",
-    "meaning": "arroz",
-    "category": "Básico",
-    "occ": 5
-  },
-  {
-    "term": "分钟",
-    "pinyin": "fēn zhōng",
-    "pron_es": "fēn yōng",
-    "meaning": "minuto",
-    "category": "Básico",
+    "term": "日",
+    "pinyin": "rì",
+    "pron_es": "rì",
+    "meaning": "día",
+    "category": "Sustantivos/Objetos",
     "occ": 5
   },
   {
@@ -1348,31 +1996,15 @@
     "pinyin": "ér",
     "pron_es": "ér",
     "meaning": "Hijo",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 5
   },
   {
-    "term": "跳舞",
-    "pinyin": "tiào wǔ",
-    "pron_es": "tiào wǔ",
-    "meaning": "Bailar",
-    "category": "Básico",
-    "occ": 5
-  },
-  {
-    "term": "我家",
-    "pinyin": "wǒ jiā",
-    "pron_es": "wǒ yiā",
-    "meaning": "mi casa",
-    "category": "Básico",
-    "occ": 5
-  },
-  {
-    "term": "久",
-    "pinyin": "jiǔ",
-    "pron_es": "yiǔ",
-    "meaning": "Largo",
-    "category": "Básico",
+    "term": "大",
+    "pinyin": "dà",
+    "pron_es": "dà",
+    "meaning": "grande",
+    "category": "Adjetivos",
     "occ": 5
   },
   {
@@ -1380,7 +2012,7 @@
     "pinyin": "sān cì",
     "pron_es": "sān tsì",
     "meaning": "tres veces",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 5
   },
   {
@@ -1388,7 +2020,7 @@
     "pinyin": "kè",
     "pron_es": "kè",
     "meaning": "clase",
-    "category": "Básico",
+    "category": "Estudio/Trabajo",
     "occ": 5
   },
   {
@@ -1396,7 +2028,7 @@
     "pinyin": "bàn xiǎo shí",
     "pron_es": "bàn shiǎo shí",
     "meaning": "media hora",
-    "category": "Adjetivos",
+    "category": "Tiempo/Calendario",
     "occ": 5
   },
   {
@@ -1404,7 +2036,31 @@
     "pinyin": "shuǐ guǒ",
     "pron_es": "shuǐ guǒ",
     "meaning": "fruta",
-    "category": "Básico",
+    "category": "Comida/Bebida",
+    "occ": 5
+  },
+  {
+    "term": "面条",
+    "pinyin": "miàn tiáo",
+    "pron_es": "miàn tiáo",
+    "meaning": "Cabeza",
+    "category": "Comida/Bebida",
+    "occ": 5
+  },
+  {
+    "term": "早饭",
+    "pinyin": "zǎo fàn",
+    "pron_es": "dzǎo fàn",
+    "meaning": "desayuno",
+    "category": "Comida/Bebida",
+    "occ": 5
+  },
+  {
+    "term": "应该",
+    "pinyin": "yīng gāi",
+    "pron_es": "yīng gāi",
+    "meaning": "debería",
+    "category": "Sustantivos/Objetos",
     "occ": 5
   },
   {
@@ -1412,7 +2068,63 @@
     "pinyin": "rú guǒ",
     "pron_es": "rú guǒ",
     "meaning": "si",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
+    "occ": 5
+  },
+  {
+    "term": "才能",
+    "pinyin": "cái néng",
+    "pron_es": "tsái néng",
+    "meaning": "Talento",
+    "category": "Verbos/Acciones",
+    "occ": 5
+  },
+  {
+    "term": "成人",
+    "pinyin": "chéng rén",
+    "pron_es": "tshéng rén",
+    "meaning": "adulto",
+    "category": "Sustantivos/Objetos",
+    "occ": 5
+  },
+  {
+    "term": "四周",
+    "pinyin": "sì zhōu",
+    "pron_es": "sì yōu",
+    "meaning": "por todos lados",
+    "category": "Tiempo/Calendario",
+    "occ": 5
+  },
+  {
+    "term": "现金",
+    "pinyin": "xiàn jīn",
+    "pron_es": "shiàn yīn",
+    "meaning": "dinero",
+    "category": "Sustantivos/Objetos",
+    "occ": 5
+  },
+  {
+    "term": "保险费",
+    "pinyin": "bǎo xiǎn fèi",
+    "pron_es": "bǎo shiǎn fèi",
+    "meaning": "seguro",
+    "category": "Expresiones cortas",
+    "occ": 5
+  },
+  {
+    "term": "创业",
+    "pinyin": "chuàng yè",
+    "pron_es": "tshuàng yè",
+    "meaning": "Establecerse",
+    "category": "Sustantivos/Objetos",
+    "occ": 5
+  },
+  {
+    "term": "数量",
+    "pinyin": "shù liàng",
+    "pron_es": "shù liàng",
+    "meaning": "cantidad",
+    "category": "Sustantivos/Objetos",
     "occ": 5
   },
   {
@@ -1420,15 +2132,7 @@
     "pinyin": "guó rén",
     "pron_es": "guó rén",
     "meaning": "Chino",
-    "category": "Básico",
-    "occ": 4
-  },
-  {
-    "term": "住",
-    "pinyin": "zhù",
-    "pron_es": "yù",
-    "meaning": "vivir",
-    "category": "Verbos/Acciones",
+    "category": "Sustantivos/Objetos",
     "occ": 4
   },
   {
@@ -1444,23 +2148,7 @@
     "pinyin": "zhuān",
     "pron_es": "yuān",
     "meaning": "Especializarse",
-    "category": "Básico",
-    "occ": 4
-  },
-  {
-    "term": "十",
-    "pinyin": "shí",
-    "pron_es": "shí",
-    "meaning": "diez",
-    "category": "Básico",
-    "occ": 4
-  },
-  {
-    "term": "么",
-    "pinyin": "me",
-    "pron_es": "me",
-    "meaning": "¿Qué?",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 4
   },
   {
@@ -1468,7 +2156,7 @@
     "pinyin": "diàn huà hào mǎ",
     "pron_es": "diàn huà hào mǎ",
     "meaning": "número telefónico",
-    "category": "Sustantivos/Conceptos",
+    "category": "Tiempo/Calendario",
     "occ": 4
   },
   {
@@ -1484,7 +2172,7 @@
     "pinyin": "gē",
     "pron_es": "gē",
     "meaning": "Canción",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 4
   },
   {
@@ -1492,7 +2180,7 @@
     "pinyin": "shí fēn",
     "pron_es": "shí fēn",
     "meaning": "muy",
-    "category": "Básico",
+    "category": "Tiempo/Calendario",
     "occ": 4
   },
   {
@@ -1500,7 +2188,7 @@
     "pinyin": "liù diǎn",
     "pron_es": "liù diǎn",
     "meaning": "seis en punto",
-    "category": "Básico",
+    "category": "Tiempo/Calendario",
     "occ": 4
   },
   {
@@ -1508,39 +2196,15 @@
     "pinyin": "líng wǔ fēn",
     "pron_es": "líng wǔ fēn",
     "meaning": "05 puntos",
-    "category": "Sustantivos/Conceptos",
+    "category": "Tiempo/Calendario",
     "occ": 4
   },
   {
-    "term": "外",
-    "pinyin": "wài",
-    "pron_es": "wài",
-    "meaning": "afuera",
-    "category": "Básico",
-    "occ": 4
-  },
-  {
-    "term": "本书",
-    "pinyin": "běn shū",
-    "pron_es": "běn shū",
-    "meaning": "libro",
-    "category": "Básico",
-    "occ": 4
-  },
-  {
-    "term": "中",
-    "pinyin": "zhōng",
-    "pron_es": "yōng",
-    "meaning": "medio",
-    "category": "Básico",
-    "occ": 4
-  },
-  {
-    "term": "新",
-    "pinyin": "xīn",
-    "pron_es": "shīn",
-    "meaning": "nuevo",
-    "category": "Adjetivos",
+    "term": "区",
+    "pinyin": "qū",
+    "pron_es": "tshū",
+    "meaning": "distrito",
+    "category": "Sustantivos/Objetos",
     "occ": 4
   },
   {
@@ -1548,7 +2212,23 @@
     "pinyin": "dì di",
     "pron_es": "dì di",
     "meaning": "hermano menor",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
+    "occ": 4
+  },
+  {
+    "term": "吃饭",
+    "pinyin": "chī fàn",
+    "pron_es": "tshī fàn",
+    "meaning": "tener una comida",
+    "category": "Comida/Bebida",
+    "occ": 4
+  },
+  {
+    "term": "哪儿",
+    "pinyin": "nǎ ér",
+    "pron_es": "nǎ ér",
+    "meaning": "dónde",
+    "category": "Preguntas",
     "occ": 4
   },
   {
@@ -1556,7 +2236,7 @@
     "pinyin": "nǚ ér",
     "pron_es": "nǚ ér",
     "meaning": "hija",
-    "category": "Básico",
+    "category": "Personas/Familia",
     "occ": 4
   },
   {
@@ -1568,27 +2248,11 @@
     "occ": 4
   },
   {
-    "term": "有趣",
-    "pinyin": "yǒu qù",
-    "pron_es": "yǒu tshù",
-    "meaning": "interesante",
-    "category": "Verbos/Acciones",
-    "occ": 4
-  },
-  {
-    "term": "从",
-    "pinyin": "cóng",
-    "pron_es": "tsóng",
-    "meaning": "de",
-    "category": "Básico",
-    "occ": 4
-  },
-  {
-    "term": "修",
-    "pinyin": "xiū",
-    "pron_es": "shiū",
-    "meaning": "construir",
-    "category": "Básico",
+    "term": "明年",
+    "pinyin": "míng nián",
+    "pron_es": "míng nián",
+    "meaning": "al año que viene",
+    "category": "Tiempo/Calendario",
     "occ": 4
   },
   {
@@ -1596,7 +2260,15 @@
     "pinyin": "xǐ",
     "pron_es": "shǐ",
     "meaning": "lavar",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
+    "occ": 4
+  },
+  {
+    "term": "村",
+    "pinyin": "cūn",
+    "pron_es": "tsūn",
+    "meaning": "aldea",
+    "category": "Sustantivos/Objetos",
     "occ": 4
   },
   {
@@ -1604,7 +2276,15 @@
     "pinyin": "wǒ fàng",
     "pron_es": "wǒ fàng",
     "meaning": "lo dejo ir",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
+    "occ": 4
+  },
+  {
+    "term": "他们",
+    "pinyin": "tā men",
+    "pron_es": "tā men",
+    "meaning": "a ellos",
+    "category": "Pronombres",
     "occ": 4
   },
   {
@@ -1612,23 +2292,15 @@
     "pinyin": "pǎo",
     "pron_es": "pǎo",
     "meaning": "correr",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 4
   },
   {
-    "term": "餐厅",
-    "pinyin": "cān tīng",
-    "pron_es": "tsān tīng",
-    "meaning": "Comedor",
-    "category": "Básico",
-    "occ": 4
-  },
-  {
-    "term": "数学",
-    "pinyin": "shù xué",
-    "pron_es": "shù shué",
-    "meaning": "matemáticas",
-    "category": "Verbos/Acciones",
+    "term": "网",
+    "pinyin": "wǎng",
+    "pron_es": "wǎng",
+    "meaning": "neto",
+    "category": "Sustantivos/Objetos",
     "occ": 4
   },
   {
@@ -1644,7 +2316,15 @@
     "pinyin": "dà xué shēng",
     "pron_es": "dà shué shēng",
     "meaning": "estudiantes universitarios",
-    "category": "Verbos/Acciones",
+    "category": "Personas/Familia",
+    "occ": 4
+  },
+  {
+    "term": "局",
+    "pinyin": "jú",
+    "pron_es": "yú",
+    "meaning": "oficina",
+    "category": "Sustantivos/Objetos",
     "occ": 4
   },
   {
@@ -1652,7 +2332,7 @@
     "pinyin": "qí chē",
     "pron_es": "tshí tshē",
     "meaning": "Ciclismo",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 4
   },
   {
@@ -1660,7 +2340,7 @@
     "pinyin": "fēi jī",
     "pron_es": "fēi yī",
     "meaning": "avión",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 4
   },
   {
@@ -1668,7 +2348,7 @@
     "pinyin": "fēi",
     "pron_es": "fēi",
     "meaning": "volar",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 4
   },
   {
@@ -1676,7 +2356,7 @@
     "pinyin": "lǚ yóu",
     "pron_es": "lǚ yóu",
     "meaning": "viajar",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 4
   },
   {
@@ -1688,11 +2368,11 @@
     "occ": 4
   },
   {
-    "term": "衣服",
-    "pinyin": "yī fú",
-    "pron_es": "yī fú",
-    "meaning": "ropa",
-    "category": "Básico",
+    "term": "游泳",
+    "pinyin": "yóu yǒng",
+    "pron_es": "yóu yǒng",
+    "meaning": "nadar",
+    "category": "Sustantivos/Objetos",
     "occ": 4
   },
   {
@@ -1700,7 +2380,7 @@
     "pinyin": "liáo tiān",
     "pron_es": "liáo tiān",
     "meaning": "charlar",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 4
   },
   {
@@ -1708,39 +2388,15 @@
     "pinyin": "liáo",
     "pron_es": "liáo",
     "meaning": "charlar",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 4
   },
   {
-    "term": "怎么样",
-    "pinyin": "zěn me yàng",
-    "pron_es": "dzěn me yàng",
-    "meaning": "¿Qué tal?",
-    "category": "Sustantivos/Conceptos",
-    "occ": 4
-  },
-  {
-    "term": "喜欢",
-    "pinyin": "xǐ huān",
-    "pron_es": "shǐ huān",
-    "meaning": "como",
-    "category": "Básico",
-    "occ": 4
-  },
-  {
-    "term": "觉得",
-    "pinyin": "jué de",
-    "pron_es": "yué de",
-    "meaning": "sentir",
-    "category": "Básico",
-    "occ": 4
-  },
-  {
-    "term": "早饭",
-    "pinyin": "zǎo fàn",
-    "pron_es": "dzǎo fàn",
-    "meaning": "desayuno",
-    "category": "Básico",
+    "term": "很快",
+    "pinyin": "hěn kuài",
+    "pron_es": "hěn kuài",
+    "meaning": "pronto",
+    "category": "Adjetivos",
     "occ": 4
   },
   {
@@ -1748,7 +2404,7 @@
     "pinyin": "yào",
     "pron_es": "yào",
     "meaning": "medicamento",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 4
   },
   {
@@ -1756,7 +2412,7 @@
     "pinyin": "bìng rén",
     "pron_es": "bìng rén",
     "meaning": "paciente",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 4
   },
   {
@@ -1764,7 +2420,95 @@
     "pinyin": "yī shēng",
     "pron_es": "yī shēng",
     "meaning": "doctor",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
+    "occ": 4
+  },
+  {
+    "term": "礼物",
+    "pinyin": "lǐ wù",
+    "pron_es": "lǐ wù",
+    "meaning": "Regalo",
+    "category": "Sustantivos/Objetos",
+    "occ": 4
+  },
+  {
+    "term": "生日礼物",
+    "pinyin": "shēng rì lǐ wù",
+    "pron_es": "shēng rì lǐ wù",
+    "meaning": "regalo de cumpleaños",
+    "category": "Expresiones cortas",
+    "occ": 4
+  },
+  {
+    "term": "邻居",
+    "pinyin": "lín jū",
+    "pron_es": "lín yū",
+    "meaning": "Vecino",
+    "category": "Sustantivos/Objetos",
+    "occ": 4
+  },
+  {
+    "term": "下雨",
+    "pinyin": "xià yǔ",
+    "pron_es": "shià yǔ",
+    "meaning": "lluvia",
+    "category": "Sustantivos/Objetos",
+    "occ": 4
+  },
+  {
+    "term": "玩游戏",
+    "pinyin": "wán yóu xì",
+    "pron_es": "wán yóu shì",
+    "meaning": "jugar juegos",
+    "category": "Expresiones cortas",
+    "occ": 4
+  },
+  {
+    "term": "建造",
+    "pinyin": "jiàn zào",
+    "pron_es": "yiàn dzào",
+    "meaning": "Hospedarse",
+    "category": "Sustantivos/Objetos",
+    "occ": 4
+  },
+  {
+    "term": "四本",
+    "pinyin": "sì běn",
+    "pron_es": "sì běn",
+    "meaning": "cuatro libros",
+    "category": "Sustantivos/Objetos",
+    "occ": 4
+  },
+  {
+    "term": "主语",
+    "pinyin": "zhǔ yǔ",
+    "pron_es": "yǔ yǔ",
+    "meaning": "sujeto",
+    "category": "Sustantivos/Objetos",
+    "occ": 4
+  },
+  {
+    "term": "动词",
+    "pinyin": "dòng cí",
+    "pron_es": "dòng tsí",
+    "meaning": "verbo",
+    "category": "Sustantivos/Objetos",
+    "occ": 4
+  },
+  {
+    "term": "量词",
+    "pinyin": "liàng cí",
+    "pron_es": "liàng tsí",
+    "meaning": "cuantificador",
+    "category": "Sustantivos/Objetos",
+    "occ": 4
+  },
+  {
+    "term": "便宜",
+    "pinyin": "pián yi",
+    "pron_es": "pián yi",
+    "meaning": "Barato",
+    "category": "Adjetivos",
     "occ": 4
   },
   {
@@ -1772,7 +2516,7 @@
     "pinyin": "jǐ suì",
     "pron_es": "yǐ suì",
     "meaning": "¿Cuántos años tiene?",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 3
   },
   {
@@ -1780,7 +2524,15 @@
     "pinyin": "wǔ",
     "pron_es": "wǔ",
     "meaning": "cinco",
-    "category": "Básico",
+    "category": "Números",
+    "occ": 3
+  },
+  {
+    "term": "下个月",
+    "pinyin": "xià gè yuè",
+    "pron_es": "shià gè yuè",
+    "meaning": "mes próximo",
+    "category": "Tiempo/Calendario",
     "occ": 3
   },
   {
@@ -1788,7 +2540,23 @@
     "pinyin": "jǐ fēn",
     "pron_es": "yǐ fēn",
     "meaning": "un poco",
-    "category": "Básico",
+    "category": "Tiempo/Calendario",
+    "occ": 3
+  },
+  {
+    "term": "笔",
+    "pinyin": "bǐ",
+    "pron_es": "bǐ",
+    "meaning": "Bolígrafo",
+    "category": "Sustantivos/Objetos",
+    "occ": 3
+  },
+  {
+    "term": "姐姐",
+    "pinyin": "jiě jiě",
+    "pron_es": "yiě yiě",
+    "meaning": "hermana mayor",
+    "category": "Sustantivos/Objetos",
     "occ": 3
   },
   {
@@ -1796,7 +2564,7 @@
     "pinyin": "zhǐ",
     "pron_es": "yǐ",
     "meaning": "Papel",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 3
   },
   {
@@ -1804,7 +2572,7 @@
     "pinyin": "rù",
     "pron_es": "rù",
     "meaning": "ingresar",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 3
   },
   {
@@ -1812,23 +2580,7 @@
     "pinyin": "shǒu",
     "pron_es": "shǒu",
     "meaning": "mano",
-    "category": "Básico",
-    "occ": 3
-  },
-  {
-    "term": "没",
-    "pinyin": "méi",
-    "pron_es": "méi",
-    "meaning": "sin",
-    "category": "Básico",
-    "occ": 3
-  },
-  {
-    "term": "电脑",
-    "pinyin": "diàn nǎo",
-    "pron_es": "diàn nǎo",
-    "meaning": "computadora",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 3
   },
   {
@@ -1836,7 +2588,7 @@
     "pinyin": "dì zhōu",
     "pron_es": "dì yōu",
     "meaning": "semana",
-    "category": "Básico",
+    "category": "Tiempo/Calendario",
     "occ": 3
   },
   {
@@ -1844,31 +2596,7 @@
     "pinyin": "dēng",
     "pron_es": "dēng",
     "meaning": "lámpara",
-    "category": "Básico",
-    "occ": 3
-  },
-  {
-    "term": "打",
-    "pinyin": "dǎ",
-    "pron_es": "dǎ",
-    "meaning": "derrotar",
-    "category": "Básico",
-    "occ": 3
-  },
-  {
-    "term": "没有",
-    "pinyin": "méi yǒu",
-    "pron_es": "méi yǒu",
-    "meaning": "No",
-    "category": "Verbos/Acciones",
-    "occ": 3
-  },
-  {
-    "term": "买",
-    "pinyin": "mǎi",
-    "pron_es": "mǎi",
-    "meaning": "compra",
-    "category": "Verbos/Acciones",
+    "category": "Sustantivos/Objetos",
     "occ": 3
   },
   {
@@ -1876,7 +2604,7 @@
     "pinyin": "mǒ",
     "pron_es": "mǒ",
     "meaning": "limpiar",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 3
   },
   {
@@ -1884,7 +2612,7 @@
     "pinyin": "chá",
     "pron_es": "tshá",
     "meaning": "Té",
-    "category": "Básico",
+    "category": "Comida/Bebida",
     "occ": 3
   },
   {
@@ -1892,7 +2620,31 @@
     "pinyin": "xìng",
     "pron_es": "shìng",
     "meaning": "sexo",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
+    "occ": 3
+  },
+  {
+    "term": "哪个",
+    "pinyin": "nǎ ge",
+    "pron_es": "nǎ ge",
+    "meaning": "Cual",
+    "category": "Sustantivos/Objetos",
+    "occ": 3
+  },
+  {
+    "term": "所",
+    "pinyin": "suǒ",
+    "pron_es": "suǒ",
+    "meaning": "Lugar",
+    "category": "Sustantivos/Objetos",
+    "occ": 3
+  },
+  {
+    "term": "可",
+    "pinyin": "kě",
+    "pron_es": "kě",
+    "meaning": "Poder",
+    "category": "Sustantivos/Objetos",
     "occ": 3
   },
   {
@@ -1900,7 +2652,15 @@
     "pinyin": "huí jiā",
     "pron_es": "huí yiā",
     "meaning": "ir a casa",
-    "category": "Básico",
+    "category": "Lugares",
+    "occ": 3
+  },
+  {
+    "term": "散步",
+    "pinyin": "sàn bù",
+    "pron_es": "sàn bù",
+    "meaning": "caminar",
+    "category": "Sustantivos/Objetos",
     "occ": 3
   },
   {
@@ -1908,7 +2668,7 @@
     "pinyin": "zuò",
     "pron_es": "dzuò",
     "meaning": "sentarse",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 3
   },
   {
@@ -1916,7 +2676,7 @@
     "pinyin": "yǐ zi",
     "pron_es": "yǐ dzi",
     "meaning": "Silla",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 3
   },
   {
@@ -1928,35 +2688,11 @@
     "occ": 3
   },
   {
-    "term": "哪儿",
-    "pinyin": "nǎ ér",
-    "pron_es": "nǎ ér",
-    "meaning": "dónde",
-    "category": "Básico",
-    "occ": 3
-  },
-  {
-    "term": "玩",
-    "pinyin": "wán",
-    "pron_es": "wán",
-    "meaning": "Jugar",
-    "category": "Básico",
-    "occ": 3
-  },
-  {
-    "term": "明年",
-    "pinyin": "míng nián",
-    "pron_es": "míng nián",
-    "meaning": "al año que viene",
-    "category": "Básico",
-    "occ": 3
-  },
-  {
     "term": "一要",
     "pinyin": "yī yào",
     "pron_es": "yī yào",
-    "meaning": "Una cosa",
-    "category": "Básico",
+    "meaning": "Lo primero",
+    "category": "Verbos/Acciones",
     "occ": 3
   },
   {
@@ -1964,7 +2700,15 @@
     "pinyin": "qì chē",
     "pron_es": "tshì tshē",
     "meaning": "auto",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
+    "occ": 3
+  },
+  {
+    "term": "修车",
+    "pinyin": "xiū chē",
+    "pron_es": "shiū tshē",
+    "meaning": "reparar auto",
+    "category": "Sustantivos/Objetos",
     "occ": 3
   },
   {
@@ -1972,7 +2716,7 @@
     "pinyin": "gōng zuò rén yuán",
     "pron_es": "gōng dzuò rén yuán",
     "meaning": "personal",
-    "category": "Sustantivos/Conceptos",
+    "category": "Estudio/Trabajo",
     "occ": 3
   },
   {
@@ -1980,7 +2724,7 @@
     "pinyin": "zuò jiā",
     "pron_es": "dzuò yiā",
     "meaning": "escritor",
-    "category": "Básico",
+    "category": "Lugares",
     "occ": 3
   },
   {
@@ -1988,15 +2732,15 @@
     "pinyin": "chē shàng",
     "pron_es": "tshē shàng",
     "meaning": "en el auto",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 3
   },
   {
-    "term": "村",
-    "pinyin": "cūn",
-    "pron_es": "tsūn",
-    "meaning": "aldea",
-    "category": "Básico",
+    "term": "号",
+    "pinyin": "hào",
+    "pron_es": "hào",
+    "meaning": "Número",
+    "category": "Tiempo/Calendario",
     "occ": 3
   },
   {
@@ -2012,7 +2756,7 @@
     "pinyin": "gōng lǐ",
     "pron_es": "gōng lǐ",
     "meaning": "kilómetro",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 3
   },
   {
@@ -2020,15 +2764,15 @@
     "pinyin": "yuǎn",
     "pron_es": "yuǎn",
     "meaning": "Lejos",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 3
   },
   {
-    "term": "网",
-    "pinyin": "wǎng",
-    "pron_es": "wǎng",
-    "meaning": "neto",
-    "category": "Básico",
+    "term": "复习",
+    "pinyin": "fù xí",
+    "pron_es": "fù shí",
+    "meaning": "revisar",
+    "category": "Sustantivos/Objetos",
     "occ": 3
   },
   {
@@ -2036,7 +2780,7 @@
     "pinyin": "chú",
     "pron_es": "tshú",
     "meaning": "cocina",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 3
   },
   {
@@ -2044,7 +2788,7 @@
     "pinyin": "tiào",
     "pron_es": "tiào",
     "meaning": "Saltar",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 3
   },
   {
@@ -2052,7 +2796,7 @@
     "pinyin": "wǔ",
     "pron_es": "wǔ",
     "meaning": "bailar",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 3
   },
   {
@@ -2060,7 +2804,7 @@
     "pinyin": "guò",
     "pron_es": "guò",
     "meaning": "Aprobar",
-    "category": "Básico",
+    "category": "Partículas/Funcionales",
     "occ": 3
   },
   {
@@ -2068,7 +2812,7 @@
     "pinyin": "yuàn zi",
     "pron_es": "yuàn dzi",
     "meaning": "patio",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 3
   },
   {
@@ -2076,7 +2820,7 @@
     "pinyin": "liǎng nián",
     "pron_es": "liǎng nián",
     "meaning": "dos años",
-    "category": "Básico",
+    "category": "Tiempo/Calendario",
     "occ": 3
   },
   {
@@ -2084,7 +2828,7 @@
     "pinyin": "kǎ lā",
     "pron_es": "kǎ lā",
     "meaning": "kara",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 3
   },
   {
@@ -2092,7 +2836,7 @@
     "pinyin": "qí",
     "pron_es": "tshí",
     "meaning": "conducir",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 3
   },
   {
@@ -2100,15 +2844,7 @@
     "pinyin": "duō yuǎn",
     "pron_es": "duō yuǎn",
     "meaning": "Hasta dónde",
-    "category": "Básico",
-    "occ": 3
-  },
-  {
-    "term": "游泳",
-    "pinyin": "yóu yǒng",
-    "pron_es": "yóu yǒng",
-    "meaning": "nadar",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 3
   },
   {
@@ -2116,7 +2852,7 @@
     "pinyin": "qù nián",
     "pron_es": "tshù nián",
     "meaning": "el año pasado",
-    "category": "Verbos/Acciones",
+    "category": "Tiempo/Calendario",
     "occ": 3
   },
   {
@@ -2124,23 +2860,7 @@
     "pinyin": "xīn",
     "pron_es": "shīn",
     "meaning": "Corazón",
-    "category": "Básico",
-    "occ": 3
-  },
-  {
-    "term": "女朋友",
-    "pinyin": "nǚ péng yǒu",
-    "pron_es": "nǚ péng yǒu",
-    "meaning": "novia",
-    "category": "Sustantivos/Conceptos",
-    "occ": 3
-  },
-  {
-    "term": "同事",
-    "pinyin": "tóng shì",
-    "pron_es": "tóng shì",
-    "meaning": "colega",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 3
   },
   {
@@ -2148,7 +2868,7 @@
     "pinyin": "shì qíng",
     "pron_es": "shì tshíng",
     "meaning": "asunto",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 3
   },
   {
@@ -2156,7 +2876,7 @@
     "pinyin": "qiè",
     "pron_es": "tshiè",
     "meaning": "cortar",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 3
   },
   {
@@ -2172,7 +2892,15 @@
     "pinyin": "qián",
     "pron_es": "tshián",
     "meaning": "adelante",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
+    "occ": 3
+  },
+  {
+    "term": "小",
+    "pinyin": "xiǎo",
+    "pron_es": "shiǎo",
+    "meaning": "Pequeño",
+    "category": "Adjetivos",
     "occ": 3
   },
   {
@@ -2180,23 +2908,7 @@
     "pinyin": "dōng tiān",
     "pron_es": "dōng tiān",
     "meaning": "invierno",
-    "category": "Básico",
-    "occ": 3
-  },
-  {
-    "term": "漂亮",
-    "pinyin": "piào liàng",
-    "pron_es": "piào liàng",
-    "meaning": "bonito",
-    "category": "Adjetivos",
-    "occ": 3
-  },
-  {
-    "term": "比较",
-    "pinyin": "bǐ jiào",
-    "pron_es": "bǐ yiào",
-    "meaning": "Comparar",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 3
   },
   {
@@ -2204,7 +2916,15 @@
     "pinyin": "dān xīn",
     "pron_es": "dān shīn",
     "meaning": "Preocuparse",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
+    "occ": 3
+  },
+  {
+    "term": "贵",
+    "pinyin": "guì",
+    "pron_es": "guì",
+    "meaning": "caro",
+    "category": "Adjetivos",
     "occ": 3
   },
   {
@@ -2220,7 +2940,15 @@
     "pinyin": "chōng diàn qì",
     "pron_es": "tshōng diàn tshì",
     "meaning": "cargador",
-    "category": "Sustantivos/Conceptos",
+    "category": "Expresiones cortas",
+    "occ": 3
+  },
+  {
+    "term": "每个",
+    "pinyin": "měi gè",
+    "pron_es": "měi gè",
+    "meaning": "cada",
+    "category": "Sustantivos/Objetos",
     "occ": 3
   },
   {
@@ -2228,7 +2956,7 @@
     "pinyin": "yǔ bàn",
     "pron_es": "yǔ bàn",
     "meaning": "Compañero de lluvia",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 3
   },
   {
@@ -2236,23 +2964,23 @@
     "pinyin": "dài bù dài",
     "pron_es": "dài bù dài",
     "meaning": "Tomar o no tomar",
-    "category": "Sustantivos/Conceptos",
+    "category": "Expresiones cortas",
     "occ": 3
   },
   {
-    "term": "送",
-    "pinyin": "sòng",
-    "pron_es": "sòng",
-    "meaning": "entregar",
-    "category": "Básico",
+    "term": "语",
+    "pinyin": "yǔ",
+    "pron_es": "yǔ",
+    "meaning": "idioma",
+    "category": "Sustantivos/Objetos",
     "occ": 3
   },
   {
-    "term": "生日礼物",
-    "pinyin": "shēng rì lǐ wù",
-    "pron_es": "shēng rì lǐ wù",
-    "meaning": "regalo de cumpleaños",
-    "category": "Sustantivos/Conceptos",
+    "term": "寄",
+    "pinyin": "jì",
+    "pron_es": "yì",
+    "meaning": "enviar",
+    "category": "Sustantivos/Objetos",
     "occ": 3
   },
   {
@@ -2260,15 +2988,191 @@
     "pinyin": "shǒu dū",
     "pron_es": "shǒu dū",
     "meaning": "capital",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 3
   },
   {
-    "term": "次",
-    "pinyin": "cì",
-    "pron_es": "tsì",
-    "meaning": "De segunda categoría",
-    "category": "Básico",
+    "term": "下次",
+    "pinyin": "xià cì",
+    "pron_es": "shià tsì",
+    "meaning": "La próxima vez",
+    "category": "Sustantivos/Objetos",
+    "occ": 3
+  },
+  {
+    "term": "送礼物",
+    "pinyin": "sòng lǐ wù",
+    "pron_es": "sòng lǐ wù",
+    "meaning": "dar regalos",
+    "category": "Expresiones cortas",
+    "occ": 3
+  },
+  {
+    "term": "男朋友",
+    "pinyin": "nán péng yǒu",
+    "pron_es": "nán péng yǒu",
+    "meaning": "Novio",
+    "category": "Personas/Familia",
+    "occ": 3
+  },
+  {
+    "term": "健康",
+    "pinyin": "jiàn kāng",
+    "pron_es": "yiàn kāng",
+    "meaning": "saludable",
+    "category": "Sustantivos/Objetos",
+    "occ": 3
+  },
+  {
+    "term": "房费",
+    "pinyin": "fáng fèi",
+    "pron_es": "fáng fèi",
+    "meaning": "tarifa de la habitación",
+    "category": "Sustantivos/Objetos",
+    "occ": 3
+  },
+  {
+    "term": "买手机",
+    "pinyin": "mǎi shǒu jī",
+    "pron_es": "mǎi shǒu yī",
+    "meaning": "comprar telefono movil",
+    "category": "Verbos/Acciones",
+    "occ": 3
+  },
+  {
+    "term": "要付",
+    "pinyin": "yào fù",
+    "pron_es": "yào fù",
+    "meaning": "tener que pagar",
+    "category": "Verbos/Acciones",
+    "occ": 3
+  },
+  {
+    "term": "交",
+    "pinyin": "jiāo",
+    "pron_es": "yiāo",
+    "meaning": "pagar",
+    "category": "Sustantivos/Objetos",
+    "occ": 3
+  },
+  {
+    "term": "下雪",
+    "pinyin": "xià xuě",
+    "pron_es": "shià shuě",
+    "meaning": "nieve",
+    "category": "Sustantivos/Objetos",
+    "occ": 3
+  },
+  {
+    "term": "我用",
+    "pinyin": "wǒ yòng",
+    "pron_es": "wǒ yòng",
+    "meaning": "yo uso",
+    "category": "Sustantivos/Objetos",
+    "occ": 3
+  },
+  {
+    "term": "服务费",
+    "pinyin": "fú wù fèi",
+    "pron_es": "fú wù fèi",
+    "meaning": "cargo por servicio",
+    "category": "Expresiones cortas",
+    "occ": 3
+  },
+  {
+    "term": "元",
+    "pinyin": "yuán",
+    "pron_es": "yuán",
+    "meaning": "Yuan",
+    "category": "Sustantivos/Objetos",
+    "occ": 3
+  },
+  {
+    "term": "搜索",
+    "pinyin": "sōu suǒ",
+    "pron_es": "sōu suǒ",
+    "meaning": "buscar",
+    "category": "Sustantivos/Objetos",
+    "occ": 3
+  },
+  {
+    "term": "见面",
+    "pinyin": "jiàn miàn",
+    "pron_es": "yiàn miàn",
+    "meaning": "Encontrarse",
+    "category": "Comida/Bebida",
+    "occ": 3
+  },
+  {
+    "term": "天",
+    "pinyin": "tiān",
+    "pron_es": "tiān",
+    "meaning": "cielo",
+    "category": "Sustantivos/Objetos",
+    "occ": 3
+  },
+  {
+    "term": "半年",
+    "pinyin": "bàn nián",
+    "pron_es": "bàn nián",
+    "meaning": "medio año",
+    "category": "Tiempo/Calendario",
+    "occ": 3
+  },
+  {
+    "term": "名词",
+    "pinyin": "míng cí",
+    "pron_es": "míng tsí",
+    "meaning": "sustantivo",
+    "category": "Sustantivos/Objetos",
+    "occ": 3
+  },
+  {
+    "term": "不好",
+    "pinyin": "bù hǎo",
+    "pron_es": "bù hǎo",
+    "meaning": "no es bueno",
+    "category": "Adjetivos",
+    "occ": 3
+  },
+  {
+    "term": "不吃",
+    "pinyin": "bù chī",
+    "pron_es": "bù tshī",
+    "meaning": "no comas",
+    "category": "Verbos/Acciones",
+    "occ": 3
+  },
+  {
+    "term": "两个",
+    "pinyin": "liǎng gè",
+    "pron_es": "liǎng gè",
+    "meaning": "dos",
+    "category": "Sustantivos/Objetos",
+    "occ": 3
+  },
+  {
+    "term": "今天天气",
+    "pinyin": "jīn tiān tiān qì",
+    "pron_es": "yīn tiān tiān tshì",
+    "meaning": "El clima de hoy",
+    "category": "Tiempo/Calendario",
+    "occ": 3
+  },
+  {
+    "term": "喝水",
+    "pinyin": "hē shuǐ",
+    "pron_es": "hē shuǐ",
+    "meaning": "beber agua",
+    "category": "Comida/Bebida",
+    "occ": 3
+  },
+  {
+    "term": "喝",
+    "pinyin": "hē",
+    "pron_es": "hē",
+    "meaning": "beber",
+    "category": "Verbos/Acciones",
     "occ": 3
   },
   {
@@ -2276,7 +3180,7 @@
     "pinyin": "nín",
     "pron_es": "nín",
     "meaning": "tú",
-    "category": "Básico",
+    "category": "Pronombres",
     "occ": 2
   },
   {
@@ -2284,7 +3188,7 @@
     "pinyin": "guì xìng",
     "pron_es": "guì shìng",
     "meaning": "tu apellido",
-    "category": "Básico",
+    "category": "Adjetivos",
     "occ": 2
   },
   {
@@ -2292,15 +3196,15 @@
     "pinyin": "wǒ xìng",
     "pron_es": "wǒ shìng",
     "meaning": "mi apellido",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
-    "term": "下个月",
-    "pinyin": "xià gè yuè",
-    "pron_es": "shià gè yuè",
-    "meaning": "mes próximo",
-    "category": "Sustantivos/Conceptos",
+    "term": "对",
+    "pinyin": "duì",
+    "pron_es": "duì",
+    "meaning": "bien",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -2308,7 +3212,7 @@
     "pinyin": "shí èr",
     "pron_es": "shí èr",
     "meaning": "doce",
-    "category": "Básico",
+    "category": "Números",
     "occ": 2
   },
   {
@@ -2316,7 +3220,7 @@
     "pinyin": "líng",
     "pron_es": "líng",
     "meaning": "cero",
-    "category": "Básico",
+    "category": "Números",
     "occ": 2
   },
   {
@@ -2324,7 +3228,7 @@
     "pinyin": "qī",
     "pron_es": "tshī",
     "meaning": "Siete",
-    "category": "Básico",
+    "category": "Números",
     "occ": 2
   },
   {
@@ -2332,23 +3236,7 @@
     "pinyin": "jiǔ",
     "pron_es": "yiǔ",
     "meaning": "Nueve",
-    "category": "Básico",
-    "occ": 2
-  },
-  {
-    "term": "这是",
-    "pinyin": "zhè shì",
-    "pron_es": "yè shì",
-    "meaning": "Esto es",
-    "category": "Verbos/Acciones",
-    "occ": 2
-  },
-  {
-    "term": "笔",
-    "pinyin": "bǐ",
-    "pron_es": "bǐ",
-    "meaning": "Bolígrafo",
-    "category": "Básico",
+    "category": "Números",
     "occ": 2
   },
   {
@@ -2356,15 +3244,7 @@
     "pinyin": "nǎi nǎi",
     "pron_es": "nǎi nǎi",
     "meaning": "abuela",
-    "category": "Básico",
-    "occ": 2
-  },
-  {
-    "term": "姐姐",
-    "pinyin": "jiě jiě",
-    "pron_es": "yiě yiě",
-    "meaning": "hermana mayor",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -2372,7 +3252,7 @@
     "pinyin": "mèi mèi",
     "pron_es": "mèi mèi",
     "meaning": "hermana menor",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -2380,15 +3260,15 @@
     "pinyin": "zì",
     "pron_es": "dzì",
     "meaning": "Personaje",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
-    "term": "水",
-    "pinyin": "shuǐ",
-    "pron_es": "shuǐ",
-    "meaning": "agua",
-    "category": "Básico",
+    "term": "位",
+    "pinyin": "wèi",
+    "pron_es": "wèi",
+    "meaning": "Poco",
+    "category": "Clasificadores",
     "occ": 2
   },
   {
@@ -2396,15 +3276,15 @@
     "pinyin": "yǒu zhōu",
     "pron_es": "yǒu yōu",
     "meaning": "hay semanas",
-    "category": "Verbos/Acciones",
+    "category": "Tiempo/Calendario",
     "occ": 2
   },
   {
-    "term": "你们",
-    "pinyin": "nǐ men",
-    "pron_es": "nǐ men",
-    "meaning": "tú",
-    "category": "Pronombres",
+    "term": "写",
+    "pinyin": "xiě",
+    "pron_es": "shiě",
+    "meaning": "Escribir",
+    "category": "Verbos/Acciones",
     "occ": 2
   },
   {
@@ -2412,7 +3292,7 @@
     "pinyin": "wèi",
     "pron_es": "wèi",
     "meaning": "para",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -2420,7 +3300,7 @@
     "pinyin": "bú yào",
     "pron_es": "bú yào",
     "meaning": "no quiero",
-    "category": "Básico",
+    "category": "Verbos/Acciones",
     "occ": 2
   },
   {
@@ -2428,7 +3308,7 @@
     "pinyin": "guān",
     "pron_es": "guān",
     "meaning": "cerca",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -2436,7 +3316,7 @@
     "pinyin": "kāi méi kāi",
     "pron_es": "kāi méi kāi",
     "meaning": "Abierto o no",
-    "category": "Sustantivos/Conceptos",
+    "category": "Expresiones cortas",
     "occ": 2
   },
   {
@@ -2444,39 +3324,7 @@
     "pinyin": "hàn bǎo",
     "pron_es": "hàn bǎo",
     "meaning": "Hamburguesa",
-    "category": "Básico",
-    "occ": 2
-  },
-  {
-    "term": "区",
-    "pinyin": "qū",
-    "pron_es": "tshū",
-    "meaning": "distrito",
-    "category": "Básico",
-    "occ": 2
-  },
-  {
-    "term": "哪个",
-    "pinyin": "nǎ ge",
-    "pron_es": "nǎ ge",
-    "meaning": "Cual",
-    "category": "Básico",
-    "occ": 2
-  },
-  {
-    "term": "所",
-    "pinyin": "suǒ",
-    "pron_es": "suǒ",
-    "meaning": "Lugar",
-    "category": "Básico",
-    "occ": 2
-  },
-  {
-    "term": "可",
-    "pinyin": "kě",
-    "pron_es": "kě",
-    "meaning": "Poder",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -2484,7 +3332,7 @@
     "pinyin": "gōng yuán",
     "pron_es": "gōng yuán",
     "meaning": "jardín",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -2492,7 +3340,7 @@
     "pinyin": "shàng kè",
     "pron_es": "shàng kè",
     "meaning": "asistir a clase",
-    "category": "Básico",
+    "category": "Estudio/Trabajo",
     "occ": 2
   },
   {
@@ -2500,15 +3348,7 @@
     "pinyin": "fáng jiān",
     "pron_es": "fáng yiān",
     "meaning": "Habitación",
-    "category": "Básico",
-    "occ": 2
-  },
-  {
-    "term": "吃饭",
-    "pinyin": "chī fàn",
-    "pron_es": "tshī fàn",
-    "meaning": "tener una comida",
-    "category": "Verbos/Acciones",
+    "category": "Lugares",
     "occ": 2
   },
   {
@@ -2516,7 +3356,7 @@
     "pinyin": "zuò zài",
     "pron_es": "dzuò dzài",
     "meaning": "sentarse",
-    "category": "Básico",
+    "category": "Verbos/Acciones",
     "occ": 2
   },
   {
@@ -2524,7 +3364,7 @@
     "pinyin": "yī huì er",
     "pron_es": "yī huì er",
     "meaning": "Un rato",
-    "category": "Sustantivos/Conceptos",
+    "category": "Verbos/Acciones",
     "occ": 2
   },
   {
@@ -2532,7 +3372,7 @@
     "pinyin": "bā guà",
     "pron_es": "bā guà",
     "meaning": "Chisme",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -2540,7 +3380,7 @@
     "pinyin": "děng",
     "pron_es": "děng",
     "meaning": "esperar",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -2548,7 +3388,7 @@
     "pinyin": "yī xià",
     "pron_es": "yī shià",
     "meaning": "una vez",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -2556,7 +3396,7 @@
     "pinyin": "huì yì",
     "pron_es": "huì yì",
     "meaning": "Reunión",
-    "category": "Básico",
+    "category": "Verbos/Acciones",
     "occ": 2
   },
   {
@@ -2572,7 +3412,7 @@
     "pinyin": "yé yé",
     "pron_es": "yé yé",
     "meaning": "abuelo",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -2580,7 +3420,7 @@
     "pinyin": "gù shì",
     "pron_es": "gù shì",
     "meaning": "historia",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -2588,7 +3428,7 @@
     "pinyin": "gāng cái",
     "pron_es": "gāng tsái",
     "meaning": "En este momento",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -2596,7 +3436,7 @@
     "pinyin": "wǎn fàn",
     "pron_es": "wǎn fàn",
     "meaning": "cena",
-    "category": "Básico",
+    "category": "Comida/Bebida",
     "occ": 2
   },
   {
@@ -2612,15 +3452,15 @@
     "pinyin": "rì yǔ",
     "pron_es": "rì yǔ",
     "meaning": "japonés",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
-    "term": "让",
-    "pinyin": "ràng",
-    "pron_es": "ràng",
-    "meaning": "dejar",
-    "category": "Básico",
+    "term": "学",
+    "pinyin": "xué",
+    "pron_es": "shué",
+    "meaning": "estudiar",
+    "category": "Verbos/Acciones",
     "occ": 2
   },
   {
@@ -2628,7 +3468,7 @@
     "pinyin": "yī liàng chē",
     "pron_es": "yī liàng tshē",
     "meaning": "un auto",
-    "category": "Sustantivos/Conceptos",
+    "category": "Expresiones cortas",
     "occ": 2
   },
   {
@@ -2636,7 +3476,7 @@
     "pinyin": "shī",
     "pron_es": "shī",
     "meaning": "división",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -2644,15 +3484,7 @@
     "pinyin": "chuáng shàng",
     "pron_es": "tshuáng shàng",
     "meaning": "cama",
-    "category": "Básico",
-    "occ": 2
-  },
-  {
-    "term": "号",
-    "pinyin": "hào",
-    "pron_es": "hào",
-    "meaning": "Número",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -2660,7 +3492,7 @@
     "pinyin": "fàng xià",
     "pron_es": "fàng shià",
     "meaning": "establecer",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -2668,15 +3500,15 @@
     "pinyin": "zhè lǐ",
     "pron_es": "yè lǐ",
     "meaning": "aquí",
-    "category": "Básico",
+    "category": "Demostrativos",
     "occ": 2
   },
   {
-    "term": "他们",
-    "pinyin": "tā men",
-    "pron_es": "tā men",
-    "meaning": "a ellos",
-    "category": "Pronombres",
+    "term": "已经",
+    "pinyin": "yǐ jīng",
+    "pron_es": "yǐ yīng",
+    "meaning": "ya",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -2684,7 +3516,7 @@
     "pinyin": "yì qǐ",
     "pron_es": "yì tshǐ",
     "meaning": "Juntos",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -2692,7 +3524,7 @@
     "pinyin": "tú piàn",
     "pron_es": "tú piàn",
     "meaning": "imagen",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -2700,7 +3532,7 @@
     "pinyin": "jiào shòu",
     "pron_es": "yiào shòu",
     "meaning": "profesor",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -2708,7 +3540,7 @@
     "pinyin": "míng piàn",
     "pron_es": "míng piàn",
     "meaning": "tarjeta de visita",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -2716,7 +3548,7 @@
     "pinyin": "tāng",
     "pron_es": "tāng",
     "meaning": "Sopa",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -2724,7 +3556,7 @@
     "pinyin": "xiǎo xué shēng",
     "pron_es": "shiǎo shué shēng",
     "meaning": "estudiante de primaria",
-    "category": "Verbos/Acciones",
+    "category": "Personas/Familia",
     "occ": 2
   },
   {
@@ -2732,7 +3564,7 @@
     "pinyin": "guó",
     "pron_es": "guó",
     "meaning": "país",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -2740,15 +3572,7 @@
     "pinyin": "yǔ yán",
     "pron_es": "yǔ yán",
     "meaning": "idioma",
-    "category": "Básico",
-    "occ": 2
-  },
-  {
-    "term": "日",
-    "pinyin": "rì",
-    "pron_es": "rì",
-    "meaning": "día",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -2756,15 +3580,7 @@
     "pinyin": "sān gè",
     "pron_es": "sān gè",
     "meaning": "tres",
-    "category": "Básico",
-    "occ": 2
-  },
-  {
-    "term": "局",
-    "pinyin": "jú",
-    "pron_es": "yú",
-    "meaning": "oficina",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -2772,15 +3588,7 @@
     "pinyin": "pǎo chē",
     "pron_es": "pǎo tshē",
     "meaning": "coche deportivo",
-    "category": "Básico",
-    "occ": 2
-  },
-  {
-    "term": "大",
-    "pinyin": "dà",
-    "pron_es": "dà",
-    "meaning": "grande",
-    "category": "Adjetivos",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -2788,7 +3596,7 @@
     "pinyin": "huǒ chē",
     "pron_es": "huǒ tshē",
     "meaning": "tren",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -2796,15 +3604,7 @@
     "pinyin": "shāng chǎng",
     "pron_es": "shāng tshǎng",
     "meaning": "centro comercial",
-    "category": "Básico",
-    "occ": 2
-  },
-  {
-    "term": "四十五分钟",
-    "pinyin": "sì shí wǔ fēn zhōng",
-    "pron_es": "sì shí wǔ fēn yōng",
-    "meaning": "cuarenta y cinco minutos",
-    "category": "Sustantivos/Conceptos",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -2812,7 +3612,7 @@
     "pinyin": "měi guó",
     "pron_es": "měi guó",
     "meaning": "EE.UU",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -2820,15 +3620,15 @@
     "pinyin": "jīn nián",
     "pron_es": "yīn nián",
     "meaning": "este año",
-    "category": "Básico",
+    "category": "Tiempo/Calendario",
     "occ": 2
   },
   {
-    "term": "哥斯达黎加",
-    "pinyin": "gē sī dá lí jiā",
-    "pron_es": "gē sī dá lí yiā",
-    "meaning": "Costa Rica",
-    "category": "Sustantivos/Conceptos",
+    "term": "必",
+    "pinyin": "bì",
+    "pron_es": "bì",
+    "meaning": "debe",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -2836,7 +3636,7 @@
     "pinyin": "shàng zhōu",
     "pron_es": "shàng yōu",
     "meaning": "la semana pasada",
-    "category": "Básico",
+    "category": "Tiempo/Calendario",
     "occ": 2
   },
   {
@@ -2844,7 +3644,7 @@
     "pinyin": "jiāng",
     "pron_es": "yiāng",
     "meaning": "Voluntad",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -2852,15 +3652,15 @@
     "pinyin": "máo yī",
     "pron_es": "máo yī",
     "meaning": "suéter",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
-    "term": "好",
-    "pinyin": "hǎo",
-    "pron_es": "hǎo",
-    "meaning": "bien",
-    "category": "Adjetivos",
+    "term": "好看",
+    "pinyin": "hǎo kàn",
+    "pron_es": "hǎo kàn",
+    "meaning": "lindo",
+    "category": "Verbos/Acciones",
     "occ": 2
   },
   {
@@ -2868,15 +3668,7 @@
     "pinyin": "sān shí fēn zhōng",
     "pron_es": "sān shí fēn yōng",
     "meaning": "treinta minutos",
-    "category": "Sustantivos/Conceptos",
-    "occ": 2
-  },
-  {
-    "term": "老板",
-    "pinyin": "lǎo bǎn",
-    "pron_es": "lǎo bǎn",
-    "meaning": "jefe",
-    "category": "Básico",
+    "category": "Tiempo/Calendario",
     "occ": 2
   },
   {
@@ -2884,7 +3676,7 @@
     "pinyin": "jiā wù",
     "pron_es": "yiā wù",
     "meaning": "tareas de la casa",
-    "category": "Básico",
+    "category": "Lugares",
     "occ": 2
   },
   {
@@ -2892,7 +3684,7 @@
     "pinyin": "zuò yè",
     "pron_es": "dzuò yè",
     "meaning": "Operación",
-    "category": "Básico",
+    "category": "Estudio/Trabajo",
     "occ": 2
   },
   {
@@ -2900,7 +3692,7 @@
     "pinyin": "zhè me jiǔ",
     "pron_es": "yè me yiǔ",
     "meaning": "hasta la vista",
-    "category": "Sustantivos/Conceptos",
+    "category": "Expresiones cortas",
     "occ": 2
   },
   {
@@ -2908,7 +3700,7 @@
     "pinyin": "jiàn shēn fáng",
     "pron_es": "yiàn shēn fáng",
     "meaning": "Gimnasia",
-    "category": "Sustantivos/Conceptos",
+    "category": "Expresiones cortas",
     "occ": 2
   },
   {
@@ -2916,7 +3708,7 @@
     "pinyin": "suǒ yǐ",
     "pron_es": "suǒ yǐ",
     "meaning": "entonces",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -2924,7 +3716,7 @@
     "pinyin": "chú fáng",
     "pron_es": "tshú fáng",
     "meaning": "cocina",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -2932,15 +3724,7 @@
     "pinyin": "ròu",
     "pron_es": "ròu",
     "meaning": "Carne",
-    "category": "Básico",
-    "occ": 2
-  },
-  {
-    "term": "很快",
-    "pinyin": "hěn kuài",
-    "pron_es": "hěn kuài",
-    "meaning": "pronto",
-    "category": "Adjetivos",
+    "category": "Comida/Bebida",
     "occ": 2
   },
   {
@@ -2948,7 +3732,7 @@
     "pinyin": "qíng kuàng",
     "pron_es": "tshíng kuàng",
     "meaning": "Condición",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -2956,7 +3740,7 @@
     "pinyin": "yòng dāo",
     "pron_es": "yòng dāo",
     "meaning": "usar cuchillo",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -2964,7 +3748,7 @@
     "pinyin": "wèi",
     "pron_es": "wèi",
     "meaning": "aún no",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -2972,15 +3756,7 @@
     "pinyin": "duō jīng dǎng",
     "pron_es": "duō yīng dǎng",
     "meaning": "multipartidista",
-    "category": "Sustantivos/Conceptos",
-    "occ": 2
-  },
-  {
-    "term": "想",
-    "pinyin": "xiǎng",
-    "pron_es": "shiǎng",
-    "meaning": "pensar",
-    "category": "Verbos/Acciones",
+    "category": "Expresiones cortas",
     "occ": 2
   },
   {
@@ -2988,7 +3764,7 @@
     "pinyin": "sī kǎo",
     "pron_es": "sī kǎo",
     "meaning": "pensar",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -3004,15 +3780,7 @@
     "pinyin": "chuáng",
     "pron_es": "tshuáng",
     "meaning": "cama",
-    "category": "Básico",
-    "occ": 2
-  },
-  {
-    "term": "面条",
-    "pinyin": "miàn tiáo",
-    "pron_es": "miàn tiáo",
-    "meaning": "Cabeza",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -3020,7 +3788,7 @@
     "pinyin": "měi cān",
     "pron_es": "měi tsān",
     "meaning": "cada comida",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -3028,7 +3796,7 @@
     "pinyin": "wǔ qǔ",
     "pron_es": "wǔ tshǔ",
     "meaning": "música de baile",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -3036,15 +3804,7 @@
     "pinyin": "tǎo yàn",
     "pron_es": "tǎo yàn",
     "meaning": "Odiar",
-    "category": "Básico",
-    "occ": 2
-  },
-  {
-    "term": "小",
-    "pinyin": "xiǎo",
-    "pron_es": "shiǎo",
-    "meaning": "Pequeño",
-    "category": "Adjetivos",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -3052,7 +3812,7 @@
     "pinyin": "yì diǎn",
     "pron_es": "yì diǎn",
     "meaning": "un poco",
-    "category": "Básico",
+    "category": "Tiempo/Calendario",
     "occ": 2
   },
   {
@@ -3064,19 +3824,19 @@
     "occ": 2
   },
   {
-    "term": "帮助",
-    "pinyin": "bāng zhù",
-    "pron_es": "bāng yù",
-    "meaning": "ayuda",
-    "category": "Básico",
-    "occ": 2
-  },
-  {
     "term": "司机",
     "pinyin": "sī jī",
     "pron_es": "sī yī",
     "meaning": "conductor",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "如",
+    "pinyin": "rú",
+    "pron_es": "rú",
+    "meaning": "como",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -3084,15 +3844,39 @@
     "pinyin": "zuò chuán",
     "pron_es": "dzuò tshuán",
     "meaning": "tomar un barco",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
-    "term": "有时",
-    "pinyin": "yǒu shí",
-    "pron_es": "yǒu shí",
-    "meaning": "a veces",
-    "category": "Verbos/Acciones",
+    "term": "超市",
+    "pinyin": "chāo shì",
+    "pron_es": "tshāo shì",
+    "meaning": "supermercado",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "偶尔",
+    "pinyin": "ǒu ěr",
+    "pron_es": "ǒu ěr",
+    "meaning": "Ocasionalmente",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "这些",
+    "pinyin": "zhè xiē",
+    "pron_es": "yè shiē",
+    "meaning": "Estos",
+    "category": "Demostrativos",
+    "occ": 2
+  },
+  {
+    "term": "意思",
+    "pinyin": "yì si",
+    "pron_es": "yì si",
+    "meaning": "significar",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -3100,15 +3884,7 @@
     "pinyin": "dài yǔ bàn",
     "pron_es": "dài yǔ bàn",
     "meaning": "Trae un compañero de lluvia",
-    "category": "Sustantivos/Conceptos",
-    "occ": 2
-  },
-  {
-    "term": "寄",
-    "pinyin": "jì",
-    "pron_es": "yì",
-    "meaning": "enviar",
-    "category": "Básico",
+    "category": "Expresiones cortas",
     "occ": 2
   },
   {
@@ -3116,15 +3892,551 @@
     "pinyin": "yī yuàn",
     "pron_es": "yī yuàn",
     "meaning": "Hospital",
-    "category": "Básico",
+    "category": "Lugares",
     "occ": 2
   },
   {
-    "term": "下次",
-    "pinyin": "xià cì",
-    "pron_es": "shià tsì",
-    "meaning": "La próxima vez",
-    "category": "Básico",
+    "term": "收",
+    "pinyin": "shōu",
+    "pron_es": "shōu",
+    "meaning": "recibir",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "包庄",
+    "pinyin": "bāo zhuāng",
+    "pron_es": "bāo yuāng",
+    "meaning": "Baozhuang",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "孩子",
+    "pinyin": "hái zi",
+    "pron_es": "hái dzi",
+    "meaning": "niño",
+    "category": "Personas/Familia",
+    "occ": 2
+  },
+  {
+    "term": "个人",
+    "pinyin": "gè rén",
+    "pron_es": "gè rén",
+    "meaning": "personal",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "帮",
+    "pinyin": "bāng",
+    "pron_es": "bāng",
+    "meaning": "ayuda",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "助",
+    "pinyin": "zhù",
+    "pron_es": "yù",
+    "meaning": "ayuda",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "战争",
+    "pinyin": "zhàn zhēng",
+    "pron_es": "yàn yēng",
+    "meaning": "guerra",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "商业",
+    "pinyin": "shāng yè",
+    "pron_es": "shāng yè",
+    "meaning": "Negocio",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "军队",
+    "pinyin": "jūn duì",
+    "pron_es": "yūn duì",
+    "meaning": "ejército",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "不用",
+    "pinyin": "bù yòng",
+    "pron_es": "bù yòng",
+    "meaning": "no es necesario",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "科学家",
+    "pinyin": "kē xué jiā",
+    "pron_es": "kē shué yiā",
+    "meaning": "El científico",
+    "category": "Lugares",
+    "occ": 2
+  },
+  {
+    "term": "杀人犯",
+    "pinyin": "shā rén fàn",
+    "pron_es": "shā rén fàn",
+    "meaning": "asesino",
+    "category": "Expresiones cortas",
+    "occ": 2
+  },
+  {
+    "term": "差异",
+    "pinyin": "chā yì",
+    "pron_es": "tshā yì",
+    "meaning": "diferencia",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "抢夺",
+    "pinyin": "qiǎng duó",
+    "pron_es": "tshiǎng duó",
+    "meaning": "arrebatar",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "农业",
+    "pinyin": "nóng yè",
+    "pron_es": "nóng yè",
+    "meaning": "agricultura",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "没关系",
+    "pinyin": "méi guān xì",
+    "pron_es": "méi guān shì",
+    "meaning": "No importa",
+    "category": "Expresiones cortas",
+    "occ": 2
+  },
+  {
+    "term": "伤害",
+    "pinyin": "shāng hài",
+    "pron_es": "shāng hài",
+    "meaning": "dañar",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "生气",
+    "pinyin": "shēng qì",
+    "pron_es": "shēng tshì",
+    "meaning": "enojado",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "看起来",
+    "pinyin": "kàn qǐ lái",
+    "pron_es": "kàn tshǐ lái",
+    "meaning": "parece",
+    "category": "Verbos/Acciones",
+    "occ": 2
+  },
+  {
+    "term": "年轻",
+    "pinyin": "nián qīng",
+    "pron_es": "nián tshīng",
+    "meaning": "joven",
+    "category": "Tiempo/Calendario",
+    "occ": 2
+  },
+  {
+    "term": "骆",
+    "pinyin": "luò",
+    "pron_es": "luò",
+    "meaning": "luo",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "关于",
+    "pinyin": "guān yú",
+    "pron_es": "guān yú",
+    "meaning": "acerca de",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "学费",
+    "pinyin": "xué fèi",
+    "pron_es": "shué fèi",
+    "meaning": "tasa de matrícula",
+    "category": "Verbos/Acciones",
+    "occ": 2
+  },
+  {
+    "term": "李",
+    "pinyin": "lǐ",
+    "pron_es": "lǐ",
+    "meaning": "ciruela",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "丽萨",
+    "pinyin": "lì sà",
+    "pron_es": "lì sà",
+    "meaning": "Lisa",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "那里",
+    "pinyin": "nà lǐ",
+    "pron_es": "nà lǐ",
+    "meaning": "Allá",
+    "category": "Demostrativos",
+    "occ": 2
+  },
+  {
+    "term": "贷款",
+    "pinyin": "dài kuǎn",
+    "pron_es": "dài kuǎn",
+    "meaning": "préstamo",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "租车",
+    "pinyin": "zū chē",
+    "pron_es": "dzū tshē",
+    "meaning": "alquiler de coches",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "只",
+    "pinyin": "zhǐ",
+    "pron_es": "yǐ",
+    "meaning": "Solo",
+    "category": "Clasificadores",
+    "occ": 2
+  },
+  {
+    "term": "一次",
+    "pinyin": "yī cì",
+    "pron_es": "yī tsì",
+    "meaning": "una vez",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "交了",
+    "pinyin": "jiāo le",
+    "pron_es": "yiāo le",
+    "meaning": "entregado",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "证",
+    "pinyin": "zhèng",
+    "pron_es": "yèng",
+    "meaning": "certificado",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "解决",
+    "pinyin": "jiě jué",
+    "pron_es": "yiě yué",
+    "meaning": "resolver",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "他会",
+    "pinyin": "tā huì",
+    "pron_es": "tā huì",
+    "meaning": "el lo hará",
+    "category": "Verbos/Acciones",
+    "occ": 2
+  },
+  {
+    "term": "某事",
+    "pinyin": "mǒu shì",
+    "pron_es": "mǒu shì",
+    "meaning": "algo",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "我会",
+    "pinyin": "wǒ huì",
+    "pron_es": "wǒ huì",
+    "meaning": "Puedo",
+    "category": "Verbos/Acciones",
+    "occ": 2
+  },
+  {
+    "term": "造",
+    "pinyin": "zào",
+    "pron_es": "dzào",
+    "meaning": "hacer",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "交钱",
+    "pinyin": "jiāo qián",
+    "pron_es": "yiāo tshián",
+    "meaning": "pagar dinero",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "可不可以",
+    "pinyin": "kě bù kě yǐ",
+    "pron_es": "kě bù kě yǐ",
+    "meaning": "Es posible",
+    "category": "Expresiones cortas",
+    "occ": 2
+  },
+  {
+    "term": "付款",
+    "pinyin": "fù kuǎn",
+    "pron_es": "fù kuǎn",
+    "meaning": "Pago",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "付钱",
+    "pinyin": "fù qián",
+    "pron_es": "fù tshián",
+    "meaning": "pagar",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "果树",
+    "pinyin": "guǒ shù",
+    "pron_es": "guǒ shù",
+    "meaning": "arboles frutales",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "正在",
+    "pinyin": "zhèng zài",
+    "pron_es": "yèng dzài",
+    "meaning": "son",
+    "category": "Verbos/Acciones",
+    "occ": 2
+  },
+  {
+    "term": "争论",
+    "pinyin": "zhēng lùn",
+    "pron_es": "yēng lùn",
+    "meaning": "debate",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "吵架",
+    "pinyin": "chǎo jià",
+    "pron_es": "tshǎo yià",
+    "meaning": "disputa",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "网球",
+    "pinyin": "wǎng qiú",
+    "pron_es": "wǎng tshiú",
+    "meaning": "tenis",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "大后天",
+    "pinyin": "dà hòu tiān",
+    "pron_es": "dà hòu tiān",
+    "meaning": "Pasado mañana",
+    "category": "Tiempo/Calendario",
+    "occ": 2
+  },
+  {
+    "term": "块",
+    "pinyin": "kuài",
+    "pron_es": "kuài",
+    "meaning": "pedazo",
+    "category": "Clasificadores",
+    "occ": 2
+  },
+  {
+    "term": "天和气",
+    "pinyin": "tiān hé qì",
+    "pron_es": "tiān hé tshì",
+    "meaning": "El clima es armonioso.",
+    "category": "Expresiones cortas",
+    "occ": 2
+  },
+  {
+    "term": "这么",
+    "pinyin": "zhè me",
+    "pron_es": "yè me",
+    "meaning": "entonces",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "饿",
+    "pinyin": "è",
+    "pron_es": "è",
+    "meaning": "Hambriento",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "太难",
+    "pinyin": "tài nán",
+    "pron_es": "tài nán",
+    "meaning": "demasiado dificil",
+    "category": "Adjetivos",
+    "occ": 2
+  },
+  {
+    "term": "这菜",
+    "pinyin": "zhè cài",
+    "pron_es": "yè tsài",
+    "meaning": "este plato",
+    "category": "Comida/Bebida",
+    "occ": 2
+  },
+  {
+    "term": "喝咖啡",
+    "pinyin": "hē kā fēi",
+    "pron_es": "hē kā fēi",
+    "meaning": "tomar cafe",
+    "category": "Comida/Bebida",
+    "occ": 2
+  },
+  {
+    "term": "电影院",
+    "pinyin": "diàn yǐng yuàn",
+    "pron_es": "diàn yǐng yuàn",
+    "meaning": "Cine",
+    "category": "Expresiones cortas",
+    "occ": 2
+  },
+  {
+    "term": "玩电脑",
+    "pinyin": "wán diàn nǎo",
+    "pron_es": "wán diàn nǎo",
+    "meaning": "jugar computadora",
+    "category": "Expresiones cortas",
+    "occ": 2
+  },
+  {
+    "term": "大家",
+    "pinyin": "dà jiā",
+    "pron_es": "dà yiā",
+    "meaning": "Todos",
+    "category": "Pronombres",
+    "occ": 2
+  },
+  {
+    "term": "休息",
+    "pinyin": "xiū xī",
+    "pron_es": "shiū shī",
+    "meaning": "descansar",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "较",
+    "pinyin": "jiào",
+    "pron_es": "yiào",
+    "meaning": "comparar",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "确定",
+    "pinyin": "què dìng",
+    "pron_es": "tshuè dìng",
+    "meaning": "Seguro",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "几本书",
+    "pinyin": "jǐ běn shū",
+    "pron_es": "yǐ běn shū",
+    "meaning": "pocos libros",
+    "category": "Expresiones cortas",
+    "occ": 2
+  },
+  {
+    "term": "将来",
+    "pinyin": "jiāng lái",
+    "pron_es": "yiāng lái",
+    "meaning": "futuro",
+    "category": "Verbos/Acciones",
+    "occ": 2
+  },
+  {
+    "term": "花",
+    "pinyin": "huā",
+    "pron_es": "huā",
+    "meaning": "flor",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "昨晚",
+    "pinyin": "zuó wǎn",
+    "pron_es": "dzuó wǎn",
+    "meaning": "anoche",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "早",
+    "pinyin": "zǎo",
+    "pron_es": "dzǎo",
+    "meaning": "mañana",
+    "category": "Sustantivos/Objetos",
+    "occ": 2
+  },
+  {
+    "term": "高",
+    "pinyin": "gāo",
+    "pron_es": "gāo",
+    "meaning": "alto",
+    "category": "Adjetivos",
+    "occ": 2
+  },
+  {
+    "term": "快",
+    "pinyin": "kuài",
+    "pron_es": "kuài",
+    "meaning": "rápido",
+    "category": "Adjetivos",
+    "occ": 2
+  },
+  {
+    "term": "辆",
+    "pinyin": "liàng",
+    "pron_es": "liàng",
+    "meaning": "vehículo",
+    "category": "Sustantivos/Objetos",
     "occ": 2
   },
   {
@@ -3132,7 +4444,7 @@
     "pinyin": "suì",
     "pron_es": "suì",
     "meaning": "edad",
-    "category": "Básico",
+    "category": "Clasificadores",
     "occ": 1
   },
   {
@@ -3140,7 +4452,7 @@
     "pinyin": "miǎn zé",
     "pron_es": "miǎn dzé",
     "meaning": "Descargo de responsabilidad",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3148,7 +4460,7 @@
     "pinyin": "xìng",
     "pron_es": "shìng",
     "meaning": "apellido",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3156,7 +4468,7 @@
     "pinyin": "shì",
     "pron_es": "shì",
     "meaning": "ciudad",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3164,7 +4476,7 @@
     "pinyin": "jié hūn",
     "pron_es": "yié hūn",
     "meaning": "casarse",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3172,15 +4484,7 @@
     "pinyin": "jǐ gè",
     "pron_es": "yǐ gè",
     "meaning": "varios",
-    "category": "Básico",
-    "occ": 1
-  },
-  {
-    "term": "小孩",
-    "pinyin": "xiǎo hái",
-    "pron_es": "shiǎo hái",
-    "meaning": "Niño",
-    "category": "Adjetivos",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3188,7 +4492,7 @@
     "pinyin": "qīng tiān",
     "pron_es": "tshīng tiān",
     "meaning": "cielo azul",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3196,7 +4500,7 @@
     "pinyin": "hòu tiān",
     "pron_es": "hòu tiān",
     "meaning": "pasado mañana",
-    "category": "Básico",
+    "category": "Tiempo/Calendario",
     "occ": 1
   },
   {
@@ -3204,7 +4508,7 @@
     "pinyin": "xīng qī èr",
     "pron_es": "shīng tshī èr",
     "meaning": "Martes",
-    "category": "Sustantivos/Conceptos",
+    "category": "Tiempo/Calendario",
     "occ": 1
   },
   {
@@ -3212,15 +4516,7 @@
     "pinyin": "xīng qī sān",
     "pron_es": "shīng tshī sān",
     "meaning": "Miércoles",
-    "category": "Sustantivos/Conceptos",
-    "occ": 1
-  },
-  {
-    "term": "对",
-    "pinyin": "duì",
-    "pron_es": "duì",
-    "meaning": "bien",
-    "category": "Básico",
+    "category": "Tiempo/Calendario",
     "occ": 1
   },
   {
@@ -3228,7 +4524,7 @@
     "pinyin": "yí yuè",
     "pron_es": "yí yuè",
     "meaning": "Enero",
-    "category": "Básico",
+    "category": "Tiempo/Calendario",
     "occ": 1
   },
   {
@@ -3236,7 +4532,7 @@
     "pinyin": "èr yuè",
     "pron_es": "èr yuè",
     "meaning": "Febrero",
-    "category": "Básico",
+    "category": "Tiempo/Calendario",
     "occ": 1
   },
   {
@@ -3244,7 +4540,7 @@
     "pinyin": "sì yuè",
     "pron_es": "sì yuè",
     "meaning": "Abril",
-    "category": "Básico",
+    "category": "Tiempo/Calendario",
     "occ": 1
   },
   {
@@ -3252,7 +4548,7 @@
     "pinyin": "jǐ yuè",
     "pron_es": "yǐ yuè",
     "meaning": "meses",
-    "category": "Básico",
+    "category": "Tiempo/Calendario",
     "occ": 1
   },
   {
@@ -3260,7 +4556,7 @@
     "pinyin": "wǔ yuè",
     "pron_es": "wǔ yuè",
     "meaning": "Puede",
-    "category": "Básico",
+    "category": "Tiempo/Calendario",
     "occ": 1
   },
   {
@@ -3268,7 +4564,7 @@
     "pinyin": "liù yuè",
     "pron_es": "liù yuè",
     "meaning": "Junio",
-    "category": "Básico",
+    "category": "Tiempo/Calendario",
     "occ": 1
   },
   {
@@ -3276,7 +4572,7 @@
     "pinyin": "qī yuè",
     "pron_es": "tshī yuè",
     "meaning": "Julio",
-    "category": "Básico",
+    "category": "Tiempo/Calendario",
     "occ": 1
   },
   {
@@ -3284,7 +4580,7 @@
     "pinyin": "shí yī yuè",
     "pron_es": "shí yī yuè",
     "meaning": "Noviembre",
-    "category": "Sustantivos/Conceptos",
+    "category": "Tiempo/Calendario",
     "occ": 1
   },
   {
@@ -3292,7 +4588,7 @@
     "pinyin": "shí èr yuè",
     "pron_es": "shí èr yuè",
     "meaning": "Diciembre",
-    "category": "Sustantivos/Conceptos",
+    "category": "Tiempo/Calendario",
     "occ": 1
   },
   {
@@ -3300,7 +4596,7 @@
     "pinyin": "shí yī",
     "pron_es": "shí yī",
     "meaning": "once",
-    "category": "Básico",
+    "category": "Números",
     "occ": 1
   },
   {
@@ -3308,15 +4604,7 @@
     "pinyin": "yāng wāng",
     "pron_es": "yāng wāng",
     "meaning": "Yang Wang",
-    "category": "Básico",
-    "occ": 1
-  },
-  {
-    "term": "更",
-    "pinyin": "gèng",
-    "pron_es": "gèng",
-    "meaning": "Incluso",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3324,7 +4612,7 @@
     "pinyin": "xiē",
     "pron_es": "shiē",
     "meaning": "alguno",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3332,15 +4620,7 @@
     "pinyin": "cǐ",
     "pron_es": "tsǐ",
     "meaning": "este",
-    "category": "Básico",
-    "occ": 1
-  },
-  {
-    "term": "不是",
-    "pinyin": "bú shì",
-    "pron_es": "bú shì",
-    "meaning": "No",
-    "category": "Verbos/Acciones",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3348,7 +4628,7 @@
     "pinyin": "yè",
     "pron_es": "yè",
     "meaning": "Página",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3356,7 +4636,7 @@
     "pinyin": "yì bǎi",
     "pron_es": "yì bǎi",
     "meaning": "ciento",
-    "category": "Básico",
+    "category": "Números",
     "occ": 1
   },
   {
@@ -3364,7 +4644,7 @@
     "pinyin": "xùn",
     "pron_es": "shùn",
     "meaning": "capacitación",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3372,7 +4652,7 @@
     "pinyin": "cì",
     "pron_es": "tsì",
     "meaning": "pinchazo",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3380,7 +4660,7 @@
     "pinyin": "jiā shí",
     "pron_es": "yiā shí",
     "meaning": "casa diez",
-    "category": "Básico",
+    "category": "Lugares",
     "occ": 1
   },
   {
@@ -3388,7 +4668,7 @@
     "pinyin": "shì",
     "pron_es": "shì",
     "meaning": "como",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3396,7 +4676,7 @@
     "pinyin": "ér",
     "pron_es": "ér",
     "meaning": "y",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3404,7 +4684,7 @@
     "pinyin": "zhòng",
     "pron_es": "yòng",
     "meaning": "público",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3412,15 +4692,7 @@
     "pinyin": "jǐ",
     "pron_es": "yǐ",
     "meaning": "ser",
-    "category": "Básico",
-    "occ": 1
-  },
-  {
-    "term": "位",
-    "pinyin": "wèi",
-    "pron_es": "wèi",
-    "meaning": "Poco",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3428,15 +4700,7 @@
     "pinyin": "hàn zì",
     "pron_es": "hàn dzì",
     "meaning": "Carácter chino",
-    "category": "Básico",
-    "occ": 1
-  },
-  {
-    "term": "写",
-    "pinyin": "xiě",
-    "pron_es": "shiě",
-    "meaning": "Escribir",
-    "category": "Verbos/Acciones",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3444,7 +4708,7 @@
     "pinyin": "kě suǒ",
     "pron_es": "kě suǒ",
     "meaning": "puede ser",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3452,15 +4716,7 @@
     "pinyin": "qǐ",
     "pron_es": "tshǐ",
     "meaning": "elevar",
-    "category": "Básico",
-    "occ": 1
-  },
-  {
-    "term": "理",
-    "pinyin": "lǐ",
-    "pron_es": "lǐ",
-    "meaning": "razón",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3468,7 +4724,7 @@
     "pinyin": "guó shù",
     "pron_es": "guó shù",
     "meaning": "artes marciales chinas",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3476,7 +4732,7 @@
     "pinyin": "bù yú",
     "pron_es": "bù yú",
     "meaning": "no en",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3484,7 +4740,7 @@
     "pinyin": "suǒ yī",
     "pron_es": "suǒ yī",
     "meaning": "todo uno",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3492,7 +4748,7 @@
     "pinyin": "kòu yī",
     "pron_es": "kòu yī",
     "meaning": "restar uno",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3500,7 +4756,7 @@
     "pinyin": "èr yī",
     "pron_es": "èr yī",
     "meaning": "1 de febrero",
-    "category": "Básico",
+    "category": "Números",
     "occ": 1
   },
   {
@@ -3508,7 +4764,7 @@
     "pinyin": "chǎng tōng",
     "pron_es": "tshǎng tōng",
     "meaning": "Pase de fábrica",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3524,7 +4780,7 @@
     "pinyin": "hěn zǎo",
     "pron_es": "hěn dzǎo",
     "meaning": "muy temprano",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3532,7 +4788,7 @@
     "pinyin": "wǔ",
     "pron_es": "wǔ",
     "meaning": "mediodía",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3540,7 +4796,7 @@
     "pinyin": "kā fēi diàn",
     "pron_es": "kā fēi diàn",
     "meaning": "cafetería",
-    "category": "Sustantivos/Conceptos",
+    "category": "Comida/Bebida",
     "occ": 1
   },
   {
@@ -3548,7 +4804,7 @@
     "pinyin": "shí diǎn",
     "pron_es": "shí diǎn",
     "meaning": "diez en punto",
-    "category": "Básico",
+    "category": "Tiempo/Calendario",
     "occ": 1
   },
   {
@@ -3556,7 +4812,7 @@
     "pinyin": "nǐ jiā",
     "pron_es": "nǐ yiā",
     "meaning": "tu casa",
-    "category": "Básico",
+    "category": "Lugares",
     "occ": 1
   },
   {
@@ -3564,7 +4820,7 @@
     "pinyin": "jiā wǎng",
     "pron_es": "yiā wǎng",
     "meaning": "Cribado",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3572,14 +4828,14 @@
     "pinyin": "rén rén",
     "pron_es": "rén rén",
     "meaning": "todos",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
     "term": "小区",
     "pinyin": "xiǎo qū",
     "pron_es": "shiǎo tshū",
-    "meaning": "Comunidad",
+    "meaning": "comunidad",
     "category": "Adjetivos",
     "occ": 1
   },
@@ -3588,15 +4844,7 @@
     "pinyin": "zǒng",
     "pron_es": "dzǒng",
     "meaning": "total",
-    "category": "Básico",
-    "occ": 1
-  },
-  {
-    "term": "散步",
-    "pinyin": "sàn bù",
-    "pron_es": "sàn bù",
-    "meaning": "caminar",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3604,7 +4852,7 @@
     "pinyin": "què gè",
     "pron_es": "tshuè gè",
     "meaning": "Seguro",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3612,7 +4860,7 @@
     "pinyin": "shàng gè xīng qī",
     "pron_es": "shàng gè shīng tshī",
     "meaning": "la semana pasada",
-    "category": "Sustantivos/Conceptos",
+    "category": "Tiempo/Calendario",
     "occ": 1
   },
   {
@@ -3620,7 +4868,7 @@
     "pinyin": "zhōu yī",
     "pron_es": "yōu yī",
     "meaning": "los lunes",
-    "category": "Básico",
+    "category": "Tiempo/Calendario",
     "occ": 1
   },
   {
@@ -3628,7 +4876,7 @@
     "pinyin": "zuò xià",
     "pron_es": "dzuò shià",
     "meaning": "sentarse",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3644,7 +4892,7 @@
     "pinyin": "jiā lǐ",
     "pron_es": "yiā lǐ",
     "meaning": "en casa",
-    "category": "Básico",
+    "category": "Lugares",
     "occ": 1
   },
   {
@@ -3652,7 +4900,7 @@
     "pinyin": "èr yī yī",
     "pron_es": "èr yī yī",
     "meaning": "dos uno uno",
-    "category": "Sustantivos/Conceptos",
+    "category": "Números",
     "occ": 1
   },
   {
@@ -3660,7 +4908,7 @@
     "pinyin": "wán jù",
     "pron_es": "wán yù",
     "meaning": "Juguete",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3668,7 +4916,7 @@
     "pinyin": "hóng lǜ dēng",
     "pron_es": "hóng lǜ dēng",
     "meaning": "semáforo",
-    "category": "Sustantivos/Conceptos",
+    "category": "Expresiones cortas",
     "occ": 1
   },
   {
@@ -3676,7 +4924,7 @@
     "pinyin": "míng zhì",
     "pron_es": "míng yì",
     "meaning": "Mingzhi",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3684,7 +4932,7 @@
     "pinyin": "guà",
     "pron_es": "guà",
     "meaning": "Gua",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3692,7 +4940,7 @@
     "pinyin": "yì diǎn diǎn",
     "pron_es": "yì diǎn diǎn",
     "meaning": "Un poco",
-    "category": "Sustantivos/Conceptos",
+    "category": "Tiempo/Calendario",
     "occ": 1
   },
   {
@@ -3700,7 +4948,7 @@
     "pinyin": "yì",
     "pron_es": "yì",
     "meaning": "conversar",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3708,7 +4956,7 @@
     "pinyin": "rén shí",
     "pron_es": "rén shí",
     "meaning": "tiempo humano",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3716,7 +4964,7 @@
     "pinyin": "dì fāng",
     "pron_es": "dì fāng",
     "meaning": "lugar",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3724,7 +4972,7 @@
     "pinyin": "shén gè",
     "pron_es": "shén gè",
     "meaning": "shige",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3740,7 +4988,7 @@
     "pinyin": "zì jǐ",
     "pron_es": "dzì yǐ",
     "meaning": "Propio",
-    "category": "Básico",
+    "category": "Pronombres",
     "occ": 1
   },
   {
@@ -3748,7 +4996,7 @@
     "pinyin": "liù bàn",
     "pron_es": "liù bàn",
     "meaning": "Sexta Oficina",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3756,7 +5004,7 @@
     "pinyin": "rén bàn",
     "pron_es": "rén bàn",
     "meaning": "dirigido por el hombre",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3764,7 +5012,7 @@
     "pinyin": "shì",
     "pron_es": "shì",
     "meaning": "cosa",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3772,7 +5020,7 @@
     "pinyin": "guī zé",
     "pron_es": "guī dzé",
     "meaning": "regla",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3780,7 +5028,7 @@
     "pinyin": "shàng rén",
     "pron_es": "shàng rén",
     "meaning": "Maestro",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3788,15 +5036,7 @@
     "pinyin": "bā shàng",
     "pron_es": "bā shàng",
     "meaning": "yagami",
-    "category": "Básico",
-    "occ": 1
-  },
-  {
-    "term": "学",
-    "pinyin": "xué",
-    "pron_es": "shué",
-    "meaning": "estudiar",
-    "category": "Verbos/Acciones",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3804,7 +5044,7 @@
     "pinyin": "xí",
     "pron_es": "shí",
     "meaning": "hábito",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3812,7 +5052,7 @@
     "pinyin": "shí",
     "pron_es": "shí",
     "meaning": "hora",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3820,15 +5060,7 @@
     "pinyin": "zhōu mò",
     "pron_es": "yōu mò",
     "meaning": "fin de semana",
-    "category": "Básico",
-    "occ": 1
-  },
-  {
-    "term": "修车",
-    "pinyin": "xiū chē",
-    "pron_es": "shiū tshē",
-    "meaning": "reparar auto",
-    "category": "Básico",
+    "category": "Tiempo/Calendario",
     "occ": 1
   },
   {
@@ -3836,7 +5068,7 @@
     "pinyin": "diàn",
     "pron_es": "diàn",
     "meaning": "comercio",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3844,15 +5076,15 @@
     "pinyin": "jì gōng",
     "pron_es": "yì gōng",
     "meaning": "mecánico",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
     "term": "贞",
     "pinyin": "zhēn",
     "pron_es": "yēn",
-    "meaning": "Castidad",
-    "category": "Básico",
+    "meaning": "castidad",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3860,7 +5092,7 @@
     "pinyin": "yíng kǒu",
     "pron_es": "yíng kǒu",
     "meaning": "Yingkóu",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3868,7 +5100,7 @@
     "pinyin": "qī diǎn",
     "pron_es": "tshī diǎn",
     "meaning": "siete en punto",
-    "category": "Básico",
+    "category": "Tiempo/Calendario",
     "occ": 1
   },
   {
@@ -3876,7 +5108,7 @@
     "pinyin": "zuó tiān zǎo shàng",
     "pron_es": "dzuó tiān dzǎo shàng",
     "meaning": "ayer por la mañana",
-    "category": "Sustantivos/Conceptos",
+    "category": "Tiempo/Calendario",
     "occ": 1
   },
   {
@@ -3884,7 +5116,7 @@
     "pinyin": "shǒu shàng",
     "pron_es": "shǒu shàng",
     "meaning": "en la mano",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3892,15 +5124,7 @@
     "pinyin": "shuǐ dìng",
     "pron_es": "shuǐ dìng",
     "meaning": "Shuiding",
-    "category": "Básico",
-    "occ": 1
-  },
-  {
-    "term": "少",
-    "pinyin": "shǎo",
-    "pron_es": "shǎo",
-    "meaning": "pocos",
-    "category": "Básico",
+    "category": "Comida/Bebida",
     "occ": 1
   },
   {
@@ -3908,7 +5132,7 @@
     "pinyin": "měi",
     "pron_es": "měi",
     "meaning": "Cada",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3916,15 +5140,7 @@
     "pinyin": "sān yī",
     "pron_es": "sān yī",
     "meaning": "Trinidad",
-    "category": "Básico",
-    "occ": 1
-  },
-  {
-    "term": "能",
-    "pinyin": "néng",
-    "pron_es": "néng",
-    "meaning": "capaz",
-    "category": "Básico",
+    "category": "Números",
     "occ": 1
   },
   {
@@ -3932,7 +5148,7 @@
     "pinyin": "zài shǒu",
     "pron_es": "dzài shǒu",
     "meaning": "en la mano",
-    "category": "Básico",
+    "category": "Verbos/Acciones",
     "occ": 1
   },
   {
@@ -3940,15 +5156,7 @@
     "pinyin": "wài jiāo bù",
     "pron_es": "wài yiāo bù",
     "meaning": "Ministerio de Asuntos Exteriores",
-    "category": "Sustantivos/Conceptos",
-    "occ": 1
-  },
-  {
-    "term": "已经",
-    "pinyin": "yǐ jīng",
-    "pron_es": "yǐ yīng",
-    "meaning": "ya",
-    "category": "Básico",
+    "category": "Expresiones cortas",
     "occ": 1
   },
   {
@@ -3980,15 +5188,7 @@
     "pinyin": "ài lín",
     "pron_es": "ài lín",
     "meaning": "Ai Lin",
-    "category": "Básico",
-    "occ": 1
-  },
-  {
-    "term": "复习",
-    "pinyin": "fù xí",
-    "pron_es": "fù shí",
-    "meaning": "revisar",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -3996,7 +5196,7 @@
     "pinyin": "yòu",
     "pron_es": "yòu",
     "meaning": "de nuevo",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4004,7 +5204,7 @@
     "pinyin": "yǐ",
     "pron_es": "yǐ",
     "meaning": "por",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4012,7 +5212,7 @@
     "pinyin": "chéng shī",
     "pron_es": "tshéng shī",
     "meaning": "Ingeniero",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4028,7 +5228,7 @@
     "pinyin": "xiū lǐ diàn",
     "pron_es": "shiū lǐ diàn",
     "meaning": "taller de reparaciones",
-    "category": "Sustantivos/Conceptos",
+    "category": "Expresiones cortas",
     "occ": 1
   },
   {
@@ -4044,7 +5244,7 @@
     "pinyin": "yáo àn",
     "pron_es": "yáo àn",
     "meaning": "caja del horno",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4052,7 +5252,7 @@
     "pinyin": "gōng chéng shī",
     "pron_es": "gōng tshéng shī",
     "meaning": "ingeniero",
-    "category": "Sustantivos/Conceptos",
+    "category": "Expresiones cortas",
     "occ": 1
   },
   {
@@ -4060,7 +5260,7 @@
     "pinyin": "gōng wén bāo",
     "pron_es": "gōng wén bāo",
     "meaning": "maletín",
-    "category": "Sustantivos/Conceptos",
+    "category": "Expresiones cortas",
     "occ": 1
   },
   {
@@ -4068,7 +5268,7 @@
     "pinyin": "pí bāo",
     "pron_es": "pí bāo",
     "meaning": "bolso de cuero",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4076,7 +5276,7 @@
     "pinyin": "huáng",
     "pron_es": "huáng",
     "meaning": "Emperador",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4084,7 +5284,7 @@
     "pinyin": "wǔ",
     "pron_es": "wǔ",
     "meaning": "Wu",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4092,7 +5292,7 @@
     "pinyin": "shàng zhōu mò",
     "pron_es": "shàng yōu mò",
     "meaning": "el fin de semana pasado",
-    "category": "Sustantivos/Conceptos",
+    "category": "Tiempo/Calendario",
     "occ": 1
   },
   {
@@ -4100,7 +5300,7 @@
     "pinyin": "gōng kè",
     "pron_es": "gōng kè",
     "meaning": "captura",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4108,7 +5308,7 @@
     "pinyin": "bān",
     "pron_es": "bān",
     "meaning": "lugar",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4116,7 +5316,7 @@
     "pinyin": "zāi",
     "pron_es": "dzāi",
     "meaning": "desastre",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4124,7 +5324,7 @@
     "pinyin": "zěn",
     "pron_es": "dzěn",
     "meaning": "Cómo",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4132,7 +5332,7 @@
     "pinyin": "hái",
     "pron_es": "hái",
     "meaning": "devolver",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4140,7 +5340,7 @@
     "pinyin": "shén hé",
     "pron_es": "shén hé",
     "meaning": "incluso",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4148,7 +5348,7 @@
     "pinyin": "jīng dǎng",
     "pron_es": "yīng dǎng",
     "meaning": "Partido Económico",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4156,15 +5356,15 @@
     "pinyin": "huà huà",
     "pron_es": "huà huà",
     "meaning": "dibujar",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
     "term": "者",
     "pinyin": "zhě",
     "pron_es": "yě",
-    "meaning": "OMS",
-    "category": "Básico",
+    "meaning": "quién",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4172,7 +5372,7 @@
     "pinyin": "yī shǒu gē",
     "pron_es": "yī shǒu gē",
     "meaning": "una cancion",
-    "category": "Sustantivos/Conceptos",
+    "category": "Expresiones cortas",
     "occ": 1
   },
   {
@@ -4180,7 +5380,7 @@
     "pinyin": "fú lā",
     "pron_es": "fú lā",
     "meaning": "Fray",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4188,7 +5388,7 @@
     "pinyin": "běn běn",
     "pron_es": "běn běn",
     "meaning": "cuadernos",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4196,7 +5396,7 @@
     "pinyin": "èr běn",
     "pron_es": "èr běn",
     "meaning": "dos libros",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4204,7 +5404,7 @@
     "pinyin": "yī bā",
     "pron_es": "yī bā",
     "meaning": "Dieciocho",
-    "category": "Básico",
+    "category": "Números",
     "occ": 1
   },
   {
@@ -4212,7 +5412,7 @@
     "pinyin": "gē shǒu",
     "pron_es": "gē shǒu",
     "meaning": "cantante",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4220,7 +5420,7 @@
     "pinyin": "tiáo",
     "pron_es": "tiáo",
     "meaning": "banda",
-    "category": "Básico",
+    "category": "Clasificadores",
     "occ": 1
   },
   {
@@ -4228,7 +5428,7 @@
     "pinyin": "jīng",
     "pron_es": "yīng",
     "meaning": "a través de",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4236,7 +5436,7 @@
     "pinyin": "zuì",
     "pron_es": "dzuì",
     "meaning": "mayoría",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4244,7 +5444,7 @@
     "pinyin": "hé",
     "pron_es": "hé",
     "meaning": "caja",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4252,15 +5452,7 @@
     "pinyin": "zhàn jiā",
     "pron_es": "yàn yiā",
     "meaning": "Estación de inicio",
-    "category": "Básico",
-    "occ": 1
-  },
-  {
-    "term": "后",
-    "pinyin": "hòu",
-    "pron_es": "hòu",
-    "meaning": "atrás",
-    "category": "Básico",
+    "category": "Lugares",
     "occ": 1
   },
   {
@@ -4268,7 +5460,7 @@
     "pinyin": "wǔ xiǎo shí",
     "pron_es": "wǔ shiǎo shí",
     "meaning": "cinco horas",
-    "category": "Adjetivos",
+    "category": "Tiempo/Calendario",
     "occ": 1
   },
   {
@@ -4276,7 +5468,7 @@
     "pinyin": "shí wǔ",
     "pron_es": "shí wǔ",
     "meaning": "quince",
-    "category": "Básico",
+    "category": "Números",
     "occ": 1
   },
   {
@@ -4284,7 +5476,7 @@
     "pinyin": "yī quán",
     "pron_es": "yī tshuán",
     "meaning": "Yiquan",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4292,15 +5484,7 @@
     "pinyin": "shùn",
     "pron_es": "shùn",
     "meaning": "Rehuir",
-    "category": "Básico",
-    "occ": 1
-  },
-  {
-    "term": "必",
-    "pinyin": "bì",
-    "pron_es": "bì",
-    "meaning": "debe",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4308,7 +5492,7 @@
     "pinyin": "mó tuō chē",
     "pron_es": "mó tuō tshē",
     "meaning": "motocicleta",
-    "category": "Sustantivos/Conceptos",
+    "category": "Expresiones cortas",
     "occ": 1
   },
   {
@@ -4316,7 +5500,7 @@
     "pinyin": "gè duō",
     "pron_es": "gè duō",
     "meaning": "Muchos",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4324,7 +5508,7 @@
     "pinyin": "yóu yǒng chí",
     "pron_es": "yóu yǒng tshí",
     "meaning": "piscina",
-    "category": "Sustantivos/Conceptos",
+    "category": "Expresiones cortas",
     "occ": 1
   },
   {
@@ -4332,7 +5516,7 @@
     "pinyin": "hé",
     "pron_es": "hé",
     "meaning": "río",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4340,7 +5524,7 @@
     "pinyin": "qǐ",
     "pron_es": "tshǐ",
     "meaning": "empresa",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4348,7 +5532,7 @@
     "pinyin": "bó wù guǎn",
     "pron_es": "bó wù guǎn",
     "meaning": "museo",
-    "category": "Sustantivos/Conceptos",
+    "category": "Expresiones cortas",
     "occ": 1
   },
   {
@@ -4356,7 +5540,7 @@
     "pinyin": "cháng chéng",
     "pron_es": "tsháng tshéng",
     "meaning": "Gran Muralla",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4364,7 +5548,7 @@
     "pinyin": "cān guān",
     "pron_es": "tsān guān",
     "meaning": "visita",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4372,7 +5556,7 @@
     "pinyin": "huǒ shān",
     "pron_es": "huǒ shān",
     "meaning": "volcán",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4380,7 +5564,7 @@
     "pinyin": "bài fǎng",
     "pron_es": "bài fǎng",
     "meaning": "visita",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4388,7 +5572,7 @@
     "pinyin": "fù mǔ",
     "pron_es": "fù mǔ",
     "meaning": "padres",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4404,7 +5588,7 @@
     "pinyin": "jiàn",
     "pron_es": "yiàn",
     "meaning": "piezas",
-    "category": "Básico",
+    "category": "Clasificadores",
     "occ": 1
   },
   {
@@ -4412,7 +5596,7 @@
     "pinyin": "shǒu biǎo",
     "pron_es": "shǒu biǎo",
     "meaning": "mirar",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4420,7 +5604,7 @@
     "pinyin": "dài",
     "pron_es": "dài",
     "meaning": "Tener puesto",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4428,7 +5612,7 @@
     "pinyin": "yǎn jìng",
     "pron_es": "yǎn yìng",
     "meaning": "Anteojos",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4436,7 +5620,7 @@
     "pinyin": "mò jìng",
     "pron_es": "mò yìng",
     "meaning": "gafas de sol",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4444,7 +5628,7 @@
     "pinyin": "shǒu zhuó",
     "pron_es": "shǒu yuó",
     "meaning": "pulsera",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4452,7 +5636,7 @@
     "pinyin": "chūn xià qiū dōng",
     "pron_es": "tshūn shià tshiū dōng",
     "meaning": "Primavera, verano, otoño e invierno.",
-    "category": "Sustantivos/Conceptos",
+    "category": "Expresiones cortas",
     "occ": 1
   },
   {
@@ -4460,15 +5644,7 @@
     "pinyin": "xīng qī wǔ",
     "pron_es": "shīng tshī wǔ",
     "meaning": "Viernes",
-    "category": "Sustantivos/Conceptos",
-    "occ": 1
-  },
-  {
-    "term": "好看",
-    "pinyin": "hǎo kàn",
-    "pron_es": "hǎo kàn",
-    "meaning": "lindo",
-    "category": "Verbos/Acciones",
+    "category": "Tiempo/Calendario",
     "occ": 1
   },
   {
@@ -4492,7 +5668,7 @@
     "pinyin": "chuān",
     "pron_es": "tshuān",
     "meaning": "tener puesto",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4500,7 +5676,7 @@
     "pinyin": "hěn shuài",
     "pron_es": "hěn shuài",
     "meaning": "muy guapo",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4508,7 +5684,7 @@
     "pinyin": "wáng",
     "pron_es": "wáng",
     "meaning": "rey",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4516,7 +5692,7 @@
     "pinyin": "jī",
     "pron_es": "yī",
     "meaning": "golpear",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4524,7 +5700,7 @@
     "pinyin": "guó guāng",
     "pron_es": "guó guāng",
     "meaning": "guoguang",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4532,7 +5708,7 @@
     "pinyin": "yán jiū",
     "pron_es": "yán yiū",
     "meaning": "Investigación",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4540,7 +5716,7 @@
     "pinyin": "shí yàn",
     "pron_es": "shí yàn",
     "meaning": "experimento",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4548,7 +5724,7 @@
     "pinyin": "fàn shòu",
     "pron_es": "fàn shòu",
     "meaning": "Comidas a la venta",
-    "category": "Básico",
+    "category": "Comida/Bebida",
     "occ": 1
   },
   {
@@ -4556,7 +5732,7 @@
     "pinyin": "xìn",
     "pron_es": "shìn",
     "meaning": "carta",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4564,7 +5740,7 @@
     "pinyin": "zhǐ jiǎ",
     "pron_es": "yǐ yiǎ",
     "meaning": "clavo",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4572,7 +5748,7 @@
     "pinyin": "kǎn",
     "pron_es": "kǎn",
     "meaning": "cortar",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4580,15 +5756,7 @@
     "pinyin": "shù",
     "pron_es": "shù",
     "meaning": "Árbol",
-    "category": "Básico",
-    "occ": 1
-  },
-  {
-    "term": "用",
-    "pinyin": "yòng",
-    "pron_es": "yòng",
-    "meaning": "usar",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4596,7 +5764,7 @@
     "pinyin": "jiǎn dāo",
     "pron_es": "yiǎn dāo",
     "meaning": "Tijeras",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4604,7 +5772,7 @@
     "pinyin": "lǐ fà diàn",
     "pron_es": "lǐ fà diàn",
     "meaning": "peluquería",
-    "category": "Sustantivos/Conceptos",
+    "category": "Expresiones cortas",
     "occ": 1
   },
   {
@@ -4612,7 +5780,7 @@
     "pinyin": "liǎng fēn zhōng",
     "pron_es": "liǎng fēn yōng",
     "meaning": "dos minutos",
-    "category": "Sustantivos/Conceptos",
+    "category": "Tiempo/Calendario",
     "occ": 1
   },
   {
@@ -4620,7 +5788,7 @@
     "pinyin": "wèi shén",
     "pron_es": "wèi shén",
     "meaning": "por qué",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4628,15 +5796,7 @@
     "pinyin": "sī niàn",
     "pron_es": "sī niàn",
     "meaning": "extrañar",
-    "category": "Básico",
-    "occ": 1
-  },
-  {
-    "term": "计划",
-    "pinyin": "jì huà",
-    "pron_es": "yì huà",
-    "meaning": "plan",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4644,7 +5804,7 @@
     "pinyin": "duō jīng",
     "pron_es": "duō yīng",
     "meaning": "Muchas veces",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4652,7 +5812,7 @@
     "pinyin": "gǒu",
     "pron_es": "gǒu",
     "meaning": "perro",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4660,7 +5820,7 @@
     "pinyin": "dài huì er",
     "pron_es": "dài huì er",
     "meaning": "más tarde",
-    "category": "Sustantivos/Conceptos",
+    "category": "Verbos/Acciones",
     "occ": 1
   },
   {
@@ -4668,7 +5828,7 @@
     "pinyin": "fēi zhōu",
     "pron_es": "fēi yōu",
     "meaning": "África",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4676,7 +5836,7 @@
     "pinyin": "dòng wù",
     "pron_es": "dòng wù",
     "meaning": "animal",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4696,27 +5856,11 @@
     "occ": 1
   },
   {
-    "term": "贵",
-    "pinyin": "guì",
-    "pron_es": "guì",
-    "meaning": "caro",
-    "category": "Básico",
-    "occ": 1
-  },
-  {
     "term": "店文课",
     "pinyin": "diàn wén kè",
     "pron_es": "diàn wén kè",
     "meaning": "Tienda de clase de literatura.",
-    "category": "Sustantivos/Conceptos",
-    "occ": 1
-  },
-  {
-    "term": "应该",
-    "pinyin": "yīng gāi",
-    "pron_es": "yīng gāi",
-    "meaning": "debería",
-    "category": "Básico",
+    "category": "Estudio/Trabajo",
     "occ": 1
   },
   {
@@ -4724,15 +5868,7 @@
     "pinyin": "chāng",
     "pron_es": "tshāng",
     "meaning": "chang",
-    "category": "Básico",
-    "occ": 1
-  },
-  {
-    "term": "如",
-    "pinyin": "rú",
-    "pron_es": "rú",
-    "meaning": "como",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4740,55 +5876,7 @@
     "pinyin": "rú cǎi",
     "pron_es": "rú tsǎi",
     "meaning": "Rucai",
-    "category": "Básico",
-    "occ": 1
-  },
-  {
-    "term": "超市",
-    "pinyin": "chāo shì",
-    "pron_es": "tshāo shì",
-    "meaning": "supermercado",
-    "category": "Básico",
-    "occ": 1
-  },
-  {
-    "term": "偶尔",
-    "pinyin": "ǒu ěr",
-    "pron_es": "ǒu ěr",
-    "meaning": "Ocasionalmente",
-    "category": "Básico",
-    "occ": 1
-  },
-  {
-    "term": "知道",
-    "pinyin": "zhī dào",
-    "pron_es": "yī dào",
-    "meaning": "Saber",
-    "category": "Básico",
-    "occ": 1
-  },
-  {
-    "term": "这些",
-    "pinyin": "zhè xiē",
-    "pron_es": "yè shiē",
-    "meaning": "Estos",
-    "category": "Básico",
-    "occ": 1
-  },
-  {
-    "term": "意思",
-    "pinyin": "yì si",
-    "pron_es": "yì si",
-    "meaning": "significar",
-    "category": "Básico",
-    "occ": 1
-  },
-  {
-    "term": "认识",
-    "pinyin": "rèn shí",
-    "pron_es": "rèn shí",
-    "meaning": "saber",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4796,7 +5884,7 @@
     "pinyin": "guó guó",
     "pron_es": "guó guó",
     "meaning": "país país",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4804,7 +5892,7 @@
     "pinyin": "xiāng kè",
     "pron_es": "shiāng kè",
     "meaning": "Incompatibles entre sí",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4812,15 +5900,7 @@
     "pinyin": "zhèng fǔ",
     "pron_es": "yèng fǔ",
     "meaning": "gobierno",
-    "category": "Básico",
-    "occ": 1
-  },
-  {
-    "term": "每个",
-    "pinyin": "měi gè",
-    "pron_es": "měi gè",
-    "meaning": "cada",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4828,7 +5908,7 @@
     "pinyin": "niǔ yuē",
     "pron_es": "niǔ yuē",
     "meaning": "Nueva York",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4836,7 +5916,7 @@
     "pinyin": "wěi nèi ruì lā",
     "pron_es": "wěi nèi ruì lā",
     "meaning": "Venezuela",
-    "category": "Sustantivos/Conceptos",
+    "category": "Expresiones cortas",
     "occ": 1
   },
   {
@@ -4844,7 +5924,7 @@
     "pinyin": "sān nián",
     "pron_es": "sān nián",
     "meaning": "tres años",
-    "category": "Básico",
+    "category": "Tiempo/Calendario",
     "occ": 1
   },
   {
@@ -4852,7 +5932,7 @@
     "pinyin": "xiǎo shí hòu",
     "pron_es": "shiǎo shí hòu",
     "meaning": "infancia",
-    "category": "Adjetivos",
+    "category": "Tiempo/Calendario",
     "occ": 1
   },
   {
@@ -4860,7 +5940,7 @@
     "pinyin": "méi",
     "pron_es": "méi",
     "meaning": "piezas",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4868,7 +5948,7 @@
     "pinyin": "kǎn",
     "pron_es": "kǎn",
     "meaning": "límite",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4876,7 +5956,7 @@
     "pinyin": "qiú",
     "pron_es": "tshiú",
     "meaning": "pelota",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4884,7 +5964,7 @@
     "pinyin": "yóu",
     "pron_es": "yóu",
     "meaning": "Depender de",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4892,7 +5972,7 @@
     "pinyin": "yuán",
     "pron_es": "yuán",
     "meaning": "jardín",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4900,7 +5980,7 @@
     "pinyin": "guó jiāo",
     "pron_es": "guó yiāo",
     "meaning": "Relaciones diplomáticas estatales",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4908,15 +5988,7 @@
     "pinyin": "tā jú",
     "pron_es": "tā yú",
     "meaning": "su juego",
-    "category": "Básico",
-    "occ": 1
-  },
-  {
-    "term": "语",
-    "pinyin": "yǔ",
-    "pron_es": "yǔ",
-    "meaning": "idioma",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4924,7 +5996,7 @@
     "pinyin": "shí shàng",
     "pron_es": "shí shàng",
     "meaning": "diez en adelante",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4932,15 +6004,7 @@
     "pinyin": "dài gěi",
     "pron_es": "dài gěi",
     "meaning": "reanimar",
-    "category": "Básico",
-    "occ": 1
-  },
-  {
-    "term": "多长时间",
-    "pinyin": "duō zhǎng shí jiān",
-    "pron_es": "duō yǎng shí yiān",
-    "meaning": "por cuánto tiempo",
-    "category": "Sustantivos/Conceptos",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4948,7 +6012,7 @@
     "pinyin": "yǔ sǎn",
     "pron_es": "yǔ sǎn",
     "meaning": "Paraguas",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4956,7 +6020,7 @@
     "pinyin": "gǎn lǎn qiú",
     "pron_es": "gǎn lǎn tshiú",
     "meaning": "fútbol americano",
-    "category": "Sustantivos/Conceptos",
+    "category": "Expresiones cortas",
     "occ": 1
   },
   {
@@ -4964,7 +6028,7 @@
     "pinyin": "dài shí bàn",
     "pron_es": "dài shí bàn",
     "meaning": "Trae diez compañeros",
-    "category": "Sustantivos/Conceptos",
+    "category": "Expresiones cortas",
     "occ": 1
   },
   {
@@ -4972,7 +6036,7 @@
     "pinyin": "guó lì",
     "pron_es": "guó lì",
     "meaning": "guoli",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4980,7 +6044,7 @@
     "pinyin": "quán quán",
     "pron_es": "tshuán tshuán",
     "meaning": "Completo",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -4988,15 +6052,55 @@
     "pinyin": "shēng shēng shēng",
     "pron_es": "shēng shēng shēng",
     "meaning": "vida y muerte",
-    "category": "Sustantivos/Conceptos",
+    "category": "Expresiones cortas",
     "occ": 1
   },
   {
-    "term": "包庄",
-    "pinyin": "bāo zhuāng",
-    "pron_es": "bāo yuāng",
-    "meaning": "Baozhuang",
-    "category": "Básico",
+    "term": "几号",
+    "pinyin": "jǐ hào",
+    "pron_es": "yǐ hào",
+    "meaning": "que fecha",
+    "category": "Tiempo/Calendario",
+    "occ": 1
+  },
+  {
+    "term": "瑟瑟",
+    "pinyin": "sè sè",
+    "pron_es": "sè sè",
+    "meaning": "Sese",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "硬",
+    "pinyin": "yìng",
+    "pron_es": "yìng",
+    "meaning": "duro",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "立",
+    "pinyin": "lì",
+    "pron_es": "lì",
+    "meaning": "pararse",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "瑟",
+    "pinyin": "sè",
+    "pron_es": "sè",
+    "meaning": "sí",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "二二下",
+    "pinyin": "èr èr xià",
+    "pron_es": "èr èr shià",
+    "meaning": "dos dos veces",
+    "category": "Expresiones cortas",
     "occ": 1
   },
   {
@@ -5004,7 +6108,7 @@
     "pinyin": "zhàn jú",
     "pron_es": "yàn yú",
     "meaning": "oficina de la estación",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -5012,7 +6116,7 @@
     "pinyin": "fáng zi",
     "pron_es": "fáng dzi",
     "meaning": "casa",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
     "occ": 1
   },
   {
@@ -5020,7 +6124,1183 @@
     "pinyin": "duō cì",
     "pron_es": "duō tsì",
     "meaning": "repetidamente",
-    "category": "Básico",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "至",
+    "pinyin": "zhì",
+    "pron_es": "yì",
+    "meaning": "a",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "题",
+    "pinyin": "tí",
+    "pron_es": "tí",
+    "meaning": "pregunta",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "白板",
+    "pinyin": "bái bǎn",
+    "pron_es": "bái bǎn",
+    "meaning": "pizarra",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "第二周",
+    "pinyin": "dì èr zhōu",
+    "pron_es": "dì èr yōu",
+    "meaning": "segunda semana",
+    "category": "Tiempo/Calendario",
+    "occ": 1
+  },
+  {
+    "term": "瑟信",
+    "pinyin": "sè xìn",
+    "pron_es": "sè shìn",
+    "meaning": "sexo",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "才",
+    "pinyin": "cái",
+    "pron_es": "tsái",
+    "meaning": "talento",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "知不知道",
+    "pinyin": "zhī bù zhī dào",
+    "pron_es": "yī bù yī dào",
+    "meaning": "Sabes",
+    "category": "Verbos/Acciones",
+    "occ": 1
+  },
+  {
+    "term": "他人",
+    "pinyin": "tā rén",
+    "pron_es": "tā rén",
+    "meaning": "otros",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "节",
+    "pinyin": "jié",
+    "pron_es": "yié",
+    "meaning": "Festival",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "人们",
+    "pinyin": "rén men",
+    "pron_es": "rén men",
+    "meaning": "gente",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "尤其",
+    "pinyin": "yóu qí",
+    "pron_es": "yóu tshí",
+    "meaning": "especialmente",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "武器",
+    "pinyin": "wǔ qì",
+    "pron_es": "wǔ tshì",
+    "meaning": "brazos",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "植物",
+    "pinyin": "zhí wù",
+    "pron_es": "yí wù",
+    "meaning": "planta",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "大部分",
+    "pinyin": "dà bù fèn",
+    "pron_es": "dà bù fèn",
+    "meaning": "mayoría",
+    "category": "Tiempo/Calendario",
+    "occ": 1
+  },
+  {
+    "term": "文化",
+    "pinyin": "wén huà",
+    "pron_es": "wén huà",
+    "meaning": "cultura",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "方式",
+    "pinyin": "fāng shì",
+    "pron_es": "fāng shì",
+    "meaning": "Forma",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "就是",
+    "pinyin": "jiù shì",
+    "pron_es": "yiù shì",
+    "meaning": "eso es",
+    "category": "Verbos/Acciones",
+    "occ": 1
+  },
+  {
+    "term": "身边",
+    "pinyin": "shēn biān",
+    "pron_es": "shēn biān",
+    "meaning": "alrededor",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "等等",
+    "pinyin": "děng děng",
+    "pron_es": "děng děng",
+    "meaning": "etc.",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "这样",
+    "pinyin": "zhè yàng",
+    "pron_es": "yè yàng",
+    "meaning": "entonces",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "性秋",
+    "pinyin": "xìng qiū",
+    "pron_es": "shìng tshiū",
+    "meaning": "Xingqiu",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "快乐",
+    "pinyin": "kuài lè",
+    "pron_es": "kuài lè",
+    "meaning": "felicidad",
+    "category": "Adjetivos",
+    "occ": 1
+  },
+  {
+    "term": "笑一笑",
+    "pinyin": "xiào yī xiào",
+    "pron_es": "shiào yī shiào",
+    "meaning": "sonrisa",
+    "category": "Expresiones cortas",
+    "occ": 1
+  },
+  {
+    "term": "十年",
+    "pinyin": "shí nián",
+    "pron_es": "shí nián",
+    "meaning": "diez años",
+    "category": "Tiempo/Calendario",
+    "occ": 1
+  },
+  {
+    "term": "医药费",
+    "pinyin": "yī yào fèi",
+    "pron_es": "yī yào fèi",
+    "meaning": "gastos medicos",
+    "category": "Expresiones cortas",
+    "occ": 1
+  },
+  {
+    "term": "水费",
+    "pinyin": "shuǐ fèi",
+    "pron_es": "shuǐ fèi",
+    "meaning": "factura de agua",
+    "category": "Comida/Bebida",
+    "occ": 1
+  },
+  {
+    "term": "福广",
+    "pinyin": "fú guǎng",
+    "pron_es": "fú guǎng",
+    "meaning": "Fu Guang",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "上士",
+    "pinyin": "shàng shì",
+    "pron_es": "shàng shì",
+    "meaning": "sargento",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "筷",
+    "pinyin": "kuài",
+    "pron_es": "kuài",
+    "meaning": "palillos",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "税",
+    "pinyin": "shuì",
+    "pron_es": "shuì",
+    "meaning": "Impuesto",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "人文",
+    "pinyin": "rén wén",
+    "pron_es": "rén wén",
+    "meaning": "Humanidades",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "大士",
+    "pinyin": "dà shì",
+    "pron_es": "dà shì",
+    "meaning": "tuas",
+    "category": "Adjetivos",
+    "occ": 1
+  },
+  {
+    "term": "生",
+    "pinyin": "shēng",
+    "pron_es": "shēng",
+    "meaning": "nacido",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "买车",
+    "pinyin": "mǎi chē",
+    "pron_es": "mǎi tshē",
+    "meaning": "comprar un auto",
+    "category": "Verbos/Acciones",
+    "occ": 1
+  },
+  {
+    "term": "每学期",
+    "pinyin": "měi xué qī",
+    "pron_es": "měi shué tshī",
+    "meaning": "cada semestre",
+    "category": "Verbos/Acciones",
+    "occ": 1
+  },
+  {
+    "term": "开始",
+    "pinyin": "kāi shǐ",
+    "pron_es": "kāi shǐ",
+    "meaning": "comenzar",
+    "category": "Verbos/Acciones",
+    "occ": 1
+  },
+  {
+    "term": "还好",
+    "pinyin": "hái hǎo",
+    "pron_es": "hái hǎo",
+    "meaning": "bien",
+    "category": "Adjetivos",
+    "occ": 1
+  },
+  {
+    "term": "山上",
+    "pinyin": "shān shàng",
+    "pron_es": "shān shàng",
+    "meaning": "montaña",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "疑问句",
+    "pinyin": "yí wèn jù",
+    "pron_es": "yí wèn yù",
+    "meaning": "oración interrogativa",
+    "category": "Verbos/Acciones",
+    "occ": 1
+  },
+  {
+    "term": "电影片",
+    "pinyin": "diàn yǐng piān",
+    "pron_es": "diàn yǐng piān",
+    "meaning": "película",
+    "category": "Expresiones cortas",
+    "occ": 1
+  },
+  {
+    "term": "张票",
+    "pinyin": "zhāng piào",
+    "pron_es": "yāng piào",
+    "meaning": "boleto",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "机",
+    "pinyin": "jī",
+    "pron_es": "yī",
+    "meaning": "máquina",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "大前天",
+    "pinyin": "dà qián tiān",
+    "pron_es": "dà tshián tiān",
+    "meaning": "anteayer",
+    "category": "Adjetivos",
+    "occ": 1
+  },
+  {
+    "term": "票",
+    "pinyin": "piào",
+    "pron_es": "piào",
+    "meaning": "boleto",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "喝酒",
+    "pinyin": "hē jiǔ",
+    "pron_es": "hē yiǔ",
+    "meaning": "beber vino",
+    "category": "Verbos/Acciones",
+    "occ": 1
+  },
+  {
+    "term": "付",
+    "pinyin": "fù",
+    "pron_es": "fù",
+    "meaning": "pagar",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "费",
+    "pinyin": "fèi",
+    "pron_es": "fèi",
+    "meaning": "tarifa",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "图",
+    "pinyin": "tú",
+    "pron_es": "tú",
+    "meaning": "imagen",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "山",
+    "pinyin": "shān",
+    "pron_es": "shān",
+    "meaning": "Montaña",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "遇",
+    "pinyin": "yù",
+    "pron_es": "yù",
+    "meaning": "encontrar",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "投资",
+    "pinyin": "tóu zī",
+    "pron_es": "tóu dzī",
+    "meaning": "invertir",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "称",
+    "pinyin": "chēng",
+    "pron_es": "tshēng",
+    "meaning": "decir",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "准备",
+    "pinyin": "zhǔn bèi",
+    "pron_es": "yǔn bèi",
+    "meaning": "Preparar",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "考试",
+    "pinyin": "kǎo shì",
+    "pron_es": "kǎo shì",
+    "meaning": "tomar un examen",
+    "category": "Estudio/Trabajo",
+    "occ": 1
+  },
+  {
+    "term": "全去",
+    "pinyin": "quán qù",
+    "pron_es": "tshuán tshù",
+    "meaning": "ir todo",
+    "category": "Verbos/Acciones",
+    "occ": 1
+  },
+  {
+    "term": "于",
+    "pinyin": "yú",
+    "pron_es": "yú",
+    "meaning": "En",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "宁",
+    "pinyin": "níng",
+    "pron_es": "níng",
+    "meaning": "bastante",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "一万元",
+    "pinyin": "yī wàn yuán",
+    "pron_es": "yī wàn yuán",
+    "meaning": "diez mil yuanes",
+    "category": "Expresiones cortas",
+    "occ": 1
+  },
+  {
+    "term": "吵",
+    "pinyin": "chǎo",
+    "pron_es": "tshǎo",
+    "meaning": "Disputa",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "开会",
+    "pinyin": "kāi huì",
+    "pron_es": "kāi huì",
+    "meaning": "reunión",
+    "category": "Verbos/Acciones",
+    "occ": 1
+  },
+  {
+    "term": "并",
+    "pinyin": "bìng",
+    "pron_es": "bìng",
+    "meaning": "y",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "教室",
+    "pinyin": "jiào shì",
+    "pron_es": "yiào shì",
+    "meaning": "aula",
+    "category": "Lugares",
+    "occ": 1
+  },
+  {
+    "term": "喜不喜欢",
+    "pinyin": "xǐ bù xǐ huān",
+    "pron_es": "shǐ bù shǐ huān",
+    "meaning": "te guste o no",
+    "category": "Verbos/Acciones",
+    "occ": 1
+  },
+  {
+    "term": "滑冰",
+    "pinyin": "huá bīng",
+    "pron_es": "huá bīng",
+    "meaning": "patinar",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "但",
+    "pinyin": "dàn",
+    "pron_es": "dàn",
+    "meaning": "pero",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "高兴",
+    "pinyin": "gāo xìng",
+    "pron_es": "gāo shìng",
+    "meaning": "Feliz",
+    "category": "Adjetivos",
+    "occ": 1
+  },
+  {
+    "term": "巧克力",
+    "pinyin": "qiǎo kè lì",
+    "pron_es": "tshiǎo kè lì",
+    "meaning": "chocolate",
+    "category": "Expresiones cortas",
+    "occ": 1
+  },
+  {
+    "term": "冰淇淋",
+    "pinyin": "bīng qí lín",
+    "pron_es": "bīng tshí lín",
+    "meaning": "helado",
+    "category": "Expresiones cortas",
+    "occ": 1
+  },
+  {
+    "term": "生日",
+    "pinyin": "shēng rì",
+    "pron_es": "shēng rì",
+    "meaning": "Cumpleaños",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "日期",
+    "pinyin": "rì qī",
+    "pron_es": "rì tshī",
+    "meaning": "fecha",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "高铁",
+    "pinyin": "gāo tiě",
+    "pron_es": "gāo tiě",
+    "meaning": "tren de alta velocidad",
+    "category": "Adjetivos",
+    "occ": 1
+  },
+  {
+    "term": "市中心",
+    "pinyin": "shì zhōng xīn",
+    "pron_es": "shì yōng shīn",
+    "meaning": "centro de la ciudad",
+    "category": "Expresiones cortas",
+    "occ": 1
+  },
+  {
+    "term": "附近",
+    "pinyin": "fù jìn",
+    "pron_es": "fù yìn",
+    "meaning": "cercano",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "括号",
+    "pinyin": "kuò hào",
+    "pron_es": "kuò hào",
+    "meaning": "paréntesis",
+    "category": "Tiempo/Calendario",
+    "occ": 1
+  },
+  {
+    "term": "词语",
+    "pinyin": "cí yǔ",
+    "pron_es": "tsí yǔ",
+    "meaning": "palabras",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "填裕",
+    "pinyin": "tián yù",
+    "pron_es": "tián yù",
+    "meaning": "llenar",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "野餐",
+    "pinyin": "yě cān",
+    "pron_es": "yě tsān",
+    "meaning": "picnic",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "银",
+    "pinyin": "yín",
+    "pron_es": "yín",
+    "meaning": "plata",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "举行",
+    "pinyin": "jǔ xíng",
+    "pron_es": "yǔ shíng",
+    "meaning": "sostener",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "记者",
+    "pinyin": "jì zhě",
+    "pron_es": "yì yě",
+    "meaning": "reportero",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "报纸",
+    "pinyin": "bào zhǐ",
+    "pron_es": "bào yǐ",
+    "meaning": "periódico",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "文章",
+    "pinyin": "wén zhāng",
+    "pron_es": "wén yāng",
+    "meaning": "artículo",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "疑问",
+    "pinyin": "yí wèn",
+    "pron_es": "yí wèn",
+    "meaning": "duda",
+    "category": "Verbos/Acciones",
+    "occ": 1
+  },
+  {
+    "term": "名",
+    "pinyin": "míng",
+    "pron_es": "míng",
+    "meaning": "nombre",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "国外",
+    "pinyin": "guó wài",
+    "pron_es": "guó wài",
+    "meaning": "extranjero",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "连词",
+    "pinyin": "lián cí",
+    "pron_es": "lián tsí",
+    "meaning": "conjunción",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "成名",
+    "pinyin": "chéng míng",
+    "pron_es": "tshéng míng",
+    "meaning": "hacerse famoso",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "形容词",
+    "pinyin": "xíng róng cí",
+    "pron_es": "shíng róng tsí",
+    "meaning": "adjetivo",
+    "category": "Expresiones cortas",
+    "occ": 1
+  },
+  {
+    "term": "斤",
+    "pinyin": "jīn",
+    "pron_es": "yīn",
+    "meaning": "malicioso",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "年",
+    "pinyin": "nián",
+    "pron_es": "nián",
+    "meaning": "Año",
+    "category": "Tiempo/Calendario",
+    "occ": 1
+  },
+  {
+    "term": "代词",
+    "pinyin": "dài cí",
+    "pron_es": "dài tsí",
+    "meaning": "pronombre",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "非常",
+    "pinyin": "fēi cháng",
+    "pron_es": "fēi tsháng",
+    "meaning": "Muy",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "太",
+    "pinyin": "tài",
+    "pron_es": "tài",
+    "meaning": "también",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "介词",
+    "pinyin": "jiè cí",
+    "pron_es": "yiè tsí",
+    "meaning": "preposición",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "反问句",
+    "pinyin": "fǎn wèn jù",
+    "pron_es": "fǎn wèn yù",
+    "meaning": "pregunta retórica",
+    "category": "Verbos/Acciones",
+    "occ": 1
+  },
+  {
+    "term": "预报",
+    "pinyin": "yù bào",
+    "pron_es": "yù bào",
+    "meaning": "pronóstico",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "学得",
+    "pinyin": "xué dé",
+    "pron_es": "shué dé",
+    "meaning": "aprendió",
+    "category": "Verbos/Acciones",
+    "occ": 1
+  },
+  {
+    "term": "蛋糕",
+    "pinyin": "dàn gāo",
+    "pron_es": "dàn gāo",
+    "meaning": "pastel",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "学好",
+    "pinyin": "xué hǎo",
+    "pron_es": "shué hǎo",
+    "meaning": "aprende bien",
+    "category": "Verbos/Acciones",
+    "occ": 1
+  },
+  {
+    "term": "不会",
+    "pinyin": "bú huì",
+    "pron_es": "bú huì",
+    "meaning": "No",
+    "category": "Verbos/Acciones",
+    "occ": 1
+  },
+  {
+    "term": "没带",
+    "pinyin": "méi dài",
+    "pron_es": "méi dài",
+    "meaning": "no lo traje",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "打游戏",
+    "pinyin": "dǎ yóu xì",
+    "pron_es": "dǎ yóu shì",
+    "meaning": "jugar juegos",
+    "category": "Expresiones cortas",
+    "occ": 1
+  },
+  {
+    "term": "我学得",
+    "pinyin": "wǒ xué dé",
+    "pron_es": "wǒ shué dé",
+    "meaning": "puedo aprender",
+    "category": "Verbos/Acciones",
+    "occ": 1
+  },
+  {
+    "term": "看书",
+    "pinyin": "kàn shū",
+    "pron_es": "kàn shū",
+    "meaning": "leer un libro",
+    "category": "Verbos/Acciones",
+    "occ": 1
+  },
+  {
+    "term": "工",
+    "pinyin": "gōng",
+    "pron_es": "gōng",
+    "meaning": "trabajar",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "能会",
+    "pinyin": "néng huì",
+    "pron_es": "néng huì",
+    "meaning": "Poder",
+    "category": "Verbos/Acciones",
+    "occ": 1
+  },
+  {
+    "term": "吃水果",
+    "pinyin": "chī shuǐ guǒ",
+    "pron_es": "tshī shuǐ guǒ",
+    "meaning": "comer fruta",
+    "category": "Comida/Bebida",
+    "occ": 1
+  },
+  {
+    "term": "我人要",
+    "pinyin": "wǒ rén yào",
+    "pron_es": "wǒ rén yào",
+    "meaning": "lo quiero",
+    "category": "Verbos/Acciones",
+    "occ": 1
+  },
+  {
+    "term": "田",
+    "pinyin": "tián",
+    "pron_es": "tián",
+    "meaning": "campo",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "周未",
+    "pinyin": "zhōu wèi",
+    "pron_es": "yōu wèi",
+    "meaning": "Fin de semana",
+    "category": "Tiempo/Calendario",
+    "occ": 1
+  },
+  {
+    "term": "多角",
+    "pinyin": "duō jiǎo",
+    "pron_es": "duō yiǎo",
+    "meaning": "Poligonal",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "体息",
+    "pinyin": "tǐ xī",
+    "pron_es": "tǐ shī",
+    "meaning": "aliento",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "十分钟",
+    "pinyin": "shí fēn zhōng",
+    "pron_es": "shí fēn yōng",
+    "meaning": "diez minutos",
+    "category": "Tiempo/Calendario",
+    "occ": 1
+  },
+  {
+    "term": "少儿",
+    "pinyin": "shào ér",
+    "pron_es": "shào ér",
+    "meaning": "niños",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "和色",
+    "pinyin": "hé sè",
+    "pron_es": "hé sè",
+    "meaning": "Armonía",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "填",
+    "pinyin": "tián",
+    "pron_es": "tián",
+    "meaning": "llenar",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "很入",
+    "pinyin": "hěn rù",
+    "pron_es": "hěn rù",
+    "meaning": "muy interesante",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "询问",
+    "pinyin": "xún wèn",
+    "pron_es": "shún wèn",
+    "meaning": "preguntar",
+    "category": "Verbos/Acciones",
+    "occ": 1
+  },
+  {
+    "term": "口重",
+    "pinyin": "kǒu zhòng",
+    "pron_es": "kǒu yòng",
+    "meaning": "boca pesada",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "司伸",
+    "pinyin": "sī shēn",
+    "pron_es": "sī shēn",
+    "meaning": "Si Shin",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "种菜",
+    "pinyin": "zhòng cài",
+    "pron_es": "yòng tsài",
+    "meaning": "Cultivo de hortalizas",
+    "category": "Comida/Bebida",
+    "occ": 1
+  },
+  {
+    "term": "会早",
+    "pinyin": "huì zǎo",
+    "pron_es": "huì dzǎo",
+    "meaning": "llegará temprano",
+    "category": "Verbos/Acciones",
+    "occ": 1
+  },
+  {
+    "term": "假期",
+    "pinyin": "jià qī",
+    "pron_es": "yià tshī",
+    "meaning": "día festivo",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "它",
+    "pinyin": "tā",
+    "pron_es": "tā",
+    "meaning": "él",
+    "category": "Pronombres",
+    "occ": 1
+  },
+  {
+    "term": "长",
+    "pinyin": "zhǎng",
+    "pron_es": "yǎng",
+    "meaning": "largo",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "各",
+    "pinyin": "gè",
+    "pron_es": "gè",
+    "meaning": "cada",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "丑",
+    "pinyin": "chǒu",
+    "pron_es": "tshǒu",
+    "meaning": "feo",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "一本",
+    "pinyin": "yī běn",
+    "pron_es": "yī běn",
+    "meaning": "un libro",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "这辆",
+    "pinyin": "zhè liàng",
+    "pron_es": "yè liàng",
+    "meaning": "este auto",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "车新",
+    "pinyin": "chē xīn",
+    "pron_es": "tshē shīn",
+    "meaning": "Che Xin",
+    "category": "Adjetivos",
+    "occ": 1
+  },
+  {
+    "term": "部手机",
+    "pinyin": "bù shǒu jī",
+    "pron_es": "bù shǒu yī",
+    "meaning": "teléfono móvil",
+    "category": "Expresiones cortas",
+    "occ": 1
+  },
+  {
+    "term": "旧衣服",
+    "pinyin": "jiù yī fú",
+    "pron_es": "yiù yī fú",
+    "meaning": "ropa vieja",
+    "category": "Adjetivos",
+    "occ": 1
+  },
+  {
+    "term": "更贵",
+    "pinyin": "gèng guì",
+    "pron_es": "gèng guì",
+    "meaning": "mas caro",
+    "category": "Adjetivos",
+    "occ": 1
+  },
+  {
+    "term": "中餐",
+    "pinyin": "zhōng cān",
+    "pron_es": "yōng tsān",
+    "meaning": "comida china",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "更好",
+    "pinyin": "gèng hǎo",
+    "pron_es": "gèng hǎo",
+    "meaning": "mejor",
+    "category": "Adjetivos",
+    "occ": 1
+  },
+  {
+    "term": "电视节目",
+    "pinyin": "diàn shì jié mù",
+    "pron_es": "diàn shì yié mù",
+    "meaning": "programa de televisión",
+    "category": "Expresiones cortas",
+    "occ": 1
+  },
+  {
+    "term": "墨西哥",
+    "pinyin": "mò xī gē",
+    "pron_es": "mò shī gē",
+    "meaning": "México",
+    "category": "Expresiones cortas",
+    "occ": 1
+  },
+  {
+    "term": "辣",
+    "pinyin": "là",
+    "pron_es": "là",
+    "meaning": "caliente",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "所有物",
+    "pinyin": "suǒ yǒu wù",
+    "pron_es": "suǒ yǒu wù",
+    "meaning": "posesiones",
+    "category": "Verbos/Acciones",
+    "occ": 1
+  },
+  {
+    "term": "小狗",
+    "pinyin": "xiǎo gǒu",
+    "pron_es": "shiǎo gǒu",
+    "meaning": "cachorro",
+    "category": "Adjetivos",
+    "occ": 1
+  },
+  {
+    "term": "晚餐",
+    "pinyin": "wǎn cān",
+    "pron_es": "wǎn tsān",
+    "meaning": "cena",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "很大",
+    "pinyin": "hěn dà",
+    "pron_es": "hěn dà",
+    "meaning": "muy grande",
+    "category": "Adjetivos",
+    "occ": 1
+  },
+  {
+    "term": "桌子",
+    "pinyin": "zhuō zi",
+    "pron_es": "yuō dzi",
+    "meaning": "mesa",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "一件",
+    "pinyin": "yī jiàn",
+    "pron_es": "yī yiàn",
+    "meaning": "una pieza",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "女孩",
+    "pinyin": "nǚ hái",
+    "pron_es": "nǚ hái",
+    "meaning": "chica",
+    "category": "Sustantivos/Objetos",
+    "occ": 1
+  },
+  {
+    "term": "什么样",
+    "pinyin": "shén me yàng",
+    "pron_es": "shén me yàng",
+    "meaning": "que tipo",
+    "category": "Expresiones cortas",
+    "occ": 1
+  },
+  {
+    "term": "戈买",
+    "pinyin": "gē mǎi",
+    "pron_es": "gē mǎi",
+    "meaning": "gomai",
+    "category": "Verbos/Acciones",
     "occ": 1
   }
 ]
